@@ -1,0 +1,30 @@
+name: Refresh StatsCan Data
+on:
+  schedule:
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests
+      - name: Pull fresh data
+        run: python pull_data.py
+      - name: Clean data
+        run: python clean_data.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add clean/
+          git commit -m "Refresh StatsCan data" || echo "No changes to commit"
+          git push origin main
