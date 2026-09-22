@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+# Raw StatCan data
+data/
+# Python cache
+__pycache__/
+*.pyc
+# Environment/secrets
+.env
+# VS Code
+.vscode/

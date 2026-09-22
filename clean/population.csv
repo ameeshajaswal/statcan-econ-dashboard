@@ -1,0 +1,4064 @@
+date,geography,indicator,value
+1946-01,Canada,Population,12188000
+1946-04,Canada,Population,12241000
+1946-07,Canada,Population,12316000
+1946-10,Canada,Population,12393000
+1947-01,Canada,Population,12450000
+1947-04,Canada,Population,12507000
+1947-07,Canada,Population,12576000
+1947-10,Canada,Population,12646000
+1948-01,Canada,Population,12710000
+1948-04,Canada,Population,12773000
+1948-07,Canada,Population,12852000
+1948-10,Canada,Population,12930000
+1949-01,Canada,Population,12998000
+1949-04,Canada,Population,13399000
+1949-07,Canada,Population,13475000
+1949-10,Canada,Population,13548000
+1950-01,Canada,Population,13607000
+1950-04,Canada,Population,13663000
+1950-07,Canada,Population,13737000
+1950-10,Canada,Population,13807000
+1951-01,Canada,Population,13870000
+1951-04,Canada,Population,13937000
+1951-07,Canada,Population,14050000
+1951-07,Newfoundland and Labrador,Population,362000
+1951-07,Prince Edward Island,Population,99000
+1951-07,Nova Scotia,Population,643000
+1951-07,New Brunswick,Population,517000
+1951-07,Quebec,Population,4066000
+1951-07,Ontario,Population,4615000
+1951-07,Manitoba,Population,778000
+1951-07,Saskatchewan,Population,834000
+1951-07,Alberta,Population,943000
+1951-07,British Columbia,Population,1168000
+1951-07,Yukon,Population,9000
+1951-07,Northwest Territories including Nunavut,Population,16000
+1951-10,Canada,Population,14163000
+1951-10,Newfoundland and Labrador,Population,365000
+1951-10,Prince Edward Island,Population,99000
+1951-10,Nova Scotia,Population,646000
+1951-10,New Brunswick,Population,519000
+1951-10,Quebec,Population,4095000
+1951-10,Ontario,Population,4665000
+1951-10,Manitoba,Population,784000
+1951-10,Saskatchewan,Population,836000
+1951-10,Alberta,Population,950000
+1951-10,British Columbia,Population,1179000
+1951-10,Yukon,Population,9000
+1951-10,Northwest Territories including Nunavut,Population,16000
+1952-01,Canada,Population,14277000
+1952-01,Newfoundland and Labrador,Population,368000
+1952-01,Prince Edward Island,Population,100000
+1952-01,Nova Scotia,Population,647000
+1952-01,New Brunswick,Population,521000
+1952-01,Quebec,Population,4126000
+1952-01,Ontario,Population,4717000
+1952-01,Manitoba,Population,789000
+1952-01,Saskatchewan,Population,836000
+1952-01,Alberta,Population,959000
+1952-01,British Columbia,Population,1189000
+1952-01,Yukon,Population,9000
+1952-01,Northwest Territories including Nunavut,Population,16000
+1952-04,Canada,Population,14376000
+1952-04,Newfoundland and Labrador,Population,371000
+1952-04,Prince Edward Island,Population,100000
+1952-04,Nova Scotia,Population,651000
+1952-04,New Brunswick,Population,524000
+1952-04,Quebec,Population,4153000
+1952-04,Ontario,Population,4757000
+1952-04,Manitoba,Population,794000
+1952-04,Saskatchewan,Population,838000
+1952-04,Alberta,Population,965000
+1952-04,British Columbia,Population,1198000
+1952-04,Yukon,Population,9000
+1952-04,Northwest Territories including Nunavut,Population,16000
+1952-07,Canada,Population,14496000
+1952-07,Newfoundland and Labrador,Population,375000
+1952-07,Prince Edward Island,Population,100000
+1952-07,Nova Scotia,Population,654000
+1952-07,New Brunswick,Population,527000
+1952-07,Quebec,Population,4183000
+1952-07,Ontario,Population,4802000
+1952-07,Manitoba,Population,799000
+1952-07,Saskatchewan,Population,845000
+1952-07,Alberta,Population,977000
+1952-07,British Columbia,Population,1209000
+1952-07,Yukon,Population,9000
+1952-07,Northwest Territories including Nunavut,Population,16000
+1952-10,Canada,Population,14598000
+1952-10,Newfoundland and Labrador,Population,377000
+1952-10,Prince Edward Island,Population,101000
+1952-10,Nova Scotia,Population,657000
+1952-10,New Brunswick,Population,529000
+1952-10,Quebec,Population,4209000
+1952-10,Ontario,Population,4841000
+1952-10,Manitoba,Population,802000
+1952-10,Saskatchewan,Population,850000
+1952-10,Alberta,Population,985000
+1952-10,British Columbia,Population,1222000
+1952-10,Yukon,Population,9000
+1952-10,Northwest Territories including Nunavut,Population,16000
+1953-01,Canada,Population,14682000
+1953-01,Newfoundland and Labrador,Population,379000
+1953-01,Prince Edward Island,Population,101000
+1953-01,Nova Scotia,Population,660000
+1953-01,New Brunswick,Population,530000
+1953-01,Quebec,Population,4228000
+1953-01,Ontario,Population,4876000
+1953-01,Manitoba,Population,804000
+1953-01,Saskatchewan,Population,852000
+1953-01,Alberta,Population,994000
+1953-01,British Columbia,Population,1233000
+1953-01,Yukon,Population,9000
+1953-01,Northwest Territories including Nunavut,Population,16000
+1953-04,Canada,Population,14763000
+1953-04,Newfoundland and Labrador,Population,382000
+1953-04,Prince Edward Island,Population,101000
+1953-04,Nova Scotia,Population,662000
+1953-04,New Brunswick,Population,532000
+1953-04,Quebec,Population,4249000
+1953-04,Ontario,Population,4907000
+1953-04,Manitoba,Population,806000
+1953-04,Saskatchewan,Population,855000
+1953-04,Alberta,Population,1002000
+1953-04,British Columbia,Population,1242000
+1953-04,Yukon,Population,9000
+1953-04,Northwest Territories including Nunavut,Population,16000
+1953-07,Canada,Population,14886000
+1953-07,Newfoundland and Labrador,Population,384000
+1953-07,Prince Edward Island,Population,101000
+1953-07,Nova Scotia,Population,664000
+1953-07,New Brunswick,Population,533000
+1953-07,Quebec,Population,4281000
+1953-07,Ontario,Population,4956000
+1953-07,Manitoba,Population,810000
+1953-07,Saskatchewan,Population,863000
+1953-07,Alberta,Population,1016000
+1953-07,British Columbia,Population,1253000
+1953-07,Yukon,Population,9000
+1953-07,Northwest Territories including Nunavut,Population,16000
+1953-10,Canada,Population,15001000
+1953-10,Newfoundland and Labrador,Population,387000
+1953-10,Prince Edward Island,Population,101000
+1953-10,Nova Scotia,Population,667000
+1953-10,New Brunswick,Population,535000
+1953-10,Quebec,Population,4310000
+1953-10,Ontario,Population,5002000
+1953-10,Manitoba,Population,814000
+1953-10,Saskatchewan,Population,866000
+1953-10,Alberta,Population,1029000
+1953-10,British Columbia,Population,1265000
+1953-10,Yukon,Population,9000
+1953-10,Northwest Territories including Nunavut,Population,16000
+1954-01,Canada,Population,15105000
+1954-01,Newfoundland and Labrador,Population,390000
+1954-01,Prince Edward Island,Population,101000
+1954-01,Nova Scotia,Population,668000
+1954-01,New Brunswick,Population,537000
+1954-01,Quebec,Population,4337000
+1954-01,Ontario,Population,5047000
+1954-01,Manitoba,Population,816000
+1954-01,Saskatchewan,Population,867000
+1954-01,Alberta,Population,1039000
+1954-01,British Columbia,Population,1278000
+1954-01,Yukon,Population,9000
+1954-01,Northwest Territories including Nunavut,Population,16000
+1954-04,Canada,Population,15199000
+1954-04,Newfoundland and Labrador,Population,393000
+1954-04,Prince Edward Island,Population,101000
+1954-04,Nova Scotia,Population,670000
+1954-04,New Brunswick,Population,538000
+1954-04,Quebec,Population,4365000
+1954-04,Ontario,Population,5082000
+1954-04,Manitoba,Population,819000
+1954-04,Saskatchewan,Population,869000
+1954-04,Alberta,Population,1047000
+1954-04,British Columbia,Population,1288000
+1954-04,Yukon,Population,10000
+1954-04,Northwest Territories including Nunavut,Population,17000
+1954-07,Canada,Population,15330000
+1954-07,Newfoundland and Labrador,Population,396000
+1954-07,Prince Edward Island,Population,101000
+1954-07,Nova Scotia,Population,674000
+1954-07,New Brunswick,Population,541000
+1954-07,Quebec,Population,4402000
+1954-07,Ontario,Population,5130000
+1954-07,Manitoba,Population,825000
+1954-07,Saskatchewan,Population,874000
+1954-07,Alberta,Population,1061000
+1954-07,British Columbia,Population,1299000
+1954-07,Yukon,Population,10000
+1954-07,Northwest Territories including Nunavut,Population,17000
+1954-10,Canada,Population,15444000
+1954-10,Newfoundland and Labrador,Population,399000
+1954-10,Prince Edward Island,Population,101000
+1954-10,Nova Scotia,Population,676000
+1954-10,New Brunswick,Population,543000
+1954-10,Quebec,Population,4436000
+1954-10,Ontario,Population,5174000
+1954-10,Manitoba,Population,830000
+1954-10,Saskatchewan,Population,877000
+1954-10,Alberta,Population,1070000
+1954-10,British Columbia,Population,1311000
+1954-10,Yukon,Population,10000
+1954-10,Northwest Territories including Nunavut,Population,17000
+1955-01,Canada,Population,15535000
+1955-01,Newfoundland and Labrador,Population,401000
+1955-01,Prince Edward Island,Population,100000
+1955-01,Nova Scotia,Population,678000
+1955-01,New Brunswick,Population,544000
+1955-01,Quebec,Population,4465000
+1955-01,Ontario,Population,5208000
+1955-01,Manitoba,Population,833000
+1955-01,Saskatchewan,Population,877000
+1955-01,Alberta,Population,1078000
+1955-01,British Columbia,Population,1323000
+1955-01,Yukon,Population,11000
+1955-01,Northwest Territories including Nunavut,Population,17000
+1955-04,Canada,Population,15620000
+1955-04,Newfoundland and Labrador,Population,404000
+1955-04,Prince Edward Island,Population,100000
+1955-04,Nova Scotia,Population,681000
+1955-04,New Brunswick,Population,546000
+1955-04,Quebec,Population,4492000
+1955-04,Ontario,Population,5236000
+1955-04,Manitoba,Population,837000
+1955-04,Saskatchewan,Population,877000
+1955-04,Alberta,Population,1084000
+1955-04,British Columbia,Population,1334000
+1955-04,Yukon,Population,11000
+1955-04,Northwest Territories including Nunavut,Population,18000
+1955-07,Canada,Population,15736000
+1955-07,Newfoundland and Labrador,Population,407000
+1955-07,Prince Edward Island,Population,100000
+1955-07,Nova Scotia,Population,684000
+1955-07,New Brunswick,Population,548000
+1955-07,Quebec,Population,4529000
+1955-07,Ontario,Population,5278000
+1955-07,Manitoba,Population,841000
+1955-07,Saskatchewan,Population,879000
+1955-07,Alberta,Population,1094000
+1955-07,British Columbia,Population,1347000
+1955-07,Yukon,Population,11000
+1955-07,Northwest Territories including Nunavut,Population,18000
+1955-10,Canada,Population,15834000
+1955-10,Newfoundland and Labrador,Population,410000
+1955-10,Prince Edward Island,Population,100000
+1955-10,Nova Scotia,Population,688000
+1955-10,New Brunswick,Population,550000
+1955-10,Quebec,Population,4557000
+1955-10,Ontario,Population,5311000
+1955-10,Manitoba,Population,844000
+1955-10,Saskatchewan,Population,880000
+1955-10,Alberta,Population,1102000
+1955-10,British Columbia,Population,1362000
+1955-10,Yukon,Population,12000
+1955-10,Northwest Territories including Nunavut,Population,18000
+1956-01,Canada,Population,15919000
+1956-01,Newfoundland and Labrador,Population,412000
+1956-01,Prince Edward Island,Population,100000
+1956-01,Nova Scotia,Population,690000
+1956-01,New Brunswick,Population,552000
+1956-01,Quebec,Population,4581000
+1956-01,Ontario,Population,5344000
+1956-01,Manitoba,Population,845000
+1956-01,Saskatchewan,Population,879000
+1956-01,Alberta,Population,1109000
+1956-01,British Columbia,Population,1377000
+1956-01,Yukon,Population,12000
+1956-01,Northwest Territories including Nunavut,Population,18000
+1956-04,Canada,Population,16004000
+1956-04,Newfoundland and Labrador,Population,414000
+1956-04,Prince Edward Island,Population,99000
+1956-04,Nova Scotia,Population,693000
+1956-04,New Brunswick,Population,553000
+1956-04,Quebec,Population,4606000
+1956-04,Ontario,Population,5375000
+1956-04,Manitoba,Population,848000
+1956-04,Saskatchewan,Population,879000
+1956-04,Alberta,Population,1118000
+1956-04,British Columbia,Population,1388000
+1956-04,Yukon,Population,12000
+1956-04,Northwest Territories including Nunavut,Population,19000
+1956-07,Canada,Population,16123000
+1956-07,Newfoundland and Labrador,Population,416000
+1956-07,Prince Edward Island,Population,99000
+1956-07,Nova Scotia,Population,695000
+1956-07,New Brunswick,Population,556000
+1956-07,Quebec,Population,4641000
+1956-07,Ontario,Population,5423000
+1956-07,Manitoba,Population,850000
+1956-07,Saskatchewan,Population,881000
+1956-07,Alberta,Population,1126000
+1956-07,British Columbia,Population,1405000
+1956-07,Yukon,Population,12000
+1956-07,Northwest Territories including Nunavut,Population,19000
+1956-10,Canada,Population,16235000
+1956-10,Newfoundland and Labrador,Population,418000
+1956-10,Prince Edward Island,Population,99000
+1956-10,Nova Scotia,Population,695000
+1956-10,New Brunswick,Population,557000
+1956-10,Quebec,Population,4671000
+1956-10,Ontario,Population,5470000
+1956-10,Manitoba,Population,852000
+1956-10,Saskatchewan,Population,880000
+1956-10,Alberta,Population,1136000
+1956-10,British Columbia,Population,1426000
+1956-10,Yukon,Population,12000
+1956-10,Northwest Territories including Nunavut,Population,19000
+1957-01,Canada,Population,16352000
+1957-01,Newfoundland and Labrador,Population,420000
+1957-01,Prince Edward Island,Population,99000
+1957-01,Nova Scotia,Population,695000
+1957-01,New Brunswick,Population,558000
+1957-01,Quebec,Population,4702000
+1957-01,Ontario,Population,5529000
+1957-01,Manitoba,Population,851000
+1957-01,Saskatchewan,Population,874000
+1957-01,Alberta,Population,1144000
+1957-01,British Columbia,Population,1449000
+1957-01,Yukon,Population,12000
+1957-01,Northwest Territories including Nunavut,Population,19000
+1957-04,Canada,Population,16479000
+1957-04,Newfoundland and Labrador,Population,422000
+1957-04,Prince Edward Island,Population,99000
+1957-04,Nova Scotia,Population,698000
+1957-04,New Brunswick,Population,560000
+1957-04,Quebec,Population,4737000
+1957-04,Ontario,Population,5580000
+1957-04,Manitoba,Population,856000
+1957-04,Saskatchewan,Population,875000
+1957-04,Alberta,Population,1153000
+1957-04,British Columbia,Population,1468000
+1957-04,Yukon,Population,12000
+1957-04,Northwest Territories including Nunavut,Population,19000
+1957-07,Canada,Population,16677000
+1957-07,Newfoundland and Labrador,Population,425000
+1957-07,Prince Edward Island,Population,99000
+1957-07,Nova Scotia,Population,701000
+1957-07,New Brunswick,Population,563000
+1957-07,Quebec,Population,4786000
+1957-07,Ontario,Population,5668000
+1957-07,Manitoba,Population,863000
+1957-07,Saskatchewan,Population,882000
+1957-07,Alberta,Population,1169000
+1957-07,British Columbia,Population,1490000
+1957-07,Yukon,Population,12000
+1957-07,Northwest Territories including Nunavut,Population,19000
+1957-10,Canada,Population,16810000
+1957-10,Newfoundland and Labrador,Population,427000
+1957-10,Prince Edward Island,Population,99000
+1957-10,Nova Scotia,Population,702000
+1957-10,New Brunswick,Population,565000
+1957-10,Quebec,Population,4825000
+1957-10,Ontario,Population,5722000
+1957-10,Manitoba,Population,863000
+1957-10,Saskatchewan,Population,884000
+1957-10,Alberta,Population,1179000
+1957-10,British Columbia,Population,1511000
+1957-10,Yukon,Population,13000
+1957-10,Northwest Territories including Nunavut,Population,20000
+1958-01,Canada,Population,16907000
+1958-01,Newfoundland and Labrador,Population,428000
+1958-01,Prince Edward Island,Population,99000
+1958-01,Nova Scotia,Population,705000
+1958-01,New Brunswick,Population,567000
+1958-01,Quebec,Population,4849000
+1958-01,Ontario,Population,5759000
+1958-01,Manitoba,Population,868000
+1958-01,Saskatchewan,Population,884000
+1958-01,Alberta,Population,1191000
+1958-01,British Columbia,Population,1524000
+1958-01,Yukon,Population,13000
+1958-01,Northwest Territories including Nunavut,Population,20000
+1958-04,Canada,Population,16997000
+1958-04,Newfoundland and Labrador,Population,430000
+1958-04,Prince Edward Island,Population,100000
+1958-04,Nova Scotia,Population,707000
+1958-04,New Brunswick,Population,569000
+1958-04,Quebec,Population,4879000
+1958-04,Ontario,Population,5789000
+1958-04,Manitoba,Population,872000
+1958-04,Saskatchewan,Population,888000
+1958-04,Alberta,Population,1198000
+1958-04,British Columbia,Population,1532000
+1958-04,Yukon,Population,13000
+1958-04,Northwest Territories including Nunavut,Population,20000
+1958-07,Canada,Population,17120000
+1958-07,Newfoundland and Labrador,Population,433000
+1958-07,Prince Edward Island,Population,100000
+1958-07,Nova Scotia,Population,710000
+1958-07,New Brunswick,Population,572000
+1958-07,Quebec,Population,4915000
+1958-07,Ontario,Population,5835000
+1958-07,Manitoba,Population,877000
+1958-07,Saskatchewan,Population,894000
+1958-07,Alberta,Population,1211000
+1958-07,British Columbia,Population,1540000
+1958-07,Yukon,Population,13000
+1958-07,Northwest Territories including Nunavut,Population,20000
+1958-10,Canada,Population,17225000
+1958-10,Newfoundland and Labrador,Population,435000
+1958-10,Prince Edward Island,Population,101000
+1958-10,Nova Scotia,Population,713000
+1958-10,New Brunswick,Population,574000
+1958-10,Quebec,Population,4947000
+1958-10,Ontario,Population,5874000
+1958-10,Manitoba,Population,881000
+1958-10,Saskatchewan,Population,898000
+1958-10,Alberta,Population,1221000
+1958-10,British Columbia,Population,1548000
+1958-10,Yukon,Population,13000
+1958-10,Northwest Territories including Nunavut,Population,20000
+1959-01,Canada,Population,17318000
+1959-01,Newfoundland and Labrador,Population,437000
+1959-01,Prince Edward Island,Population,101000
+1959-01,Nova Scotia,Population,716000
+1959-01,New Brunswick,Population,577000
+1959-01,Quebec,Population,4974000
+1959-01,Ontario,Population,5907000
+1959-01,Manitoba,Population,883000
+1959-01,Saskatchewan,Population,900000
+1959-01,Alberta,Population,1233000
+1959-01,British Columbia,Population,1556000
+1959-01,Yukon,Population,13000
+1959-01,Northwest Territories including Nunavut,Population,21000
+1959-04,Canada,Population,17406000
+1959-04,Newfoundland and Labrador,Population,439000
+1959-04,Prince Edward Island,Population,101000
+1959-04,Nova Scotia,Population,718000
+1959-04,New Brunswick,Population,580000
+1959-04,Quebec,Population,5002000
+1959-04,Ontario,Population,5938000
+1959-04,Manitoba,Population,888000
+1959-04,Saskatchewan,Population,903000
+1959-04,Alberta,Population,1241000
+1959-04,British Columbia,Population,1562000
+1959-04,Yukon,Population,13000
+1959-04,Northwest Territories including Nunavut,Population,21000
+1959-07,Canada,Population,17522000
+1959-07,Newfoundland and Labrador,Population,441000
+1959-07,Prince Edward Island,Population,102000
+1959-07,Nova Scotia,Population,720000
+1959-07,New Brunswick,Population,583000
+1959-07,Quebec,Population,5035000
+1959-07,Ontario,Population,5985000
+1959-07,Manitoba,Population,892000
+1959-07,Saskatchewan,Population,908000
+1959-07,Alberta,Population,1252000
+1959-07,British Columbia,Population,1570000
+1959-07,Yukon,Population,13000
+1959-07,Northwest Territories including Nunavut,Population,21000
+1959-10,Canada,Population,17624000
+1959-10,Newfoundland and Labrador,Population,443000
+1959-10,Prince Edward Island,Population,102000
+1959-10,Nova Scotia,Population,722000
+1959-10,New Brunswick,Population,584000
+1959-10,Quebec,Population,5068000
+1959-10,Ontario,Population,6020000
+1959-10,Manitoba,Population,896000
+1959-10,Saskatchewan,Population,912000
+1959-10,Alberta,Population,1263000
+1959-10,British Columbia,Population,1580000
+1959-10,Yukon,Population,13000
+1959-10,Northwest Territories including Nunavut,Population,21000
+1960-01,Canada,Population,17710000
+1960-01,Newfoundland and Labrador,Population,445000
+1960-01,Prince Edward Island,Population,103000
+1960-01,Nova Scotia,Population,722000
+1960-01,New Brunswick,Population,585000
+1960-01,Quebec,Population,5092000
+1960-01,Ontario,Population,6054000
+1960-01,Manitoba,Population,900000
+1960-01,Saskatchewan,Population,911000
+1960-01,Alberta,Population,1274000
+1960-01,British Columbia,Population,1589000
+1960-01,Yukon,Population,14000
+1960-01,Northwest Territories including Nunavut,Population,21000
+1960-04,Canada,Population,17793000
+1960-04,Newfoundland and Labrador,Population,447000
+1960-04,Prince Edward Island,Population,103000
+1960-04,Nova Scotia,Population,725000
+1960-04,New Brunswick,Population,587000
+1960-04,Quebec,Population,5119000
+1960-04,Ontario,Population,6083000
+1960-04,Manitoba,Population,903000
+1960-04,Saskatchewan,Population,912000
+1960-04,Alberta,Population,1282000
+1960-04,British Columbia,Population,1596000
+1960-04,Yukon,Population,14000
+1960-04,Northwest Territories including Nunavut,Population,22000
+1960-07,Canada,Population,17909000
+1960-07,Newfoundland and Labrador,Population,449000
+1960-07,Prince Edward Island,Population,103000
+1960-07,Nova Scotia,Population,728000
+1960-07,New Brunswick,Population,589000
+1960-07,Quebec,Population,5152000
+1960-07,Ontario,Population,6127000
+1960-07,Manitoba,Population,908000
+1960-07,Saskatchewan,Population,916000
+1960-07,Alberta,Population,1296000
+1960-07,British Columbia,Population,1605000
+1960-07,Yukon,Population,14000
+1960-07,Northwest Territories including Nunavut,Population,22000
+1960-10,Canada,Population,18009000
+1960-10,Newfoundland and Labrador,Population,452000
+1960-10,Prince Edward Island,Population,104000
+1960-10,Nova Scotia,Population,731000
+1960-10,New Brunswick,Population,591000
+1960-10,Quebec,Population,5187000
+1960-10,Ontario,Population,6158000
+1960-10,Manitoba,Population,911000
+1960-10,Saskatchewan,Population,918000
+1960-10,Alberta,Population,1307000
+1960-10,British Columbia,Population,1614000
+1960-10,Yukon,Population,14000
+1960-10,Northwest Territories including Nunavut,Population,22000
+1961-01,Canada,Population,18092000
+1961-01,Newfoundland and Labrador,Population,454000
+1961-01,Prince Edward Island,Population,104000
+1961-01,Nova Scotia,Population,732000
+1961-01,New Brunswick,Population,593000
+1961-01,Quebec,Population,5212000
+1961-01,Ontario,Population,6187000
+1961-01,Manitoba,Population,916000
+1961-01,Saskatchewan,Population,919000
+1961-01,Alberta,Population,1317000
+1961-01,British Columbia,Population,1621000
+1961-01,Yukon,Population,14000
+1961-01,Northwest Territories including Nunavut,Population,23000
+1961-04,Canada,Population,18172000
+1961-04,Newfoundland and Labrador,Population,456000
+1961-04,Prince Edward Island,Population,104000
+1961-04,Nova Scotia,Population,735000
+1961-04,New Brunswick,Population,596000
+1961-04,Quebec,Population,5238000
+1961-04,Ontario,Population,6214000
+1961-04,Manitoba,Population,919000
+1961-04,Saskatchewan,Population,922000
+1961-04,Alberta,Population,1325000
+1961-04,British Columbia,Population,1626000
+1961-04,Yukon,Population,14000
+1961-04,Northwest Territories including Nunavut,Population,23000
+1961-07,Canada,Population,18271000
+1961-07,Newfoundland and Labrador,Population,459000
+1961-07,Prince Edward Island,Population,105000
+1961-07,Nova Scotia,Population,738000
+1961-07,New Brunswick,Population,599000
+1961-07,Quebec,Population,5268000
+1961-07,Ontario,Population,6248000
+1961-07,Manitoba,Population,923000
+1961-07,Saskatchewan,Population,926000
+1961-07,Alberta,Population,1335000
+1961-07,British Columbia,Population,1632000
+1961-07,Yukon,Population,15000
+1961-07,Northwest Territories including Nunavut,Population,23000
+1961-10,Canada,Population,18363000
+1961-10,Newfoundland and Labrador,Population,462000
+1961-10,Prince Edward Island,Population,106000
+1961-10,Nova Scotia,Population,740000
+1961-10,New Brunswick,Population,600000
+1961-10,Quebec,Population,5300000
+1961-10,Ontario,Population,6275000
+1961-10,Manitoba,Population,927000
+1961-10,Saskatchewan,Population,929000
+1961-10,Alberta,Population,1345000
+1961-10,British Columbia,Population,1640000
+1961-10,Yukon,Population,15000
+1961-10,Northwest Territories including Nunavut,Population,24000
+1962-01,Canada,Population,18442000
+1962-01,Newfoundland and Labrador,Population,464000
+1962-01,Prince Edward Island,Population,107000
+1962-01,Nova Scotia,Population,742000
+1962-01,New Brunswick,Population,602000
+1962-01,Quebec,Population,5324000
+1962-01,Ontario,Population,6303000
+1962-01,Manitoba,Population,930000
+1962-01,Saskatchewan,Population,927000
+1962-01,Alberta,Population,1356000
+1962-01,British Columbia,Population,1648000
+1962-01,Yukon,Population,15000
+1962-01,Northwest Territories including Nunavut,Population,24000
+1962-04,Canada,Population,18519000
+1962-04,Newfoundland and Labrador,Population,466000
+1962-04,Prince Edward Island,Population,107000
+1962-04,Nova Scotia,Population,744000
+1962-04,New Brunswick,Population,604000
+1962-04,Quebec,Population,5350000
+1962-04,Ontario,Population,6330000
+1962-04,Manitoba,Population,933000
+1962-04,Saskatchewan,Population,928000
+1962-04,Alberta,Population,1363000
+1962-04,British Columbia,Population,1655000
+1962-04,Yukon,Population,15000
+1962-04,Northwest Territories including Nunavut,Population,24000
+1962-07,Canada,Population,18614000
+1962-07,Newfoundland and Labrador,Population,469000
+1962-07,Prince Edward Island,Population,107000
+1962-07,Nova Scotia,Population,746000
+1962-07,New Brunswick,Population,605000
+1962-07,Quebec,Population,5381000
+1962-07,Ontario,Population,6362000
+1962-07,Manitoba,Population,937000
+1962-07,Saskatchewan,Population,931000
+1962-07,Alberta,Population,1373000
+1962-07,British Columbia,Population,1663000
+1962-07,Yukon,Population,15000
+1962-07,Northwest Territories including Nunavut,Population,25000
+1962-10,Canada,Population,18708000
+1962-10,Newfoundland and Labrador,Population,471000
+1962-10,Prince Edward Island,Population,107000
+1962-10,Nova Scotia,Population,748000
+1962-10,New Brunswick,Population,607000
+1962-10,Quebec,Population,5413000
+1962-10,Ontario,Population,6395000
+1962-10,Manitoba,Population,940000
+1962-10,Saskatchewan,Population,931000
+1962-10,Alberta,Population,1382000
+1962-10,British Columbia,Population,1674000
+1962-10,Yukon,Population,15000
+1962-10,Northwest Territories including Nunavut,Population,25000
+1963-01,Canada,Population,18787000
+1963-01,Newfoundland and Labrador,Population,473000
+1963-01,Prince Edward Island,Population,107000
+1963-01,Nova Scotia,Population,747000
+1963-01,New Brunswick,Population,607000
+1963-01,Quebec,Population,5437000
+1963-01,Ontario,Population,6427000
+1963-01,Manitoba,Population,944000
+1963-01,Saskatchewan,Population,928000
+1963-01,Alberta,Population,1391000
+1963-01,British Columbia,Population,1686000
+1963-01,Yukon,Population,15000
+1963-01,Northwest Territories including Nunavut,Population,25000
+1963-04,Canada,Population,18864000
+1963-04,Newfoundland and Labrador,Population,474000
+1963-04,Prince Edward Island,Population,108000
+1963-04,Nova Scotia,Population,749000
+1963-04,New Brunswick,Population,608000
+1963-04,Quebec,Population,5461000
+1963-04,Ontario,Population,6455000
+1963-04,Manitoba,Population,947000
+1963-04,Saskatchewan,Population,930000
+1963-04,Alberta,Population,1398000
+1963-04,British Columbia,Population,1694000
+1963-04,Yukon,Population,15000
+1963-04,Northwest Territories including Nunavut,Population,25000
+1963-07,Canada,Population,18964000
+1963-07,Newfoundland and Labrador,Population,477000
+1963-07,Prince Edward Island,Population,108000
+1963-07,Nova Scotia,Population,751000
+1963-07,New Brunswick,Population,609000
+1963-07,Quebec,Population,5489000
+1963-07,Ontario,Population,6497000
+1963-07,Manitoba,Population,950000
+1963-07,Saskatchewan,Population,933000
+1963-07,Alberta,Population,1407000
+1963-07,British Columbia,Population,1702000
+1963-07,Yukon,Population,15000
+1963-07,Northwest Territories including Nunavut,Population,26000
+1963-10,Canada,Population,19061000
+1963-10,Newfoundland and Labrador,Population,479000
+1963-10,Prince Edward Island,Population,109000
+1963-10,Nova Scotia,Population,752000
+1963-10,New Brunswick,Population,609000
+1963-10,Quebec,Population,5518000
+1963-10,Ontario,Population,6535000
+1963-10,Manitoba,Population,953000
+1963-10,Saskatchewan,Population,935000
+1963-10,Alberta,Population,1414000
+1963-10,British Columbia,Population,1716000
+1963-10,Yukon,Population,15000
+1963-10,Northwest Territories including Nunavut,Population,26000
+1964-01,Canada,Population,19142000
+1964-01,Newfoundland and Labrador,Population,480000
+1964-01,Prince Edward Island,Population,109000
+1964-01,Nova Scotia,Population,752000
+1964-01,New Brunswick,Population,609000
+1964-01,Quebec,Population,5541000
+1964-01,Ontario,Population,6572000
+1964-01,Manitoba,Population,955000
+1964-01,Saskatchewan,Population,936000
+1964-01,Alberta,Population,1419000
+1964-01,British Columbia,Population,1728000
+1964-01,Yukon,Population,15000
+1964-01,Northwest Territories including Nunavut,Population,26000
+1964-04,Canada,Population,19222000
+1964-04,Newfoundland and Labrador,Population,482000
+1964-04,Prince Edward Island,Population,109000
+1964-04,Nova Scotia,Population,753000
+1964-04,New Brunswick,Population,610000
+1964-04,Quebec,Population,5566000
+1964-04,Ontario,Population,6602000
+1964-04,Manitoba,Population,957000
+1964-04,Saskatchewan,Population,939000
+1964-04,Alberta,Population,1425000
+1964-04,British Columbia,Population,1737000
+1964-04,Yukon,Population,15000
+1964-04,Northwest Territories including Nunavut,Population,27000
+1964-07,Canada,Population,19325000
+1964-07,Newfoundland and Labrador,Population,484000
+1964-07,Prince Edward Island,Population,109000
+1964-07,Nova Scotia,Population,755000
+1964-07,New Brunswick,Population,612000
+1964-07,Quebec,Population,5593000
+1964-07,Ontario,Population,6646000
+1964-07,Manitoba,Population,960000
+1964-07,Saskatchewan,Population,943000
+1964-07,Alberta,Population,1431000
+1964-07,British Columbia,Population,1750000
+1964-07,Yukon,Population,15000
+1964-07,Northwest Territories including Nunavut,Population,27000
+1964-10,Canada,Population,19420000
+1964-10,Newfoundland and Labrador,Population,485000
+1964-10,Prince Edward Island,Population,109000
+1964-10,Nova Scotia,Population,756000
+1964-10,New Brunswick,Population,612000
+1964-10,Quebec,Population,5621000
+1964-10,Ontario,Population,6687000
+1964-10,Manitoba,Population,961000
+1964-10,Saskatchewan,Population,946000
+1964-10,Alberta,Population,1436000
+1964-10,British Columbia,Population,1765000
+1964-10,Yukon,Population,15000
+1964-10,Northwest Territories including Nunavut,Population,27000
+1965-01,Canada,Population,19501000
+1965-01,Newfoundland and Labrador,Population,485000
+1965-01,Prince Edward Island,Population,109000
+1965-01,Nova Scotia,Population,755000
+1965-01,New Brunswick,Population,613000
+1965-01,Quebec,Population,5644000
+1965-01,Ontario,Population,6723000
+1965-01,Manitoba,Population,962000
+1965-01,Saskatchewan,Population,946000
+1965-01,Alberta,Population,1443000
+1965-01,British Columbia,Population,1779000
+1965-01,Yukon,Population,15000
+1965-01,Northwest Territories including Nunavut,Population,27000
+1965-04,Canada,Population,19578000
+1965-04,Newfoundland and Labrador,Population,486000
+1965-04,Prince Edward Island,Population,109000
+1965-04,Nova Scotia,Population,754000
+1965-04,New Brunswick,Population,614000
+1965-04,Quebec,Population,5668000
+1965-04,Ontario,Population,6758000
+1965-04,Manitoba,Population,964000
+1965-04,Saskatchewan,Population,948000
+1965-04,Alberta,Population,1445000
+1965-04,British Columbia,Population,1790000
+1965-04,Yukon,Population,15000
+1965-04,Northwest Territories including Nunavut,Population,27000
+1965-07,Canada,Population,19678000
+1965-07,Newfoundland and Labrador,Population,488000
+1965-07,Prince Edward Island,Population,109000
+1965-07,Nova Scotia,Population,756000
+1965-07,New Brunswick,Population,615000
+1965-07,Quebec,Population,5694000
+1965-07,Ontario,Population,6803000
+1965-07,Manitoba,Population,965000
+1965-07,Saskatchewan,Population,951000
+1965-07,Alberta,Population,1451000
+1965-07,British Columbia,Population,1804000
+1965-07,Yukon,Population,14000
+1965-07,Northwest Territories including Nunavut,Population,28000
+1965-10,Canada,Population,19777000
+1965-10,Newfoundland and Labrador,Population,489000
+1965-10,Prince Edward Island,Population,109000
+1965-10,Nova Scotia,Population,755000
+1965-10,New Brunswick,Population,616000
+1965-10,Quebec,Population,5720000
+1965-10,Ontario,Population,6849000
+1965-10,Manitoba,Population,963000
+1965-10,Saskatchewan,Population,953000
+1965-10,Alberta,Population,1453000
+1965-10,British Columbia,Population,1827000
+1965-10,Yukon,Population,15000
+1965-10,Northwest Territories including Nunavut,Population,28000
+1966-01,Canada,Population,19857000
+1966-01,Newfoundland and Labrador,Population,490000
+1966-01,Prince Edward Island,Population,108000
+1966-01,Nova Scotia,Population,754000
+1966-01,New Brunswick,Population,616000
+1966-01,Quebec,Population,5740000
+1966-01,Ontario,Population,6888000
+1966-01,Manitoba,Population,962000
+1966-01,Saskatchewan,Population,952000
+1966-01,Alberta,Population,1456000
+1966-01,British Columbia,Population,1848000
+1966-01,Yukon,Population,15000
+1966-01,Northwest Territories including Nunavut,Population,28000
+1966-04,Canada,Population,19939000
+1966-04,Newfoundland and Labrador,Population,492000
+1966-04,Prince Edward Island,Population,108000
+1966-04,Nova Scotia,Population,755000
+1966-04,New Brunswick,Population,616000
+1966-04,Quebec,Population,5762000
+1966-04,Ontario,Population,6926000
+1966-04,Manitoba,Population,963000
+1966-04,Saskatchewan,Population,954000
+1966-04,Alberta,Population,1459000
+1966-04,British Columbia,Population,1862000
+1966-04,Yukon,Population,14000
+1966-04,Northwest Territories including Nunavut,Population,28000
+1966-07,Canada,Population,20048000
+1966-07,Newfoundland and Labrador,Population,494000
+1966-07,Prince Edward Island,Population,109000
+1966-07,Nova Scotia,Population,757000
+1966-07,New Brunswick,Population,617000
+1966-07,Quebec,Population,5787000
+1966-07,Ontario,Population,6977000
+1966-07,Manitoba,Population,963000
+1966-07,Saskatchewan,Population,956000
+1966-07,Alberta,Population,1465000
+1966-07,British Columbia,Population,1880000
+1966-07,Yukon,Population,14000
+1966-07,Northwest Territories including Nunavut,Population,29000
+1966-10,Canada,Population,20146000
+1966-10,Newfoundland and Labrador,Population,496000
+1966-10,Prince Edward Island,Population,109000
+1966-10,Nova Scotia,Population,756000
+1966-10,New Brunswick,Population,617000
+1966-10,Quebec,Population,5808000
+1966-10,Ontario,Population,7025000
+1966-10,Manitoba,Population,959000
+1966-10,Saskatchewan,Population,957000
+1966-10,Alberta,Population,1470000
+1966-10,British Columbia,Population,1905000
+1966-10,Yukon,Population,15000
+1966-10,Northwest Territories including Nunavut,Population,29000
+1967-01,Canada,Population,20228000
+1967-01,Newfoundland and Labrador,Population,496000
+1967-01,Prince Edward Island,Population,109000
+1967-01,Nova Scotia,Population,757000
+1967-01,New Brunswick,Population,618000
+1967-01,Quebec,Population,5826000
+1967-01,Ontario,Population,7063000
+1967-01,Manitoba,Population,958000
+1967-01,Saskatchewan,Population,955000
+1967-01,Alberta,Population,1476000
+1967-01,British Columbia,Population,1926000
+1967-01,Yukon,Population,15000
+1967-01,Northwest Territories including Nunavut,Population,29000
+1967-04,Canada,Population,20306000
+1967-04,Newfoundland and Labrador,Population,498000
+1967-04,Prince Edward Island,Population,109000
+1967-04,Nova Scotia,Population,758000
+1967-04,New Brunswick,Population,619000
+1967-04,Quebec,Population,5846000
+1967-04,Ontario,Population,7096000
+1967-04,Manitoba,Population,961000
+1967-04,Saskatchewan,Population,955000
+1967-04,Alberta,Population,1483000
+1967-04,British Columbia,Population,1937000
+1967-04,Yukon,Population,15000
+1967-04,Northwest Territories including Nunavut,Population,29000
+1967-07,Canada,Population,20412000
+1967-07,Newfoundland and Labrador,Population,500000
+1967-07,Prince Edward Island,Population,109000
+1967-07,Nova Scotia,Population,761000
+1967-07,New Brunswick,Population,621000
+1967-07,Quebec,Population,5870000
+1967-07,Ontario,Population,7142000
+1967-07,Manitoba,Population,964000
+1967-07,Saskatchewan,Population,958000
+1967-07,Alberta,Population,1493000
+1967-07,British Columbia,Population,1950000
+1967-07,Yukon,Population,15000
+1967-07,Northwest Territories including Nunavut,Population,29000
+1967-10,Canada,Population,20509000
+1967-10,Newfoundland and Labrador,Population,502000
+1967-10,Prince Edward Island,Population,109000
+1967-10,Nova Scotia,Population,762000
+1967-10,New Brunswick,Population,622000
+1967-10,Quebec,Population,5888000
+1967-10,Ontario,Population,7186000
+1967-10,Manitoba,Population,966000
+1967-10,Saskatchewan,Population,959000
+1967-10,Alberta,Population,1501000
+1967-10,British Columbia,Population,1970000
+1967-10,Yukon,Population,15000
+1967-10,Northwest Territories including Nunavut,Population,29000
+1968-01,Canada,Population,20581000
+1968-01,Newfoundland and Labrador,Population,503000
+1968-01,Prince Edward Island,Population,110000
+1968-01,Nova Scotia,Population,764000
+1968-01,New Brunswick,Population,623000
+1968-01,Quebec,Population,5902000
+1968-01,Ontario,Population,7213000
+1968-01,Manitoba,Population,966000
+1968-01,Saskatchewan,Population,957000
+1968-01,Alberta,Population,1510000
+1968-01,British Columbia,Population,1988000
+1968-01,Yukon,Population,15000
+1968-01,Northwest Territories including Nunavut,Population,30000
+1968-04,Canada,Population,20644000
+1968-04,Newfoundland and Labrador,Population,505000
+1968-04,Prince Edward Island,Population,110000
+1968-04,Nova Scotia,Population,765000
+1968-04,New Brunswick,Population,624000
+1968-04,Quebec,Population,5916000
+1968-04,Ontario,Population,7238000
+1968-04,Manitoba,Population,968000
+1968-04,Saskatchewan,Population,959000
+1968-04,Alberta,Population,1518000
+1968-04,British Columbia,Population,1996000
+1968-04,Yukon,Population,15000
+1968-04,Northwest Territories including Nunavut,Population,30000
+1968-07,Canada,Population,20729000
+1968-07,Newfoundland and Labrador,Population,507000
+1968-07,Prince Edward Island,Population,110000
+1968-07,Nova Scotia,Population,768000
+1968-07,New Brunswick,Population,626000
+1968-07,Quebec,Population,5931000
+1968-07,Ontario,Population,7275000
+1968-07,Manitoba,Population,972000
+1968-07,Saskatchewan,Population,961000
+1968-07,Alberta,Population,1527000
+1968-07,British Columbia,Population,2006000
+1968-07,Yukon,Population,16000
+1968-07,Northwest Territories including Nunavut,Population,30000
+1968-10,Canada,Population,20814000
+1968-10,Newfoundland and Labrador,Population,509000
+1968-10,Prince Edward Island,Population,111000
+1968-10,Nova Scotia,Population,771000
+1968-10,New Brunswick,Population,628000
+1968-10,Quebec,Population,5949000
+1968-10,Ontario,Population,7305000
+1968-10,Manitoba,Population,974000
+1968-10,Saskatchewan,Population,962000
+1968-10,Alberta,Population,1536000
+1968-10,British Columbia,Population,2023000
+1968-10,Yukon,Population,16000
+1968-10,Northwest Territories including Nunavut,Population,30000
+1969-01,Canada,Population,20888000
+1969-01,Newfoundland and Labrador,Population,511000
+1969-01,Prince Edward Island,Population,111000
+1969-01,Nova Scotia,Population,771000
+1969-01,New Brunswick,Population,627000
+1969-01,Quebec,Population,5961000
+1969-01,Ontario,Population,7338000
+1969-01,Manitoba,Population,975000
+1969-01,Saskatchewan,Population,959000
+1969-01,Alberta,Population,1546000
+1969-01,British Columbia,Population,2042000
+1969-01,Yukon,Population,16000
+1969-01,Northwest Territories including Nunavut,Population,31000
+1969-04,Canada,Population,20950000
+1969-04,Newfoundland and Labrador,Population,513000
+1969-04,Prince Edward Island,Population,111000
+1969-04,Nova Scotia,Population,774000
+1969-04,New Brunswick,Population,627000
+1969-04,Quebec,Population,5975000
+1969-04,Ontario,Population,7362000
+1969-04,Manitoba,Population,977000
+1969-04,Saskatchewan,Population,959000
+1969-04,Alberta,Population,1553000
+1969-04,British Columbia,Population,2052000
+1969-04,Yukon,Population,16000
+1969-04,Northwest Territories including Nunavut,Population,31000
+1969-07,Canada,Population,21028000
+1969-07,Newfoundland and Labrador,Population,515000
+1969-07,Prince Edward Island,Population,111000
+1969-07,Nova Scotia,Population,777000
+1969-07,New Brunswick,Population,628000
+1969-07,Quebec,Population,5987000
+1969-07,Ontario,Population,7399000
+1969-07,Manitoba,Population,979000
+1969-07,Saskatchewan,Population,958000
+1969-07,Alberta,Population,1562000
+1969-07,British Columbia,Population,2065000
+1969-07,Yukon,Population,16000
+1969-07,Northwest Territories including Nunavut,Population,31000
+1969-10,Canada,Population,21111000
+1969-10,Newfoundland and Labrador,Population,516000
+1969-10,Prince Edward Island,Population,111000
+1969-10,Nova Scotia,Population,778000
+1969-10,New Brunswick,Population,628000
+1969-10,Quebec,Population,6001000
+1969-10,Ontario,Population,7442000
+1969-10,Manitoba,Population,979000
+1969-10,Saskatchewan,Population,955000
+1969-10,Alberta,Population,1571000
+1969-10,British Columbia,Population,2082000
+1969-10,Yukon,Population,16000
+1969-10,Northwest Territories including Nunavut,Population,32000
+1970-01,Canada,Population,21182000
+1970-01,Newfoundland and Labrador,Population,516000
+1970-01,Prince Edward Island,Population,110000
+1970-01,Nova Scotia,Population,779000
+1970-01,New Brunswick,Population,625000
+1970-01,Quebec,Population,6002000
+1970-01,Ontario,Population,7488000
+1970-01,Manitoba,Population,979000
+1970-01,Saskatchewan,Population,948000
+1970-01,Alberta,Population,1579000
+1970-01,British Columbia,Population,2107000
+1970-01,Yukon,Population,17000
+1970-01,Northwest Territories including Nunavut,Population,32000
+1970-04,Canada,Population,21244000
+1970-04,Newfoundland and Labrador,Population,516000
+1970-04,Prince Edward Island,Population,110000
+1970-04,Nova Scotia,Population,780000
+1970-04,New Brunswick,Population,626000
+1970-04,Quebec,Population,6005000
+1970-04,Ontario,Population,7528000
+1970-04,Manitoba,Population,981000
+1970-04,Saskatchewan,Population,942000
+1970-04,Alberta,Population,1589000
+1970-04,British Columbia,Population,2118000
+1970-04,Yukon,Population,17000
+1970-04,Northwest Territories including Nunavut,Population,32000
+1970-07,Canada,Population,21324000
+1970-07,Newfoundland and Labrador,Population,518000
+1970-07,Prince Edward Island,Population,110000
+1970-07,Nova Scotia,Population,783000
+1970-07,New Brunswick,Population,628000
+1970-07,Quebec,Population,6015000
+1970-07,Ontario,Population,7566000
+1970-07,Manitoba,Population,983000
+1970-07,Saskatchewan,Population,940000
+1970-07,Alberta,Population,1597000
+1970-07,British Columbia,Population,2134000
+1970-07,Yukon,Population,17000
+1970-07,Northwest Territories including Nunavut,Population,33000
+1970-10,Canada,Population,21400000
+1970-10,Newfoundland and Labrador,Population,519000
+1970-10,Prince Edward Island,Population,111000
+1970-10,Nova Scotia,Population,784000
+1970-10,New Brunswick,Population,628000
+1970-10,Quebec,Population,6021000
+1970-10,Ontario,Population,7613000
+1970-10,Manitoba,Population,982000
+1970-10,Saskatchewan,Population,933000
+1970-10,Alberta,Population,1607000
+1970-10,British Columbia,Population,2152000
+1970-10,Yukon,Population,17000
+1970-10,Northwest Territories including Nunavut,Population,33000
+1971-01,Canada,Population,21465000
+1971-01,Newfoundland and Labrador,Population,519000
+1971-01,Prince Edward Island,Population,111000
+1971-01,Nova Scotia,Population,785000
+1971-01,New Brunswick,Population,630000
+1971-01,Quebec,Population,6017000
+1971-01,Ontario,Population,7656000
+1971-01,Manitoba,Population,984000
+1971-01,Saskatchewan,Population,927000
+1971-01,Alberta,Population,1616000
+1971-01,British Columbia,Population,2168000
+1971-01,Yukon,Population,18000
+1971-01,Northwest Territories including Nunavut,Population,34000
+1971-04,Canada,Population,21523000
+1971-04,Newfoundland and Labrador,Population,521000
+1971-04,Prince Edward Island,Population,111000
+1971-04,Nova Scotia,Population,788000
+1971-04,New Brunswick,Population,633000
+1971-04,Quebec,Population,6022000
+1971-04,Ontario,Population,7683000
+1971-04,Manitoba,Population,986000
+1971-04,Saskatchewan,Population,926000
+1971-04,Alberta,Population,1623000
+1971-04,British Columbia,Population,2178000
+1971-04,Yukon,Population,18000
+1971-04,Northwest Territories including Nunavut,Population,34000
+1971-07,Canada,Population,21962032
+1971-07,Newfoundland and Labrador,Population,530854
+1971-07,Prince Edward Island,Population,112591
+1971-07,Nova Scotia,Population,797294
+1971-07,New Brunswick,Population,642471
+1971-07,Quebec,Population,6137305
+1971-07,Ontario,Population,7849027
+1971-07,Manitoba,Population,998876
+1971-07,Saskatchewan,Population,932038
+1971-07,Alberta,Population,1665717
+1971-07,British Columbia,Population,2240470
+1971-07,Yukon,Population,18991
+1971-07,Northwest Territories including Nunavut,Population,36398
+1971-10,Canada,Population,22039243
+1971-10,Newfoundland and Labrador,Population,534471
+1971-10,Prince Edward Island,Population,112874
+1971-10,Nova Scotia,Population,798804
+1971-10,New Brunswick,Population,644717
+1971-10,Quebec,Population,6148121
+1971-10,Ontario,Population,7882241
+1971-10,Manitoba,Population,998957
+1971-10,Saskatchewan,Population,928061
+1971-10,Alberta,Population,1675638
+1971-10,British Columbia,Population,2258651
+1971-10,Yukon,Population,19462
+1971-10,Northwest Territories including Nunavut,Population,37246
+1972-01,Canada,Population,22092498
+1972-01,Newfoundland and Labrador,Population,535736
+1972-01,Prince Edward Island,Population,112964
+1972-01,Nova Scotia,Population,800513
+1972-01,New Brunswick,Population,646337
+1972-01,Quebec,Population,6152950
+1972-01,Ontario,Population,7906337
+1972-01,Manitoba,Population,998910
+1972-01,Saskatchewan,Population,923123
+1972-01,Alberta,Population,1679985
+1972-01,British Columbia,Population,2278085
+1972-01,Yukon,Population,19723
+1972-01,Northwest Territories including Nunavut,Population,37835
+1972-04,Canada,Population,22148919
+1972-04,Newfoundland and Labrador,Population,537368
+1972-04,Prince Edward Island,Population,113314
+1972-04,Nova Scotia,Population,800542
+1972-04,New Brunswick,Population,648056
+1972-04,Quebec,Population,6165470
+1972-04,Ontario,Population,7927220
+1972-04,Manitoba,Population,1000104
+1972-04,Saskatchewan,Population,921306
+1972-04,Alberta,Population,1686758
+1972-04,British Columbia,Population,2290667
+1972-04,Yukon,Population,19859
+1972-04,Northwest Territories including Nunavut,Population,38255
+1972-07,Canada,Population,22218463
+1972-07,Newfoundland and Labrador,Population,539124
+1972-07,Prince Edward Island,Population,113460
+1972-07,Nova Scotia,Population,802255
+1972-07,New Brunswick,Population,648769
+1972-07,Quebec,Population,6174216
+1972-07,Ontario,Population,7963117
+1972-07,Manitoba,Population,1001652
+1972-07,Saskatchewan,Population,920780
+1972-07,Alberta,Population,1694090
+1972-07,British Columbia,Population,2302086
+1972-07,Yukon,Population,20143
+1972-07,Northwest Territories including Nunavut,Population,38771
+1972-10,Canada,Population,22288499
+1972-10,Newfoundland and Labrador,Population,541472
+1972-10,Prince Edward Island,Population,113960
+1972-10,Nova Scotia,Population,805317
+1972-10,New Brunswick,Population,651182
+1972-10,Quebec,Population,6182065
+1972-10,Ontario,Population,7992037
+1972-10,Manitoba,Population,1001682
+1972-10,Saskatchewan,Population,916659
+1972-10,Alberta,Population,1705519
+1972-10,British Columbia,Population,2318552
+1972-10,Yukon,Population,20570
+1972-10,Northwest Territories including Nunavut,Population,39484
+1973-01,Canada,Population,22347459
+1973-01,Newfoundland and Labrador,Population,542983
+1973-01,Prince Edward Island,Population,114276
+1973-01,Nova Scotia,Population,808614
+1973-01,New Brunswick,Population,652497
+1973-01,Quebec,Population,6189678
+1973-01,Ontario,Population,8013391
+1973-01,Manitoba,Population,1002589
+1973-01,Saskatchewan,Population,913591
+1973-01,Alberta,Population,1710866
+1973-01,British Columbia,Population,2338148
+1973-01,Yukon,Population,20813
+1973-01,Northwest Territories including Nunavut,Population,40013
+1973-04,Canada,Population,22405392
+1973-04,Newfoundland and Labrador,Population,544026
+1973-04,Prince Edward Island,Population,114437
+1973-04,Nova Scotia,Population,809697
+1973-04,New Brunswick,Population,655725
+1973-04,Quebec,Population,6199080
+1973-04,Ontario,Population,8035129
+1973-04,Manitoba,Population,1005005
+1973-04,Saskatchewan,Population,912191
+1973-04,Alberta,Population,1717910
+1973-04,British Columbia,Population,2350837
+1973-04,Yukon,Population,20968
+1973-04,Northwest Territories including Nunavut,Population,40387
+1973-07,Canada,Population,22491777
+1973-07,Newfoundland and Labrador,Population,545561
+1973-07,Prince Edward Island,Population,114620
+1973-07,Nova Scotia,Population,812386
+1973-07,New Brunswick,Population,656720
+1973-07,Quebec,Population,6213149
+1973-07,Ontario,Population,8075547
+1973-07,Manitoba,Population,1007358
+1973-07,Saskatchewan,Population,911937
+1973-07,Alberta,Population,1725327
+1973-07,British Columbia,Population,2367271
+1973-07,Yukon,Population,21148
+1973-07,Northwest Territories including Nunavut,Population,40753
+1973-10,Canada,Population,22570338
+1973-10,Newfoundland and Labrador,Population,546717
+1973-10,Prince Edward Island,Population,114944
+1973-10,Nova Scotia,Population,814351
+1973-10,New Brunswick,Population,658693
+1973-10,Quebec,Population,6227045
+1973-10,Ontario,Population,8107108
+1973-10,Manitoba,Population,1008908
+1973-10,Saskatchewan,Population,908856
+1973-10,Alberta,Population,1735396
+1973-10,British Columbia,Population,2386932
+1973-10,Yukon,Population,20874
+1973-10,Northwest Territories including Nunavut,Population,40514
+1974-01,Canada,Population,22649538
+1974-01,Newfoundland and Labrador,Population,547107
+1974-01,Prince Edward Island,Population,115189
+1974-01,Nova Scotia,Population,816353
+1974-01,New Brunswick,Population,661016
+1974-01,Quebec,Population,6238468
+1974-01,Ontario,Population,8139808
+1974-01,Manitoba,Population,1012378
+1974-01,Saskatchewan,Population,907546
+1974-01,Alberta,Population,1739942
+1974-01,British Columbia,Population,2409913
+1974-01,Yukon,Population,20973
+1974-01,Northwest Territories including Nunavut,Population,40845
+1974-04,Canada,Population,22723274
+1974-04,Newfoundland and Labrador,Population,547385
+1974-04,Prince Edward Island,Population,115566
+1974-04,Nova Scotia,Population,816688
+1974-04,New Brunswick,Population,662560
+1974-04,Quebec,Population,6251741
+1974-04,Ontario,Population,8172562
+1974-04,Manitoba,Population,1015368
+1974-04,Saskatchewan,Population,907748
+1974-04,Alberta,Population,1746975
+1974-04,British Columbia,Population,2424995
+1974-04,Yukon,Population,20895
+1974-04,Northwest Territories including Nunavut,Population,40791
+1974-07,Canada,Population,22807969
+1974-07,Newfoundland and Labrador,Population,549604
+1974-07,Prince Edward Island,Population,115962
+1974-07,Nova Scotia,Population,818751
+1974-07,New Brunswick,Population,664744
+1974-07,Quebec,Population,6268571
+1974-07,Ontario,Population,8204275
+1974-07,Manitoba,Population,1018206
+1974-07,Saskatchewan,Population,908457
+1974-07,Alberta,Population,1754621
+1974-07,British Columbia,Population,2442578
+1974-07,Yukon,Population,21069
+1974-07,Northwest Territories including Nunavut,Population,41131
+1974-10,Canada,Population,22907390
+1974-10,Newfoundland and Labrador,Population,551508
+1974-10,Prince Edward Island,Population,116401
+1974-10,Nova Scotia,Population,821251
+1974-10,New Brunswick,Population,669506
+1974-10,Quebec,Population,6286708
+1974-10,Ontario,Population,8240114
+1974-10,Manitoba,Population,1018954
+1974-10,Saskatchewan,Population,908714
+1974-10,Alberta,Population,1769880
+1974-10,British Columbia,Population,2461396
+1974-10,Yukon,Population,21335
+1974-10,Northwest Territories including Nunavut,Population,41623
+1975-01,Canada,Population,22979190
+1975-01,Newfoundland and Labrador,Population,552812
+1975-01,Prince Edward Island,Population,117031
+1975-01,Nova Scotia,Population,823084
+1975-01,New Brunswick,Population,671135
+1975-01,Quebec,Population,6299783
+1975-01,Ontario,Population,8260161
+1975-01,Manitoba,Population,1019529
+1975-01,Saskatchewan,Population,910276
+1975-01,Alberta,Population,1782575
+1975-01,British Columbia,Population,2479085
+1975-01,Yukon,Population,21580
+1975-01,Northwest Territories including Nunavut,Population,42139
+1975-04,Canada,Population,23048990
+1975-04,Newfoundland and Labrador,Population,554166
+1975-04,Prince Edward Island,Population,117316
+1975-04,Nova Scotia,Population,824791
+1975-04,New Brunswick,Population,673918
+1975-04,Quebec,Population,6310999
+1975-04,Ontario,Population,8284503
+1975-04,Manitoba,Population,1021824
+1975-04,Saskatchewan,Population,913118
+1975-04,Alberta,Population,1795097
+1975-04,British Columbia,Population,2489116
+1975-04,Yukon,Population,21692
+1975-04,Northwest Territories including Nunavut,Population,42450
+1975-07,Canada,Population,23143275
+1975-07,Newfoundland and Labrador,Population,556496
+1975-07,Prince Edward Island,Population,117724
+1975-07,Nova Scotia,Population,826549
+1975-07,New Brunswick,Population,677008
+1975-07,Quebec,Population,6330303
+1975-07,Ontario,Population,8319795
+1975-07,Manitoba,Population,1024975
+1975-07,Saskatchewan,Population,917415
+1975-07,Alberta,Population,1808689
+1975-07,British Columbia,Population,2499564
+1975-07,Yukon,Population,21908
+1975-07,Northwest Territories including Nunavut,Population,42849
+1975-10,Canada,Population,23240585
+1975-10,Newfoundland and Labrador,Population,558900
+1975-10,Prince Edward Island,Population,118009
+1975-10,Nova Scotia,Population,830351
+1975-10,New Brunswick,Population,682086
+1975-10,Quebec,Population,6348244
+1975-10,Ontario,Population,8352911
+1975-10,Manitoba,Population,1026093
+1975-10,Saskatchewan,Population,922468
+1975-10,Alberta,Population,1825051
+1975-10,British Columbia,Population,2510751
+1975-10,Yukon,Population,22214
+1975-10,Northwest Territories including Nunavut,Population,43507
+1976-01,Canada,Population,23304197
+1976-01,Newfoundland and Labrador,Population,560024
+1976-01,Prince Edward Island,Population,118264
+1976-01,Nova Scotia,Population,832765
+1976-01,New Brunswick,Population,685155
+1976-01,Quebec,Population,6362125
+1976-01,Ontario,Population,8366498
+1976-01,Manitoba,Population,1028134
+1976-01,Saskatchewan,Population,925570
+1976-01,Alberta,Population,1839191
+1976-01,British Columbia,Population,2520425
+1976-01,Yukon,Population,22259
+1976-01,Northwest Territories including Nunavut,Population,43787
+1976-04,Canada,Population,23369845
+1976-04,Newfoundland and Labrador,Population,560856
+1976-04,Prince Edward Island,Population,118298
+1976-04,Nova Scotia,Population,833741
+1976-04,New Brunswick,Population,687521
+1976-04,Quebec,Population,6377976
+1976-04,Ontario,Population,8387985
+1976-04,Manitoba,Population,1030093
+1976-04,Saskatchewan,Population,928697
+1976-04,Alberta,Population,1852651
+1976-04,British Columbia,Population,2525812
+1976-04,Yukon,Population,22263
+1976-04,Northwest Territories including Nunavut,Population,43952
+1976-07,Canada,Population,23449808
+1976-07,Newfoundland and Labrador,Population,562639
+1976-07,Prince Edward Island,Population,118648
+1976-07,Nova Scotia,Population,835166
+1976-07,New Brunswick,Population,689494
+1976-07,Quebec,Population,6396761
+1976-07,Ontario,Population,8413779
+1976-07,Manitoba,Population,1031758
+1976-07,Saskatchewan,Population,931612
+1976-07,Alberta,Population,1869287
+1976-07,British Columbia,Population,2533899
+1976-07,Yukon,Population,22441
+1976-07,Northwest Territories including Nunavut,Population,44324
+1976-10,Canada,Population,23533565
+1976-10,Newfoundland and Labrador,Population,563591
+1976-10,Prince Edward Island,Population,118925
+1976-10,Nova Scotia,Population,837578
+1976-10,New Brunswick,Population,690936
+1976-10,Quebec,Population,6404158
+1976-10,Ontario,Population,8438765
+1976-10,Manitoba,Population,1033171
+1976-10,Saskatchewan,Population,936235
+1976-10,Alberta,Population,1896466
+1976-10,British Columbia,Population,2546813
+1976-10,Yukon,Population,22509
+1976-10,Northwest Territories including Nunavut,Population,44418
+1977-01,Canada,Population,23591713
+1977-01,Newfoundland and Labrador,Population,563387
+1977-01,Prince Edward Island,Population,119121
+1977-01,Nova Scotia,Population,838385
+1977-01,New Brunswick,Population,691810
+1977-01,Quebec,Population,6412575
+1977-01,Ontario,Population,8458617
+1977-01,Manitoba,Population,1034113
+1977-01,Saskatchewan,Population,938455
+1977-01,Alberta,Population,1914570
+1977-01,British Columbia,Population,2554051
+1977-01,Yukon,Population,22262
+1977-01,Northwest Territories including Nunavut,Population,44367
+1977-04,Canada,Population,23656739
+1977-04,Newfoundland and Labrador,Population,564217
+1977-04,Prince Edward Island,Population,119297
+1977-04,Nova Scotia,Population,839315
+1977-04,New Brunswick,Population,693580
+1977-04,Quebec,Population,6423152
+1977-04,Ontario,Population,8481322
+1977-04,Manitoba,Population,1035920
+1977-04,Saskatchewan,Population,941297
+1977-04,Alberta,Population,1931214
+1977-04,British Columbia,Population,2560711
+1977-04,Yukon,Population,22308
+1977-04,Northwest Territories including Nunavut,Population,44406
+1977-07,Canada,Population,23725843
+1977-07,Newfoundland and Labrador,Population,565348
+1977-07,Prince Edward Island,Population,119902
+1977-07,Nova Scotia,Population,840028
+1977-07,New Brunswick,Population,695843
+1977-07,Quebec,Population,6433133
+1977-07,Ontario,Population,8504080
+1977-07,Manitoba,Population,1037369
+1977-07,Saskatchewan,Population,944621
+1977-07,Alberta,Population,1948263
+1977-07,British Columbia,Population,2570315
+1977-07,Yukon,Population,22462
+1977-07,Northwest Territories including Nunavut,Population,44479
+1977-10,Canada,Population,23801445
+1977-10,Newfoundland and Labrador,Population,566116
+1977-10,Prince Edward Island,Population,120459
+1977-10,Nova Scotia,Population,842051
+1977-10,New Brunswick,Population,696378
+1977-10,Quebec,Population,6431509
+1977-10,Ontario,Population,8530102
+1977-10,Manitoba,Population,1038470
+1977-10,Saskatchewan,Population,947400
+1977-10,Alberta,Population,1974721
+1977-10,British Columbia,Population,2586668
+1977-10,Yukon,Population,22747
+1977-10,Northwest Territories including Nunavut,Population,44824
+1978-01,Canada,Population,23849503
+1978-01,Newfoundland and Labrador,Population,565981
+1978-01,Prince Edward Island,Population,120764
+1978-01,Nova Scotia,Population,842961
+1978-01,New Brunswick,Population,696872
+1978-01,Quebec,Population,6432019
+1978-01,Ontario,Population,8548453
+1978-01,Manitoba,Population,1038859
+1978-01,Saskatchewan,Population,948753
+1978-01,Alberta,Population,1991454
+1978-01,British Columbia,Population,2595858
+1978-01,Yukon,Population,22668
+1978-01,Northwest Territories including Nunavut,Population,44861
+1978-04,Canada,Population,23903687
+1978-04,Newfoundland and Labrador,Population,566671
+1978-04,Prince Edward Island,Population,121014
+1978-04,Nova Scotia,Population,843663
+1978-04,New Brunswick,Population,697851
+1978-04,Quebec,Population,6436705
+1978-04,Ontario,Population,8569298
+1978-04,Manitoba,Population,1040028
+1978-04,Saskatchewan,Population,950365
+1978-04,Alberta,Population,2006745
+1978-04,British Columbia,Population,2603502
+1978-04,Yukon,Population,22834
+1978-04,Northwest Territories including Nunavut,Population,45011
+1978-07,Canada,Population,23963203
+1978-07,Newfoundland and Labrador,Population,567639
+1978-07,Prince Edward Island,Population,121684
+1978-07,Nova Scotia,Population,844628
+1978-07,New Brunswick,Population,699514
+1978-07,Quebec,Population,6440459
+1978-07,Ontario,Population,8590144
+1978-07,Manitoba,Population,1040881
+1978-07,Saskatchewan,Population,952430
+1978-07,Alberta,Population,2022241
+1978-07,British Columbia,Population,2615162
+1978-07,Yukon,Population,23157
+1978-07,Northwest Territories including Nunavut,Population,45264
+1978-10,Canada,Population,24025447
+1978-10,Newfoundland and Labrador,Population,568417
+1978-10,Prince Edward Island,Population,121952
+1978-10,Nova Scotia,Population,846612
+1978-10,New Brunswick,Population,699937
+1978-10,Quebec,Population,6442774
+1978-10,Ontario,Population,8604263
+1978-10,Manitoba,Population,1038528
+1978-10,Saskatchewan,Population,954473
+1978-10,Alberta,Population,2047919
+1978-10,British Columbia,Population,2632020
+1978-10,Yukon,Population,23120
+1978-10,Northwest Territories including Nunavut,Population,45432
+1979-01,Canada,Population,24071889
+1979-01,Newfoundland and Labrador,Population,568329
+1979-01,Prince Edward Island,Population,122104
+1979-01,Nova Scotia,Population,847511
+1979-01,New Brunswick,Population,700237
+1979-01,Quebec,Population,6446529
+1979-01,Ontario,Population,8619239
+1979-01,Manitoba,Population,1037449
+1979-01,Saskatchewan,Population,955552
+1979-01,Alberta,Population,2064776
+1979-01,British Columbia,Population,2641872
+1979-01,Yukon,Population,22845
+1979-01,Northwest Territories including Nunavut,Population,45446
+1979-04,Canada,Population,24128180
+1979-04,Newfoundland and Labrador,Population,569012
+1979-04,Prince Edward Island,Population,122277
+1979-04,Nova Scotia,Population,848272
+1979-04,New Brunswick,Population,701261
+1979-04,Quebec,Population,6455295
+1979-04,Ontario,Population,8638099
+1979-04,Manitoba,Population,1037417
+1979-04,Saskatchewan,Population,957375
+1979-04,Alberta,Population,2079840
+1979-04,British Columbia,Population,2650940
+1979-04,Yukon,Population,22845
+1979-04,Northwest Territories including Nunavut,Population,45547
+1979-07,Canada,Population,24201544
+1979-07,Newfoundland and Labrador,Population,570075
+1979-07,Prince Edward Island,Population,122885
+1979-07,Nova Scotia,Population,849396
+1979-07,New Brunswick,Population,703158
+1979-07,Quebec,Population,6465996
+1979-07,Ontario,Population,8662088
+1979-07,Manitoba,Population,1037272
+1979-07,Saskatchewan,Population,959735
+1979-07,Alberta,Population,2096966
+1979-07,British Columbia,Population,2665238
+1979-07,Yukon,Population,22972
+1979-07,Northwest Territories including Nunavut,Population,45763
+1979-10,Canada,Population,24279044
+1979-10,Newfoundland and Labrador,Population,570976
+1979-10,Prince Edward Island,Population,123002
+1979-10,Nova Scotia,Population,850336
+1979-10,New Brunswick,Population,703038
+1979-10,Quebec,Population,6472095
+1979-10,Ontario,Population,8674941
+1979-10,Manitoba,Population,1034189
+1979-10,Saskatchewan,Population,961723
+1979-10,Alberta,Population,2128647
+1979-10,British Columbia,Population,2691121
+1979-10,Yukon,Population,23036
+1979-10,Northwest Territories including Nunavut,Population,45940
+1980-01,Canada,Population,24345365
+1980-01,Newfoundland and Labrador,Population,570899
+1980-01,Prince Edward Island,Population,123109
+1980-01,Nova Scotia,Population,850915
+1980-01,New Brunswick,Population,703538
+1980-01,Quebec,Population,6480428
+1980-01,Ontario,Population,8693157
+1980-01,Manitoba,Population,1033557
+1980-01,Saskatchewan,Population,963231
+1980-01,Alberta,Population,2149996
+1980-01,British Columbia,Population,2707690
+1980-01,Yukon,Population,22834
+1980-01,Northwest Territories including Nunavut,Population,46011
+1980-04,Canada,Population,24418295
+1980-04,Newfoundland and Labrador,Population,571554
+1980-04,Prince Edward Island,Population,123275
+1980-04,Nova Scotia,Population,851541
+1980-04,New Brunswick,Population,704475
+1980-04,Quebec,Population,6492192
+1980-04,Ontario,Population,8715218
+1980-04,Manitoba,Population,1033985
+1980-04,Saskatchewan,Population,965215
+1980-04,Alberta,Population,2168863
+1980-04,British Columbia,Population,2722921
+1980-04,Yukon,Population,22876
+1980-04,Northwest Territories including Nunavut,Population,46180
+1980-07,Canada,Population,24515667
+1980-07,Newfoundland and Labrador,Population,572759
+1980-07,Prince Edward Island,Population,123735
+1980-07,Nova Scotia,Population,852659
+1980-07,New Brunswick,Population,706219
+1980-07,Quebec,Population,6505997
+1980-07,Ontario,Population,8746013
+1980-07,Manitoba,Population,1034435
+1980-07,Saskatchewan,Population,967548
+1980-07,Alberta,Population,2191029
+1980-07,British Columbia,Population,2745861
+1980-07,Yukon,Population,23019
+1980-07,Northwest Territories including Nunavut,Population,46393
+1980-10,Canada,Population,24603534
+1980-10,Newfoundland and Labrador,Population,573582
+1980-10,Prince Edward Island,Population,123445
+1980-10,Nova Scotia,Population,853389
+1980-10,New Brunswick,Population,705237
+1980-10,Quebec,Population,6515323
+1980-10,Ontario,Population,8757388
+1980-10,Manitoba,Population,1034017
+1980-10,Saskatchewan,Population,970183
+1980-10,Alberta,Population,2227159
+1980-10,British Columbia,Population,2773680
+1980-10,Yukon,Population,23380
+1980-10,Northwest Territories including Nunavut,Population,46751
+1981-01,Canada,Population,24665355
+1981-01,Newfoundland and Labrador,Population,573420
+1981-01,Prince Edward Island,Population,123315
+1981-01,Nova Scotia,Population,853673
+1981-01,New Brunswick,Population,704763
+1981-01,Quebec,Population,6523258
+1981-01,Ontario,Population,8770591
+1981-01,Manitoba,Population,1033968
+1981-01,Saskatchewan,Population,971544
+1981-01,Alberta,Population,2249907
+1981-01,British Columbia,Population,2790754
+1981-01,Yukon,Population,23311
+1981-01,Northwest Territories including Nunavut,Population,46851
+1981-04,Canada,Population,24732826
+1981-04,Newfoundland and Labrador,Population,574199
+1981-04,Prince Edward Island,Population,123285
+1981-04,Nova Scotia,Population,854024
+1981-04,New Brunswick,Population,705241
+1981-04,Quebec,Population,6534508
+1981-04,Ontario,Population,8787156
+1981-04,Manitoba,Population,1034805
+1981-04,Saskatchewan,Population,973372
+1981-04,Alberta,Population,2270227
+1981-04,British Columbia,Population,2805394
+1981-04,Yukon,Population,23517
+1981-04,Northwest Territories including Nunavut,Population,47098
+1981-07,Canada,Population,24819915
+1981-07,Newfoundland and Labrador,Population,575302
+1981-07,Prince Edward Island,Population,123551
+1981-07,Nova Scotia,Population,854871
+1981-07,New Brunswick,Population,706438
+1981-07,Quebec,Population,6547207
+1981-07,Ontario,Population,8812286
+1981-07,Manitoba,Population,1035545
+1981-07,Saskatchewan,Population,975759
+1981-07,Alberta,Population,2291104
+1981-07,British Columbia,Population,2826558
+1981-07,Yukon,Population,23880
+1981-07,Northwest Territories including Nunavut,Population,47414
+1981-10,Canada,Population,24920120
+1981-10,Newfoundland and Labrador,Population,575276
+1981-10,Prince Edward Island,Population,123496
+1981-10,Nova Scotia,Population,857038
+1981-10,New Brunswick,Population,706008
+1981-10,Quebec,Population,6558545
+1981-10,Ontario,Population,8846005
+1981-10,Manitoba,Population,1037183
+1981-10,Saskatchewan,Population,979469
+1981-10,Alberta,Population,2319715
+1981-10,British Columbia,Population,2845212
+1981-10,Yukon,Population,24120
+1981-10,Northwest Territories including Nunavut,Population,48053
+1982-01,Canada,Population,24979229
+1982-01,Newfoundland and Labrador,Population,573343
+1982-01,Prince Edward Island,Population,123335
+1982-01,Nova Scotia,Population,857469
+1982-01,New Brunswick,Population,705608
+1982-01,Quebec,Population,6565745
+1982-01,Ontario,Population,8865774
+1982-01,Manitoba,Population,1039300
+1982-01,Saskatchewan,Population,981559
+1982-01,Alberta,Population,2337458
+1982-01,British Columbia,Population,2857268
+1982-01,Yukon,Population,24302
+1982-01,Northwest Territories including Nunavut,Population,48068
+1982-04,Canada,Population,25042069
+1982-04,Newfoundland and Labrador,Population,573292
+1982-04,Prince Edward Island,Population,123225
+1982-04,Nova Scotia,Population,857592
+1982-04,New Brunswick,Population,706179
+1982-04,Quebec,Population,6572316
+1982-04,Ontario,Population,8892646
+1982-04,Manitoba,Population,1042251
+1982-04,Saskatchewan,Population,983744
+1982-04,Alberta,Population,2352042
+1982-04,British Columbia,Population,2865557
+1982-04,Yukon,Population,24571
+1982-04,Northwest Territories including Nunavut,Population,48654
+1982-07,Canada,Population,25116942
+1982-07,Newfoundland and Labrador,Population,573795
+1982-07,Prince Edward Island,Population,123588
+1982-07,Nova Scotia,Population,859038
+1982-07,New Brunswick,Population,707457
+1982-07,Quebec,Population,6580631
+1982-07,Ontario,Population,8920288
+1982-07,Manitoba,Population,1045224
+1982-07,Saskatchewan,Population,986582
+1982-07,Alberta,Population,2369827
+1982-07,British Columbia,Population,2876513
+1982-07,Yukon,Population,24668
+1982-07,Northwest Territories including Nunavut,Population,49331
+1982-10,Canada,Population,25193538
+1982-10,Newfoundland and Labrador,Population,575898
+1982-10,Prince Edward Island,Population,123919
+1982-10,Nova Scotia,Population,862255
+1982-10,New Brunswick,Population,709894
+1982-10,Quebec,Population,6584666
+1982-10,Ontario,Population,8957042
+1982-10,Manitoba,Population,1049816
+1982-10,Saskatchewan,Population,991621
+1982-10,Alberta,Population,2378405
+1982-10,British Columbia,Population,2885875
+1982-10,Yukon,Population,24320
+1982-10,Northwest Territories including Nunavut,Population,49827
+1983-01,Canada,Population,25242830
+1983-01,Newfoundland and Labrador,Population,576813
+1983-01,Prince Edward Island,Population,124181
+1983-01,Nova Scotia,Population,864117
+1983-01,New Brunswick,Population,711021
+1983-01,Quebec,Population,6588636
+1983-01,Ontario,Population,8982933
+1983-01,Manitoba,Population,1052538
+1983-01,Saskatchewan,Population,993810
+1983-01,Alberta,Population,2383354
+1983-01,British Columbia,Population,2891441
+1983-01,Yukon,Population,23838
+1983-01,Northwest Territories including Nunavut,Population,50148
+1983-04,Canada,Population,25300372
+1983-04,Newfoundland and Labrador,Population,577523
+1983-04,Prince Edward Island,Population,124479
+1983-04,Nova Scotia,Population,865796
+1983-04,New Brunswick,Population,712338
+1983-04,Quebec,Population,6595846
+1983-04,Ontario,Population,9010994
+1983-04,Manitoba,Population,1055586
+1983-04,Saskatchewan,Population,997100
+1983-04,Alberta,Population,2388090
+1983-04,British Columbia,Population,2898574
+1983-04,Yukon,Population,23702
+1983-04,Northwest Territories including Nunavut,Population,50344
+1983-07,Canada,Population,25366451
+1983-07,Newfoundland and Labrador,Population,579164
+1983-07,Prince Edward Island,Population,125102
+1983-07,Nova Scotia,Population,868289
+1983-07,New Brunswick,Population,714842
+1983-07,Quebec,Population,6602976
+1983-07,Ontario,Population,9039564
+1983-07,Manitoba,Population,1059752
+1983-07,Saskatchewan,Population,1001249
+1983-07,Alberta,Population,2393587
+1983-07,British Columbia,Population,2907502
+1983-07,Yukon,Population,23664
+1983-07,Northwest Territories including Nunavut,Population,50760
+1983-10,Canada,Population,25434150
+1983-10,Newfoundland and Labrador,Population,579603
+1983-10,Prince Edward Island,Population,125634
+1983-10,Nova Scotia,Population,872143
+1983-10,New Brunswick,Population,716531
+1983-10,Quebec,Population,6608417
+1983-10,Ontario,Population,9074145
+1983-10,Manitoba,Population,1063952
+1983-10,Saskatchewan,Population,1005175
+1983-10,Alberta,Population,2394239
+1983-10,British Columbia,Population,2919166
+1983-10,Yukon,Population,23760
+1983-10,Northwest Territories including Nunavut,Population,51385
+1984-01,Canada,Population,25482358
+1984-01,Newfoundland and Labrador,Population,579558
+1984-01,Prince Edward Island,Population,125906
+1984-01,Nova Scotia,Population,874076
+1984-01,New Brunswick,Population,717434
+1984-01,Quebec,Population,6613628
+1984-01,Ontario,Population,9100590
+1984-01,Manitoba,Population,1066222
+1984-01,Saskatchewan,Population,1007484
+1984-01,Alberta,Population,2394892
+1984-01,British Columbia,Population,2927258
+1984-01,Yukon,Population,23544
+1984-01,Northwest Territories including Nunavut,Population,51766
+1984-04,Canada,Population,25539861
+1984-04,Newfoundland and Labrador,Population,579810
+1984-04,Prince Edward Island,Population,126184
+1984-04,Nova Scotia,Population,875922
+1984-04,New Brunswick,Population,718627
+1984-04,Quebec,Population,6621748
+1984-04,Ontario,Population,9129833
+1984-04,Manitoba,Population,1069201
+1984-04,Saskatchewan,Population,1010840
+1984-04,Alberta,Population,2396706
+1984-04,British Columbia,Population,2935384
+1984-04,Yukon,Population,23603
+1984-04,Northwest Territories including Nunavut,Population,52003
+1984-07,Canada,Population,25607053
+1984-07,Newfoundland and Labrador,Population,580065
+1984-07,Prince Edward Island,Population,126563
+1984-07,Nova Scotia,Population,877471
+1984-07,New Brunswick,Population,720488
+1984-07,Quebec,Population,6631220
+1984-07,Ontario,Population,9167484
+1984-07,Manitoba,Population,1071810
+1984-07,Saskatchewan,Population,1014615
+1984-07,Alberta,Population,2393907
+1984-07,British Columbia,Population,2947181
+1984-07,Yukon,Population,23921
+1984-07,Northwest Territories including Nunavut,Population,52328
+1984-10,Canada,Population,25677668
+1984-10,Newfoundland and Labrador,Population,579356
+1984-10,Prince Edward Island,Population,126877
+1984-10,Nova Scotia,Population,881323
+1984-10,New Brunswick,Population,721509
+1984-10,Quebec,Population,6640276
+1984-10,Ontario,Population,9210346
+1984-10,Manitoba,Population,1075088
+1984-10,Saskatchewan,Population,1018785
+1984-10,Alberta,Population,2390913
+1984-10,British Columbia,Population,2956332
+1984-10,Yukon,Population,24168
+1984-10,Northwest Territories including Nunavut,Population,52695
+1985-01,Canada,Population,25721170
+1985-01,Newfoundland and Labrador,Population,579043
+1985-01,Prince Edward Island,Population,127330
+1985-01,Nova Scotia,Population,883012
+1985-01,New Brunswick,Population,721932
+1985-01,Quebec,Population,6645778
+1985-01,Ontario,Population,9230294
+1985-01,Manitoba,Population,1078327
+1985-01,Saskatchewan,Population,1020040
+1985-01,Alberta,Population,2395813
+1985-01,British Columbia,Population,2962108
+1985-01,Yukon,Population,24156
+1985-01,Northwest Territories including Nunavut,Population,53337
+1985-04,Canada,Population,25774717
+1985-04,Newfoundland and Labrador,Population,579320
+1985-04,Prince Edward Island,Population,127486
+1985-04,Nova Scotia,Population,884525
+1985-04,New Brunswick,Population,722406
+1985-04,Quebec,Population,6654729
+1985-04,Ontario,Population,9256175
+1985-04,Manitoba,Population,1081013
+1985-04,Saskatchewan,Population,1021914
+1985-04,Alberta,Population,2401499
+1985-04,British Columbia,Population,2967584
+1985-04,Yukon,Population,24245
+1985-04,Northwest Territories including Nunavut,Population,53821
+1985-07,Canada,Population,25842116
+1985-07,Newfoundland and Labrador,Population,579275
+1985-07,Prince Edward Island,Population,127619
+1985-07,Nova Scotia,Population,885848
+1985-07,New Brunswick,Population,723287
+1985-07,Quebec,Population,6665802
+1985-07,Ontario,Population,9294657
+1985-07,Manitoba,Population,1082495
+1985-07,Saskatchewan,Population,1024928
+1985-07,Alberta,Population,2404490
+1985-07,British Columbia,Population,2975131
+1985-07,Yukon,Population,24375
+1985-07,Northwest Territories including Nunavut,Population,54209
+1985-10,Canada,Population,25914797
+1985-10,Newfoundland and Labrador,Population,577784
+1985-10,Prince Edward Island,Population,127864
+1985-10,Nova Scotia,Population,887408
+1985-10,New Brunswick,Population,723955
+1985-10,Quebec,Population,6676959
+1985-10,Ontario,Population,9338435
+1985-10,Manitoba,Population,1085016
+1985-10,Saskatchewan,Population,1027418
+1985-10,Alberta,Population,2407001
+1985-10,British Columbia,Population,2984237
+1985-10,Yukon,Population,24458
+1985-10,Northwest Territories including Nunavut,Population,54262
+1986-01,Canada,Population,25962414
+1986-01,Newfoundland and Labrador,Population,577248
+1986-01,Prince Edward Island,Population,128256
+1986-01,Nova Scotia,Population,887435
+1986-01,New Brunswick,Population,724277
+1986-01,Quebec,Population,6684699
+1986-01,Ontario,Population,9362036
+1986-01,Manitoba,Population,1087851
+1986-01,Saskatchewan,Population,1027137
+1986-01,Alberta,Population,2415590
+1986-01,British Columbia,Population,2988964
+1986-01,Yukon,Population,24359
+1986-01,Northwest Territories including Nunavut,Population,54562
+1986-04,Canada,Population,26019615
+1986-04,Newfoundland and Labrador,Population,577105
+1986-04,Prince Edward Island,Population,128403
+1986-04,Nova Scotia,Population,888157
+1986-04,New Brunswick,Population,724432
+1986-04,Quebec,Population,6693133
+1986-04,Ontario,Population,9391784
+1986-04,Manitoba,Population,1090433
+1986-04,Saskatchewan,Population,1027812
+1986-04,Alberta,Population,2424950
+1986-04,British Columbia,Population,2994267
+1986-04,Yukon,Population,24364
+1986-04,Northwest Territories including Nunavut,Population,54775
+1986-07,Canada,Population,26100278
+1986-07,Newfoundland and Labrador,Population,576306
+1986-07,Prince Edward Island,Population,128436
+1986-07,Nova Scotia,Population,889087
+1986-07,New Brunswick,Population,725019
+1986-07,Quebec,Population,6708170
+1986-07,Ontario,Population,9437359
+1986-07,Manitoba,Population,1091552
+1986-07,Saskatchewan,Population,1028717
+1986-07,Alberta,Population,2432930
+1986-07,British Columbia,Population,3003621
+1986-07,Yukon,Population,24430
+1986-07,Northwest Territories including Nunavut,Population,54651
+1986-10,Canada,Population,26187639
+1986-10,Newfoundland and Labrador,Population,575396
+1986-10,Prince Edward Island,Population,128281
+1986-10,Nova Scotia,Population,891078
+1986-10,New Brunswick,Population,725304
+1986-10,Quebec,Population,6727250
+1986-10,Ontario,Population,9493289
+1986-10,Manitoba,Population,1092636
+1986-10,Saskatchewan,Population,1029554
+1986-10,Alberta,Population,2429949
+1986-10,British Columbia,Population,3015876
+1986-10,Yukon,Population,24782
+1986-10,Northwest Territories including Nunavut,Population,54244
+1987-01,Canada,Population,26256140
+1987-01,Newfoundland and Labrador,Population,575586
+1987-01,Prince Edward Island,Population,128429
+1987-01,Nova Scotia,Population,891424
+1987-01,New Brunswick,Population,725368
+1987-01,Quebec,Population,6745101
+1987-01,Ontario,Population,9531478
+1987-01,Manitoba,Population,1094659
+1987-01,Saskatchewan,Population,1029639
+1987-01,Alberta,Population,2432958
+1987-01,British Columbia,Population,3021900
+1987-01,Yukon,Population,25125
+1987-01,Northwest Territories including Nunavut,Population,54473
+1987-04,Canada,Population,26346370
+1987-04,Newfoundland and Labrador,Population,575802
+1987-04,Prince Edward Island,Population,128645
+1987-04,Nova Scotia,Population,891908
+1987-04,New Brunswick,Population,726566
+1987-04,Quebec,Population,6765059
+1987-04,Ontario,Population,9577947
+1987-04,Manitoba,Population,1097076
+1987-04,Saskatchewan,Population,1031336
+1987-04,Alberta,Population,2439074
+1987-04,British Columbia,Population,3032807
+1987-04,Yukon,Population,25386
+1987-04,Northwest Territories including Nunavut,Population,54764
+1987-07,Canada,Population,26446601
+1987-07,Newfoundland and Labrador,Population,575242
+1987-07,Prince Edward Island,Population,128641
+1987-07,Nova Scotia,Population,893606
+1987-07,New Brunswick,Population,727768
+1987-07,Quebec,Population,6781984
+1987-07,Ontario,Population,9637945
+1987-07,Manitoba,Population,1098373
+1987-07,Saskatchewan,Population,1032799
+1987-07,Alberta,Population,2440877
+1987-07,British Columbia,Population,3048651
+1987-07,Yukon,Population,25706
+1987-07,Northwest Territories including Nunavut,Population,55009
+1987-10,Canada,Population,26542370
+1987-10,Newfoundland and Labrador,Population,574094
+1987-10,Prince Edward Island,Population,128758
+1987-10,Nova Scotia,Population,894585
+1987-10,New Brunswick,Population,728100
+1987-10,Quebec,Population,6796640
+1987-10,Ontario,Population,9702789
+1987-10,Manitoba,Population,1098195
+1987-10,Saskatchewan,Population,1031995
+1987-10,Alberta,Population,2437537
+1987-10,British Columbia,Population,3068995
+1987-10,Yukon,Population,25808
+1987-10,Northwest Territories including Nunavut,Population,54874
+1988-01,Canada,Population,26602328
+1988-01,Newfoundland and Labrador,Population,574543
+1988-01,Prince Edward Island,Population,129152
+1988-01,Nova Scotia,Population,894600
+1988-01,New Brunswick,Population,728401
+1988-01,Quebec,Population,6805203
+1988-01,Ontario,Population,9735171
+1988-01,Manitoba,Population,1099782
+1988-01,Saskatchewan,Population,1029527
+1988-01,Alberta,Population,2443396
+1988-01,British Columbia,Population,3081368
+1988-01,Yukon,Population,25902
+1988-01,Northwest Territories including Nunavut,Population,55283
+1988-04,Canada,Population,26679165
+1988-04,Newfoundland and Labrador,Population,574912
+1988-04,Prince Edward Island,Population,129242
+1988-04,Nova Scotia,Population,895638
+1988-04,New Brunswick,Population,729079
+1988-04,Quebec,Population,6818248
+1988-04,Ontario,Population,9774964
+1988-04,Manitoba,Population,1101404
+1988-04,Saskatchewan,Population,1028590
+1988-04,Alberta,Population,2450646
+1988-04,British Columbia,Population,3094274
+1988-04,Yukon,Population,26335
+1988-04,Northwest Territories including Nunavut,Population,55833
+1988-07,Canada,Population,26791747
+1988-07,Newfoundland and Labrador,Population,574982
+1988-07,Prince Edward Island,Population,129289
+1988-07,Nova Scotia,Population,897216
+1988-07,New Brunswick,Population,730349
+1988-07,Quebec,Population,6837077
+1988-07,Ontario,Population,9838620
+1988-07,Manitoba,Population,1102152
+1988-07,Saskatchewan,Population,1028225
+1988-07,Alberta,Population,2456614
+1988-07,British Columbia,Population,3114761
+1988-07,Yukon,Population,26653
+1988-07,Northwest Territories including Nunavut,Population,55809
+1988-10,Canada,Population,26932655
+1988-10,Newfoundland and Labrador,Population,574645
+1988-10,Prince Edward Island,Population,129327
+1988-10,Nova Scotia,Population,899462
+1988-10,New Brunswick,Population,731671
+1988-10,Quebec,Population,6864044
+1988-10,Ontario,Population,9917210
+1988-10,Manitoba,Population,1101074
+1988-10,Saskatchewan,Population,1025453
+1988-10,Alberta,Population,2465242
+1988-10,British Columbia,Population,3141854
+1988-10,Yukon,Population,26582
+1988-10,Northwest Territories including Nunavut,Population,56091
+1989-01,Canada,Population,27032356
+1989-01,Newfoundland and Labrador,Population,575626
+1989-01,Prince Edward Island,Population,129984
+1989-01,Nova Scotia,Population,900270
+1989-01,New Brunswick,Population,732462
+1989-01,Quebec,Population,6882602
+1989-01,Ontario,Population,9969308
+1989-01,Manitoba,Population,1101544
+1989-01,Saskatchewan,Population,1021497
+1989-01,Alberta,Population,2477533
+1989-01,British Columbia,Population,3158092
+1989-01,Yukon,Population,26898
+1989-01,Northwest Territories including Nunavut,Population,56540
+1989-04,Canada,Population,27147776
+1989-04,Newfoundland and Labrador,Population,576458
+1989-04,Prince Edward Island,Population,130192
+1989-04,Nova Scotia,Population,901341
+1989-04,New Brunswick,Population,733872
+1989-04,Quebec,Population,6903228
+1989-04,Ontario,Population,10031922
+1989-04,Manitoba,Population,1102669
+1989-04,Saskatchewan,Population,1020302
+1989-04,Alberta,Population,2489032
+1989-04,British Columbia,Population,3174623
+1989-04,Yukon,Population,27053
+1989-04,Northwest Territories including Nunavut,Population,57084
+1989-07,Canada,Population,27276781
+1989-07,Newfoundland and Labrador,Population,576551
+1989-07,Prince Edward Island,Population,130153
+1989-07,Nova Scotia,Population,903841
+1989-07,New Brunswick,Population,735129
+1989-07,Quebec,Population,6925128
+1989-07,Ontario,Population,10103305
+1989-07,Manitoba,Population,1103792
+1989-07,Saskatchewan,Population,1019439
+1989-07,Alberta,Population,2498325
+1989-07,British Columbia,Population,3196725
+1989-07,Yukon,Population,27167
+1989-07,Northwest Territories including Nunavut,Population,57226
+1989-10,Canada,Population,27402695
+1989-10,Newfoundland and Labrador,Population,575594
+1989-10,Prince Edward Island,Population,129900
+1989-10,Nova Scotia,Population,906644
+1989-10,New Brunswick,Population,736352
+1989-10,Quebec,Population,6946945
+1989-10,Ontario,Population,10167642
+1989-10,Manitoba,Population,1102522
+1989-10,Saskatchewan,Population,1016043
+1989-10,Alberta,Population,2507203
+1989-10,British Columbia,Population,3229220
+1989-10,Yukon,Population,27197
+1989-10,Northwest Territories including Nunavut,Population,57433
+1990-01,Canada,Population,27463550
+1990-01,Newfoundland and Labrador,Population,576278
+1990-01,Prince Edward Island,Population,130336
+1990-01,Nova Scotia,Population,907394
+1990-01,New Brunswick,Population,737307
+1990-01,Quebec,Population,6955119
+1990-01,Ontario,Population,10189985
+1990-01,Manitoba,Population,1102752
+1990-01,Saskatchewan,Population,1011429
+1990-01,Alberta,Population,2520056
+1990-01,British Columbia,Population,3247419
+1990-01,Yukon,Population,27605
+1990-01,Northwest Territories including Nunavut,Population,57870
+1990-04,Canada,Population,27567161
+1990-04,Newfoundland and Labrador,Population,577167
+1990-04,Prince Edward Island,Population,130468
+1990-04,Nova Scotia,Population,908444
+1990-04,New Brunswick,Population,738744
+1990-04,Quebec,Population,6973762
+1990-04,Ontario,Population,10238884
+1990-04,Manitoba,Population,1103935
+1990-04,Saskatchewan,Population,1009952
+1990-04,Alberta,Population,2532621
+1990-04,British Columbia,Population,3266888
+1990-04,Yukon,Population,27824
+1990-04,Northwest Territories including Nunavut,Population,58472
+1990-07,Canada,Population,27691138
+1990-07,Newfoundland and Labrador,Population,577368
+1990-07,Prince Edward Island,Population,130404
+1990-07,Nova Scotia,Population,910451
+1990-07,New Brunswick,Population,740156
+1990-07,Quebec,Population,6996986
+1990-07,Ontario,Population,10295832
+1990-07,Manitoba,Population,1105421
+1990-07,Saskatchewan,Population,1007727
+1990-07,Alberta,Population,2547788
+1990-07,British Columbia,Population,3292111
+1990-07,Yukon,Population,27957
+1990-07,Northwest Territories including Nunavut,Population,58937
+1990-10,Canada,Population,27807591
+1990-10,Newfoundland and Labrador,Population,577113
+1990-10,Prince Edward Island,Population,130367
+1990-10,Nova Scotia,Population,911749
+1990-10,New Brunswick,Population,741981
+1990-10,Quebec,Population,7019039
+1990-10,Ontario,Population,10344678
+1990-10,Manitoba,Population,1105098
+1990-10,Saskatchewan,Population,1004214
+1990-10,Alberta,Population,2563142
+1990-10,British Columbia,Population,3322896
+1990-10,Yukon,Population,28023
+1990-10,Northwest Territories including Nunavut,Population,59291
+1991-01,Canada,Population,27854861
+1991-01,Newfoundland and Labrador,Population,577377
+1991-01,Prince Edward Island,Population,130477
+1991-01,Nova Scotia,Population,912792
+1991-01,New Brunswick,Population,743210
+1991-01,Quebec,Population,7026241
+1991-01,Ontario,Population,10355101
+1991-01,Manitoba,Population,1106196
+1991-01,Saskatchewan,Population,1002651
+1991-01,Alberta,Population,2572947
+1991-01,British Columbia,Population,3339935
+1991-01,Yukon,Population,28223
+1991-01,Northwest Territories including Nunavut,Population,59711
+1991-04,Canada,Population,27928837
+1991-04,Newfoundland and Labrador,Population,578397
+1991-04,Prince Edward Island,Population,130453
+1991-04,Nova Scotia,Population,912889
+1991-04,New Brunswick,Population,744203
+1991-04,Quebec,Population,7044395
+1991-04,Ontario,Population,10385937
+1991-04,Manitoba,Population,1107757
+1991-04,Saskatchewan,Population,1002876
+1991-04,Alberta,Population,2580625
+1991-04,British Columbia,Population,3352585
+1991-04,Yukon,Population,28494
+1991-04,Northwest Territories including Nunavut,Population,60226
+1991-07,Canada,Population,28037420
+1991-07,Newfoundland and Labrador,Population,579644
+1991-07,Prince Edward Island,Population,130369
+1991-07,Nova Scotia,Population,914969
+1991-07,New Brunswick,Population,745567
+1991-07,Quebec,Population,7067396
+1991-07,Ontario,Population,10431316
+1991-07,Manitoba,Population,1109604
+1991-07,Saskatchewan,Population,1002713
+1991-07,Alberta,Population,2592306
+1991-07,British Columbia,Population,3373787
+1991-07,Yukon,Population,28871
+1991-07,Northwest Territories including Nunavut,Population,60878
+1991-07,Northwest Territories,Population,38724
+1991-07,Nunavut,Population,22154
+1991-10,Canada,Population,28127327
+1991-10,Newfoundland and Labrador,Population,579549
+1991-10,Prince Edward Island,Population,130360
+1991-10,Nova Scotia,Population,916896
+1991-10,New Brunswick,Population,745886
+1991-10,Quebec,Population,7080336
+1991-10,Ontario,Population,10465562
+1991-10,Manitoba,Population,1109400
+1991-10,Saskatchewan,Population,1000942
+1991-10,Alberta,Population,2604031
+1991-10,British Columbia,Population,3404049
+1991-10,Yukon,Population,29142
+1991-10,Northwest Territories,Population,38854
+1991-10,Nunavut,Population,22320
+1992-01,Canada,Population,28181477
+1992-01,Newfoundland and Labrador,Population,579425
+1992-01,Prince Edward Island,Population,130604
+1992-01,Nova Scotia,Population,917302
+1992-01,New Brunswick,Population,746571
+1992-01,Quebec,Population,7082645
+1992-01,Ontario,Population,10488022
+1992-01,Manitoba,Population,1109978
+1992-01,Saskatchewan,Population,1001136
+1992-01,Alberta,Population,2611786
+1992-01,British Columbia,Population,3423217
+1992-01,Yukon,Population,29239
+1992-01,Northwest Territories,Population,39055
+1992-01,Nunavut,Population,22497
+1992-04,Canada,Population,28269699
+1992-04,Newfoundland and Labrador,Population,579761
+1992-04,Prince Edward Island,Population,130812
+1992-04,Nova Scotia,Population,917555
+1992-04,New Brunswick,Population,747232
+1992-04,Quebec,Population,7096705
+1992-04,Ontario,Population,10528346
+1992-04,Manitoba,Population,1111050
+1992-04,Saskatchewan,Population,1002831
+1992-04,Alberta,Population,2620771
+1992-04,British Columbia,Population,3443237
+1992-04,Yukon,Population,29510
+1992-04,Northwest Territories,Population,39230
+1992-04,Nunavut,Population,22659
+1992-07,Canada,Population,28371264
+1992-07,Newfoundland and Labrador,Population,580109
+1992-07,Prince Edward Island,Population,130827
+1992-07,Nova Scotia,Population,919451
+1992-07,New Brunswick,Population,748121
+1992-07,Quebec,Population,7110010
+1992-07,Ontario,Population,10572205
+1992-07,Manitoba,Population,1112689
+1992-07,Saskatchewan,Population,1003995
+1992-07,Alberta,Population,2632672
+1992-07,British Columbia,Population,3468802
+1992-07,Yukon,Population,30084
+1992-07,Northwest Territories,Population,39416
+1992-07,Nunavut,Population,22883
+1992-10,Canada,Population,28474177
+1992-10,Newfoundland and Labrador,Population,579624
+1992-10,Prince Edward Island,Population,131201
+1992-10,Nova Scotia,Population,921619
+1992-10,New Brunswick,Population,747746
+1992-10,Quebec,Population,7129062
+1992-10,Ontario,Population,10610665
+1992-10,Manitoba,Population,1113209
+1992-10,Saskatchewan,Population,1002960
+1992-10,Alberta,Population,2643421
+1992-10,British Columbia,Population,3502209
+1992-10,Yukon,Population,30034
+1992-10,Northwest Territories,Population,39422
+1992-10,Nunavut,Population,23005
+1993-01,Canada,Population,28533602
+1993-01,Newfoundland and Labrador,Population,580819
+1993-01,Prince Edward Island,Population,131564
+1993-01,Nova Scotia,Population,922128
+1993-01,New Brunswick,Population,747892
+1993-01,Quebec,Population,7137514
+1993-01,Ontario,Population,10629994
+1993-01,Manitoba,Population,1114180
+1993-01,Saskatchewan,Population,1003443
+1993-01,Alberta,Population,2650886
+1993-01,British Columbia,Population,3522509
+1993-01,Yukon,Population,29964
+1993-01,Northwest Territories,Population,39538
+1993-01,Nunavut,Population,23171
+1993-04,Canada,Population,28600864
+1993-04,Newfoundland and Labrador,Population,580369
+1993-04,Prince Edward Island,Population,131833
+1993-04,Nova Scotia,Population,922469
+1993-04,New Brunswick,Population,748320
+1993-04,Quebec,Population,7147047
+1993-04,Ontario,Population,10656924
+1993-04,Manitoba,Population,1115554
+1993-04,Saskatchewan,Population,1005037
+1993-04,Alberta,Population,2658293
+1993-04,British Columbia,Population,3541936
+1993-04,Yukon,Population,30112
+1993-04,Northwest Territories,Population,39649
+1993-04,Nunavut,Population,23321
+1993-07,Canada,Population,28684764
+1993-07,Newfoundland and Labrador,Population,579977
+1993-07,Prince Edward Island,Population,132177
+1993-07,Nova Scotia,Population,923925
+1993-07,New Brunswick,Population,748812
+1993-07,Quebec,Population,7156537
+1993-07,Ontario,Population,10690038
+1993-07,Manitoba,Population,1117618
+1993-07,Saskatchewan,Population,1006900
+1993-07,Alberta,Population,2667292
+1993-07,British Columbia,Population,3567772
+1993-07,Yukon,Population,30337
+1993-07,Northwest Territories,Population,39820
+1993-07,Nunavut,Population,23559
+1993-10,Canada,Population,28786619
+1993-10,Newfoundland and Labrador,Population,578194
+1993-10,Prince Edward Island,Population,132467
+1993-10,Nova Scotia,Population,925851
+1993-10,New Brunswick,Population,749454
+1993-10,Quebec,Population,7172016
+1993-10,Ontario,Population,10728737
+1993-10,Manitoba,Population,1118603
+1993-10,Saskatchewan,Population,1007016
+1993-10,Alberta,Population,2678623
+1993-10,British Columbia,Population,3601746
+1993-10,Yukon,Population,30016
+1993-10,Northwest Territories,Population,40095
+1993-10,Nunavut,Population,23801
+1994-01,Canada,Population,28835772
+1994-01,Newfoundland and Labrador,Population,577128
+1994-01,Prince Edward Island,Population,132752
+1994-01,Nova Scotia,Population,925852
+1994-01,New Brunswick,Population,749531
+1994-01,Quebec,Population,7177923
+1994-01,Ontario,Population,10744762
+1994-01,Manitoba,Population,1119284
+1994-01,Saskatchewan,Population,1007554
+1994-01,Alberta,Population,2683346
+1994-01,British Columbia,Population,3623717
+1994-01,Yukon,Population,29670
+1994-01,Northwest Territories,Population,40273
+1994-01,Nunavut,Population,23980
+1994-04,Canada,Population,28907448
+1994-04,Newfoundland and Labrador,Population,575670
+1994-04,Prince Edward Island,Population,133030
+1994-04,Nova Scotia,Population,926109
+1994-04,New Brunswick,Population,749473
+1994-04,Quebec,Population,7184599
+1994-04,Ontario,Population,10776819
+1994-04,Manitoba,Population,1120863
+1994-04,Saskatchewan,Population,1008540
+1994-04,Alberta,Population,2691443
+1994-04,British Columbia,Population,3646632
+1994-04,Yukon,Population,29682
+1994-04,Northwest Territories,Population,40383
+1994-04,Nunavut,Population,24205
+1994-07,Canada,Population,29000663
+1994-07,Newfoundland and Labrador,Population,574466
+1994-07,Prince Edward Island,Population,133437
+1994-07,Nova Scotia,Population,926871
+1994-07,New Brunswick,Population,750185
+1994-07,Quebec,Population,7192403
+1994-07,Ontario,Population,10819146
+1994-07,Manitoba,Population,1123230
+1994-07,Saskatchewan,Population,1009575
+1994-07,Alberta,Population,2700606
+1994-07,British Columbia,Population,3676075
+1994-07,Yukon,Population,29684
+1994-07,Northwest Territories,Population,40578
+1994-07,Nunavut,Population,24407
+1994-10,Canada,Population,29096372
+1994-10,Newfoundland and Labrador,Population,572068
+1994-10,Prince Edward Island,Population,133800
+1994-10,Nova Scotia,Population,927778
+1994-10,New Brunswick,Population,750670
+1994-10,Quebec,Population,7201106
+1994-10,Ontario,Population,10860406
+1994-10,Manitoba,Population,1124263
+1994-10,Saskatchewan,Population,1010784
+1994-10,Alberta,Population,2709011
+1994-10,British Columbia,Population,3711468
+1994-10,Yukon,Population,29606
+1994-10,Northwest Territories,Population,40875
+1994-10,Nunavut,Population,24537
+1995-01,Canada,Population,29141902
+1995-01,Newfoundland and Labrador,Population,570563
+1995-01,Prince Edward Island,Population,134060
+1995-01,Nova Scotia,Population,927395
+1995-01,New Brunswick,Population,750819
+1995-01,Quebec,Population,7205074
+1995-01,Ontario,Population,10875308
+1995-01,Manitoba,Population,1124947
+1995-01,Saskatchewan,Population,1011784
+1995-01,Alberta,Population,2715701
+1995-01,British Columbia,Population,3730564
+1995-01,Yukon,Population,29882
+1995-01,Northwest Territories,Population,41114
+1995-01,Nunavut,Population,24691
+1995-04,Canada,Population,29211541
+1995-04,Newfoundland and Labrador,Population,569068
+1995-04,Prince Edward Island,Population,134175
+1995-04,Nova Scotia,Population,927641
+1995-04,New Brunswick,Population,750692
+1995-04,Quebec,Population,7210305
+1995-04,Ontario,Population,10906895
+1995-04,Manitoba,Population,1127234
+1995-04,Saskatchewan,Population,1012795
+1995-04,Alberta,Population,2724946
+1995-04,British Columbia,Population,3751377
+1995-04,Yukon,Population,30143
+1995-04,Northwest Territories,Population,41407
+1995-04,Nunavut,Population,24863
+1995-07,Canada,Population,29302311
+1995-07,Newfoundland and Labrador,Population,567397
+1995-07,Prince Edward Island,Population,134415
+1995-07,Nova Scotia,Population,928120
+1995-07,New Brunswick,Population,750943
+1995-07,Quebec,Population,7219219
+1995-07,Ontario,Population,10950119
+1995-07,Manitoba,Population,1129150
+1995-07,Saskatchewan,Population,1014187
+1995-07,Alberta,Population,2734519
+1995-07,British Columbia,Population,3777390
+1995-07,Yukon,Population,30442
+1995-07,Northwest Territories,Population,41432
+1995-07,Nunavut,Population,24978
+1995-10,Canada,Population,29396274
+1995-10,Newfoundland and Labrador,Population,565008
+1995-10,Prince Edward Island,Population,134971
+1995-10,Nova Scotia,Population,930028
+1995-10,New Brunswick,Population,751174
+1995-10,Quebec,Population,7228600
+1995-10,Ontario,Population,10993416
+1995-10,Manitoba,Population,1129547
+1995-10,Saskatchewan,Population,1015349
+1995-10,Alberta,Population,2745255
+1995-10,British Columbia,Population,3805461
+1995-10,Yukon,Population,30875
+1995-10,Northwest Territories,Population,41470
+1995-10,Nunavut,Population,25120
+1996-01,Canada,Population,29446857
+1996-01,Newfoundland and Labrador,Population,563679
+1996-01,Prince Edward Island,Population,135119
+1996-01,Nova Scotia,Population,929782
+1996-01,New Brunswick,Population,751581
+1996-01,Quebec,Population,7232952
+1996-01,Ontario,Population,11009307
+1996-01,Manitoba,Population,1130288
+1996-01,Saskatchewan,Population,1016198
+1996-01,Alberta,Population,2753463
+1996-01,British Columbia,Population,3826739
+1996-01,Yukon,Population,30963
+1996-01,Northwest Territories,Population,41495
+1996-01,Nunavut,Population,25291
+1996-04,Canada,Population,29514217
+1996-04,Newfoundland and Labrador,Population,561646
+1996-04,Prince Edward Island,Population,135311
+1996-04,Nova Scotia,Population,929921
+1996-04,New Brunswick,Population,751872
+1996-04,Quebec,Population,7237307
+1996-04,Ontario,Population,11037392
+1996-04,Manitoba,Population,1132025
+1996-04,Saskatchewan,Population,1017872
+1996-04,Alberta,Population,2762903
+1996-04,British Columbia,Population,3849847
+1996-04,Yukon,Population,31142
+1996-04,Northwest Territories,Population,41516
+1996-04,Nunavut,Population,25463
+1996-07,Canada,Population,29610218
+1996-07,Newfoundland and Labrador,Population,559698
+1996-07,Prince Edward Island,Population,135737
+1996-07,Nova Scotia,Population,931327
+1996-07,New Brunswick,Population,752268
+1996-07,Quebec,Population,7246897
+1996-07,Ontario,Population,11082903
+1996-07,Manitoba,Population,1134196
+1996-07,Saskatchewan,Population,1018945
+1996-07,Alberta,Population,2775133
+1996-07,British Columbia,Population,3874317
+1996-07,Yukon,Population,31387
+1996-07,Northwest Territories,Population,41741
+1996-07,Nunavut,Population,25669
+1996-10,Canada,Population,29708206
+1996-10,Newfoundland and Labrador,Population,557281
+1996-10,Prince Edward Island,Population,136004
+1996-10,Nova Scotia,Population,932276
+1996-10,New Brunswick,Population,752526
+1996-10,Quebec,Population,7257616
+1996-10,Ontario,Population,11130574
+1996-10,Manitoba,Population,1134619
+1996-10,Saskatchewan,Population,1019408
+1996-10,Alberta,Population,2789691
+1996-10,British Columbia,Population,3899256
+1996-10,Yukon,Population,31596
+1996-10,Northwest Territories,Population,41611
+1996-10,Nunavut,Population,25748
+1997-01,Canada,Population,29751536
+1997-01,Newfoundland and Labrador,Population,555432
+1997-01,Prince Edward Island,Population,135935
+1997-01,Nova Scotia,Population,932349
+1997-01,New Brunswick,Population,752334
+1997-01,Quebec,Population,7262945
+1997-01,Ontario,Population,11146270
+1997-01,Manitoba,Population,1134997
+1997-01,Saskatchewan,Population,1018326
+1997-01,Alberta,Population,2799561
+1997-01,British Columbia,Population,3914490
+1997-01,Yukon,Population,31633
+1997-01,Northwest Territories,Population,41528
+1997-01,Nunavut,Population,25736
+1997-04,Canada,Population,29818012
+1997-04,Newfoundland and Labrador,Population,553115
+1997-04,Prince Edward Island,Population,135931
+1997-04,Nova Scotia,Population,931832
+1997-04,New Brunswick,Population,752447
+1997-04,Quebec,Population,7267820
+1997-04,Ontario,Population,11179959
+1997-04,Manitoba,Population,1135846
+1997-04,Saskatchewan,Population,1017683
+1997-04,Alberta,Population,2813157
+1997-04,British Columbia,Population,3931056
+1997-04,Yukon,Population,31659
+1997-04,Northwest Territories,Population,41668
+1997-04,Nunavut,Population,25839
+1997-07,Canada,Population,29905948
+1997-07,Newfoundland and Labrador,Population,550911
+1997-07,Prince Edward Island,Population,136095
+1997-07,Nova Scotia,Population,932402
+1997-07,New Brunswick,Population,752511
+1997-07,Quebec,Population,7274611
+1997-07,Ontario,Population,11227651
+1997-07,Manitoba,Population,1136128
+1997-07,Saskatchewan,Population,1017902
+1997-07,Alberta,Population,2829848
+1997-07,British Columbia,Population,3948583
+1997-07,Yukon,Population,31797
+1997-07,Northwest Territories,Population,41625
+1997-07,Nunavut,Population,25884
+1997-10,Canada,Population,29994790
+1997-10,Newfoundland and Labrador,Population,547639
+1997-10,Prince Edward Island,Population,136165
+1997-10,Nova Scotia,Population,932735
+1997-10,New Brunswick,Population,752248
+1997-10,Quebec,Population,7282871
+1997-10,Ontario,Population,11278893
+1997-10,Manitoba,Population,1135649
+1997-10,Saskatchewan,Population,1017426
+1997-10,Alberta,Population,2847526
+1997-10,British Columbia,Population,3964677
+1997-10,Yukon,Population,31556
+1997-10,Northwest Territories,Population,41411
+1997-10,Nunavut,Population,25994
+1998-01,Canada,Population,30028506
+1998-01,Newfoundland and Labrador,Population,545769
+1998-01,Prince Edward Island,Population,135938
+1998-01,Nova Scotia,Population,932549
+1998-01,New Brunswick,Population,751969
+1998-01,Quebec,Population,7286008
+1998-01,Ontario,Population,11292059
+1998-01,Manitoba,Population,1135770
+1998-01,Saskatchewan,Population,1017504
+1998-01,Alberta,Population,2859305
+1998-01,British Columbia,Population,3972821
+1998-01,Yukon,Population,31510
+1998-01,Northwest Territories,Population,41222
+1998-01,Nunavut,Population,26082
+1998-04,Canada,Population,30080180
+1998-04,Newfoundland and Labrador,Population,542479
+1998-04,Prince Edward Island,Population,135635
+1998-04,Nova Scotia,Population,932033
+1998-04,New Brunswick,Population,751080
+1998-04,Quebec,Population,7290497
+1998-04,Ontario,Population,11322038
+1998-04,Manitoba,Population,1136177
+1998-04,Saskatchewan,Population,1017105
+1998-04,Alberta,Population,2876753
+1998-04,British Columbia,Population,3977912
+1998-04,Yukon,Population,31320
+1998-04,Northwest Territories,Population,40968
+1998-04,Nunavut,Population,26183
+1998-07,Canada,Population,30155173
+1998-07,Newfoundland and Labrador,Population,539843
+1998-07,Prince Edward Island,Population,135804
+1998-07,Nova Scotia,Population,931836
+1998-07,New Brunswick,Population,750530
+1998-07,Quebec,Population,7295935
+1998-07,Ontario,Population,11365901
+1998-07,Manitoba,Population,1137489
+1998-07,Saskatchewan,Population,1017332
+1998-07,Alberta,Population,2899066
+1998-07,British Columbia,Population,3983113
+1998-07,Yukon,Population,31149
+1998-07,Northwest Territories,Population,40802
+1998-07,Nunavut,Population,26373
+1998-10,Canada,Population,30231639
+1998-10,Newfoundland and Labrador,Population,537908
+1998-10,Prince Edward Island,Population,135908
+1998-10,Nova Scotia,Population,932740
+1998-10,New Brunswick,Population,750708
+1998-10,Quebec,Population,7305302
+1998-10,Ontario,Population,11408804
+1998-10,Manitoba,Population,1138328
+1998-10,Saskatchewan,Population,1017748
+1998-10,Alberta,Population,2915781
+1998-10,British Columbia,Population,3990451
+1998-10,Yukon,Population,30877
+1998-10,Northwest Territories,Population,40635
+1998-10,Nunavut,Population,26449
+1999-01,Canada,Population,30260117
+1999-01,Newfoundland and Labrador,Population,536515
+1999-01,Prince Edward Island,Population,135994
+1999-01,Nova Scotia,Population,932145
+1999-01,New Brunswick,Population,750127
+1999-01,Quebec,Population,7310238
+1999-01,Ontario,Population,11419589
+1999-01,Manitoba,Population,1138946
+1999-01,Saskatchewan,Population,1016883
+1999-01,Alberta,Population,2926079
+1999-01,British Columbia,Population,3995643
+1999-01,Yukon,Population,30748
+1999-01,Northwest Territories,Population,40635
+1999-01,Nunavut,Population,26575
+1999-04,Canada,Population,30314696
+1999-04,Newfoundland and Labrador,Population,534498
+1999-04,Prince Edward Island,Population,136025
+1999-04,Nova Scotia,Population,932116
+1999-04,New Brunswick,Population,750075
+1999-04,Quebec,Population,7315053
+1999-04,Ontario,Population,11452857
+1999-04,Manitoba,Population,1140502
+1999-04,Saskatchewan,Population,1015716
+1999-04,Alberta,Population,2937393
+1999-04,British Columbia,Population,4002433
+1999-04,Yukon,Population,30602
+1999-04,Northwest Territories,Population,40705
+1999-04,Nunavut,Population,26721
+1999-07,Canada,Population,30401286
+1999-07,Newfoundland and Labrador,Population,533329
+1999-07,Prince Edward Island,Population,136281
+1999-07,Nova Scotia,Population,933784
+1999-07,New Brunswick,Population,750601
+1999-07,Quebec,Population,7323250
+1999-07,Ontario,Population,11504759
+1999-07,Manitoba,Population,1142448
+1999-07,Saskatchewan,Population,1014524
+1999-07,Alberta,Population,2952692
+1999-07,British Columbia,Population,4011375
+1999-07,Yukon,Population,30785
+1999-07,Northwest Territories,Population,40638
+1999-07,Nunavut,Population,26820
+1999-10,Canada,Population,30492106
+1999-10,Newfoundland and Labrador,Population,532246
+1999-10,Prince Edward Island,Population,136424
+1999-10,Nova Scotia,Population,935941
+1999-10,New Brunswick,Population,750643
+1999-10,Quebec,Population,7334722
+1999-10,Ontario,Population,11559464
+1999-10,Manitoba,Population,1143618
+1999-10,Saskatchewan,Population,1012582
+1999-10,Alberta,Population,2966682
+1999-10,British Columbia,Population,4021600
+1999-10,Yukon,Population,30608
+1999-10,Northwest Territories,Population,40579
+1999-10,Nunavut,Population,26997
+2000-01,Canada,Population,30525872
+2000-01,Newfoundland and Labrador,Population,531774
+2000-01,Prince Edward Island,Population,136442
+2000-01,Nova Scotia,Population,934594
+2000-01,New Brunswick,Population,750786
+2000-01,Quebec,Population,7340269
+2000-01,Ontario,Population,11576994
+2000-01,Manitoba,Population,1144428
+2000-01,Saskatchewan,Population,1011141
+2000-01,Alberta,Population,2974517
+2000-01,British Columbia,Population,4026664
+2000-01,Yukon,Population,30495
+2000-01,Northwest Territories,Population,40623
+2000-01,Nunavut,Population,27145
+2000-04,Canada,Population,30594030
+2000-04,Newfoundland and Labrador,Population,529574
+2000-04,Prince Edward Island,Population,136289
+2000-04,Nova Scotia,Population,934291
+2000-04,New Brunswick,Population,750543
+2000-04,Quebec,Population,7347179
+2000-04,Ontario,Population,11621255
+2000-04,Manitoba,Population,1145873
+2000-04,Saskatchewan,Population,1009177
+2000-04,Alberta,Population,2988465
+2000-04,British Columbia,Population,4033319
+2000-04,Yukon,Population,30382
+2000-04,Northwest Territories,Population,40455
+2000-04,Nunavut,Population,27228
+2000-07,Canada,Population,30685730
+2000-07,Newfoundland and Labrador,Population,527966
+2000-07,Prince Edward Island,Population,136470
+2000-07,Nova Scotia,Population,933821
+2000-07,New Brunswick,Population,750517
+2000-07,Quebec,Population,7356951
+2000-07,Ontario,Population,11683290
+2000-07,Manitoba,Population,1147313
+2000-07,Saskatchewan,Population,1007565
+2000-07,Alberta,Population,3004198
+2000-07,British Columbia,Population,4039230
+2000-07,Yukon,Population,30431
+2000-07,Northwest Territories,Population,40480
+2000-07,Nunavut,Population,27498
+2000-10,Canada,Population,30783969
+2000-10,Newfoundland and Labrador,Population,526732
+2000-10,Prince Edward Island,Population,136400
+2000-10,Nova Scotia,Population,934459
+2000-10,New Brunswick,Population,750252
+2000-10,Quebec,Population,7368772
+2000-10,Ontario,Population,11748348
+2000-10,Manitoba,Population,1148183
+2000-10,Saskatchewan,Population,1006027
+2000-10,Alberta,Population,3016947
+2000-10,British Columbia,Population,4049297
+2000-10,Yukon,Population,30294
+2000-10,Northwest Territories,Population,40575
+2000-10,Nunavut,Population,27683
+2001-01,Canada,Population,30824441
+2001-01,Newfoundland and Labrador,Population,525299
+2001-01,Prince Edward Island,Population,136377
+2001-01,Nova Scotia,Population,933463
+2001-01,New Brunswick,Population,749715
+2001-01,Quebec,Population,7373978
+2001-01,Ontario,Population,11771945
+2001-01,Manitoba,Population,1148456
+2001-01,Saskatchewan,Population,1003469
+2001-01,Alberta,Population,3027941
+2001-01,British Columbia,Population,4055229
+2001-01,Yukon,Population,30147
+2001-01,Northwest Territories,Population,40624
+2001-01,Nunavut,Population,27798
+2001-04,Canada,Population,30910996
+2001-04,Newfoundland and Labrador,Population,523235
+2001-04,Prince Edward Island,Population,136499
+2001-04,Nova Scotia,Population,932909
+2001-04,New Brunswick,Population,749789
+2001-04,Quebec,Population,7383844
+2001-04,Ontario,Population,11827345
+2001-04,Manitoba,Population,1149684
+2001-04,Saskatchewan,Population,1001643
+2001-04,Alberta,Population,3041238
+2001-04,British Columbia,Population,4066132
+2001-04,Yukon,Population,30124
+2001-04,Northwest Territories,Population,40625
+2001-04,Nunavut,Population,27929
+2001-07,Canada,Population,31020855
+2001-07,Newfoundland and Labrador,Population,522043
+2001-07,Prince Edward Island,Population,136667
+2001-07,Nova Scotia,Population,932483
+2001-07,New Brunswick,Population,749823
+2001-07,Quebec,Population,7396014
+2001-07,Ontario,Population,11897473
+2001-07,Manitoba,Population,1151451
+2001-07,Saskatchewan,Population,1000307
+2001-07,Alberta,Population,3058554
+2001-07,British Columbia,Population,4076896
+2001-07,Yukon,Population,30160
+2001-07,Northwest Territories,Population,40850
+2001-07,Nunavut,Population,28134
+2001-10,Canada,Population,31128873
+2001-10,Newfoundland and Labrador,Population,521583
+2001-10,Prince Edward Island,Population,136876
+2001-10,Nova Scotia,Population,933318
+2001-10,New Brunswick,Population,749298
+2001-10,Quebec,Population,7411084
+2001-10,Ontario,Population,11961546
+2001-10,Manitoba,Population,1152144
+2001-10,Saskatchewan,Population,999241
+2001-10,Alberta,Population,3078756
+2001-10,British Columbia,Population,4085595
+2001-10,Yukon,Population,30079
+2001-10,Northwest Territories,Population,41175
+2001-10,Nunavut,Population,28178
+2002-01,Canada,Population,31168896
+2002-01,Newfoundland and Labrador,Population,521414
+2002-01,Prince Edward Island,Population,136858
+2002-01,Nova Scotia,Population,933757
+2002-01,New Brunswick,Population,748639
+2002-01,Quebec,Population,7417456
+2002-01,Ontario,Population,11979906
+2002-01,Manitoba,Population,1152828
+2002-01,Saskatchewan,Population,998742
+2002-01,Alberta,Population,3092506
+2002-01,British Columbia,Population,4087124
+2002-01,Yukon,Population,30156
+2002-01,Northwest Territories,Population,41176
+2002-01,Nunavut,Population,28334
+2002-04,Canada,Population,31252682
+2002-04,Newfoundland and Labrador,Population,520176
+2002-04,Prince Edward Island,Population,136893
+2002-04,Nova Scotia,Population,934165
+2002-04,New Brunswick,Population,748778
+2002-04,Quebec,Population,7427639
+2002-04,Ontario,Population,12029818
+2002-04,Manitoba,Population,1154728
+2002-04,Saskatchewan,Population,997792
+2002-04,Alberta,Population,3108716
+2002-04,British Columbia,Population,4094170
+2002-04,Yukon,Population,30144
+2002-04,Northwest Territories,Population,41280
+2002-04,Nunavut,Population,28383
+2002-07,Canada,Population,31359199
+2002-07,Newfoundland and Labrador,Population,519411
+2002-07,Prince Edward Island,Population,136882
+2002-07,Nova Scotia,Population,935172
+2002-07,New Brunswick,Population,749375
+2002-07,Quebec,Population,7441305
+2002-07,Ontario,Population,12093412
+2002-07,Manitoba,Population,1156673
+2002-07,Saskatchewan,Population,996854
+2002-07,Alberta,Population,3128757
+2002-07,British Columbia,Population,4100504
+2002-07,Yukon,Population,30339
+2002-07,Northwest Territories,Population,41698
+2002-07,Nunavut,Population,28817
+2002-10,Canada,Population,31450677
+2002-10,Newfoundland and Labrador,Population,519387
+2002-10,Prince Edward Island,Population,137082
+2002-10,Nova Scotia,Population,935959
+2002-10,New Brunswick,Population,749416
+2002-10,Quebec,Population,7455548
+2002-10,Ontario,Population,12145100
+2002-10,Manitoba,Population,1157289
+2002-10,Saskatchewan,Population,996324
+2002-10,Alberta,Population,3145227
+2002-10,British Columbia,Population,4108351
+2002-10,Yukon,Population,30268
+2002-10,Northwest Territories,Population,41874
+2002-10,Nunavut,Population,28852
+2003-01,Canada,Population,31479415
+2003-01,Newfoundland and Labrador,Population,519140
+2003-01,Prince Edward Island,Population,137079
+2003-01,Nova Scotia,Population,935495
+2003-01,New Brunswick,Population,749243
+2003-01,Quebec,Population,7461162
+2003-01,Ontario,Population,12155691
+2003-01,Manitoba,Population,1158358
+2003-01,Saskatchewan,Population,996286
+2003-01,Alberta,Population,3155370
+2003-01,British Columbia,Population,4110197
+2003-01,Yukon,Population,30424
+2003-01,Northwest Territories,Population,42007
+2003-01,Nunavut,Population,28963
+2003-04,Canada,Population,31549344
+2003-04,Newfoundland and Labrador,Population,518735
+2003-04,Prince Edward Island,Population,137124
+2003-04,Nova Scotia,Population,935775
+2003-04,New Brunswick,Population,749269
+2003-04,Quebec,Population,7471463
+2003-04,Ontario,Population,12194269
+2003-04,Manitoba,Population,1160853
+2003-04,Saskatchewan,Population,995785
+2003-04,Alberta,Population,3169295
+2003-04,British Columbia,Population,4114884
+2003-04,Yukon,Population,30575
+2003-04,Northwest Territories,Population,42218
+2003-04,Nunavut,Population,29099
+2003-07,Canada,Population,31642461
+2003-07,Newfoundland and Labrador,Population,518389
+2003-07,Prince Edward Island,Population,137231
+2003-07,Nova Scotia,Population,937681
+2003-07,New Brunswick,Population,749444
+2003-07,Quebec,Population,7485488
+2003-07,Ontario,Population,12243641
+2003-07,Manitoba,Population,1163585
+2003-07,Saskatchewan,Population,996422
+2003-07,Alberta,Population,3183291
+2003-07,British Columbia,Population,4124447
+2003-07,Yukon,Population,30943
+2003-07,Northwest Territories,Population,42598
+2003-07,Nunavut,Population,29301
+2003-10,Canada,Population,31736141
+2003-10,Newfoundland and Labrador,Population,518718
+2003-10,Prince Edward Island,Population,137430
+2003-10,Nova Scotia,Population,938744
+2003-10,New Brunswick,Population,749467
+2003-10,Quebec,Population,7503483
+2003-10,Ontario,Population,12290116
+2003-10,Manitoba,Population,1165518
+2003-10,Saskatchewan,Population,996585
+2003-10,Alberta,Population,3198059
+2003-10,British Columbia,Population,4134598
+2003-10,Yukon,Population,31219
+2003-10,Northwest Territories,Population,42855
+2003-10,Nunavut,Population,29349
+2004-01,Canada,Population,31775723
+2004-01,Newfoundland and Labrador,Population,518677
+2004-01,Prince Edward Island,Population,137512
+2004-01,Nova Scotia,Population,938946
+2004-01,New Brunswick,Population,749192
+2004-01,Quebec,Population,7510218
+2004-01,Ontario,Population,12303516
+2004-01,Manitoba,Population,1167643
+2004-01,Saskatchewan,Population,996586
+2004-01,Alberta,Population,3209557
+2004-01,British Columbia,Population,4139895
+2004-01,Yukon,Population,31320
+2004-01,Northwest Territories,Population,43166
+2004-01,Nunavut,Population,29495
+2004-04,Canada,Population,31844704
+2004-04,Newfoundland and Labrador,Population,517888
+2004-04,Prince Edward Island,Population,137631
+2004-04,Nova Scotia,Population,938738
+2004-04,New Brunswick,Population,749340
+2004-04,Quebec,Population,7520109
+2004-04,Ontario,Population,12339813
+2004-04,Manitoba,Population,1170336
+2004-04,Saskatchewan,Population,997106
+2004-04,Alberta,Population,3223659
+2004-04,British Columbia,Population,4145916
+2004-04,Yukon,Population,31400
+2004-04,Northwest Territories,Population,43208
+2004-04,Nunavut,Population,29560
+2004-07,Canada,Population,31938807
+2004-07,Newfoundland and Labrador,Population,517375
+2004-07,Prince Edward Island,Population,137682
+2004-07,Nova Scotia,Population,939625
+2004-07,New Brunswick,Population,749424
+2004-07,Quebec,Population,7535483
+2004-07,Ontario,Population,12389641
+2004-07,Manitoba,Population,1173228
+2004-07,Saskatchewan,Population,997305
+2004-07,Alberta,Population,3238817
+2004-07,British Columbia,Population,4155630
+2004-07,Yukon,Population,31455
+2004-07,Northwest Territories,Population,43306
+2004-07,Nunavut,Population,29836
+2004-10,Canada,Population,32038207
+2004-10,Newfoundland and Labrador,Population,516863
+2004-10,Prince Edward Island,Population,137697
+2004-10,Nova Scotia,Population,939855
+2004-10,New Brunswick,Population,749249
+2004-10,Quebec,Population,7553578
+2004-10,Ontario,Population,12435931
+2004-10,Manitoba,Population,1174667
+2004-10,Saskatchewan,Population,997010
+2004-10,Alberta,Population,3260721
+2004-10,British Columbia,Population,4167802
+2004-10,Yukon,Population,31688
+2004-10,Northwest Territories,Population,43354
+2004-10,Nunavut,Population,29792
+2005-01,Canada,Population,32075011
+2005-01,Newfoundland and Labrador,Population,516750
+2005-01,Prince Edward Island,Population,137691
+2005-01,Nova Scotia,Population,939202
+2005-01,New Brunswick,Population,749005
+2005-01,Quebec,Population,7559576
+2005-01,Ontario,Population,12444755
+2005-01,Manitoba,Population,1176047
+2005-01,Saskatchewan,Population,995914
+2005-01,Alberta,Population,3276908
+2005-01,British Columbia,Population,4174017
+2005-01,Yukon,Population,31770
+2005-01,Northwest Territories,Population,43440
+2005-01,Nunavut,Population,29936
+2005-04,Canada,Population,32140569
+2005-04,Newfoundland and Labrador,Population,515324
+2005-04,Prince Edward Island,Population,137790
+2005-04,Nova Scotia,Population,937989
+2005-04,New Brunswick,Population,748696
+2005-04,Quebec,Population,7567277
+2005-04,Ontario,Population,12476560
+2005-04,Manitoba,Population,1177285
+2005-04,Saskatchewan,Population,994902
+2005-04,Alberta,Population,3296359
+2005-04,British Columbia,Population,4182971
+2005-04,Yukon,Population,31861
+2005-04,Northwest Territories,Population,43456
+2005-04,Nunavut,Population,30099
+2005-07,Canada,Population,32242732
+2005-07,Newfoundland and Labrador,Population,514310
+2005-07,Prince Edward Island,Population,138067
+2005-07,Nova Scotia,Population,937931
+2005-07,New Brunswick,Population,748061
+2005-07,Quebec,Population,7581467
+2005-07,Ontario,Population,12527581
+2005-07,Manitoba,Population,1178262
+2005-07,Saskatchewan,Population,993510
+2005-07,Alberta,Population,3321839
+2005-07,British Columbia,Population,4196076
+2005-07,Yukon,Population,31901
+2005-07,Northwest Territories,Population,43399
+2005-07,Nunavut,Population,30328
+2005-10,Canada,Population,32353311
+2005-10,Newfoundland and Labrador,Population,513725
+2005-10,Prince Edward Island,Population,138133
+2005-10,Nova Scotia,Population,938755
+2005-10,New Brunswick,Population,747674
+2005-10,Quebec,Population,7598880
+2005-10,Ontario,Population,12578240
+2005-10,Manitoba,Population,1179082
+2005-10,Saskatchewan,Population,993299
+2005-10,Alberta,Population,3346802
+2005-10,British Columbia,Population,4212674
+2005-10,Yukon,Population,32127
+2005-10,Northwest Territories,Population,43523
+2005-10,Nunavut,Population,30397
+2006-01,Canada,Population,32394909
+2006-01,Newfoundland and Labrador,Population,512554
+2006-01,Prince Edward Island,Population,137908
+2006-01,Nova Scotia,Population,938120
+2006-01,New Brunswick,Population,746985
+2006-01,Quebec,Population,7604228
+2006-01,Ontario,Population,12587149
+2006-01,Manitoba,Population,1179916
+2006-01,Saskatchewan,Population,992246
+2006-01,Alberta,Population,3371851
+2006-01,British Columbia,Population,4217956
+2006-01,Yukon,Population,32112
+2006-01,Northwest Territories,Population,43315
+2006-01,Nunavut,Population,30569
+2006-04,Canada,Population,32470171
+2006-04,Newfoundland and Labrador,Population,510959
+2006-04,Prince Edward Island,Population,137847
+2006-04,Nova Scotia,Population,937665
+2006-04,New Brunswick,Population,746337
+2006-04,Quebec,Population,7615496
+2006-04,Ontario,Population,12618321
+2006-04,Manitoba,Population,1181632
+2006-04,Saskatchewan,Population,991231
+2006-04,Alberta,Population,3396809
+2006-04,British Columbia,Population,4227980
+2006-04,Yukon,Population,32152
+2006-04,Northwest Territories,Population,43101
+2006-04,Nunavut,Population,30641
+2006-07,Canada,Population,32571193
+2006-07,Newfoundland and Labrador,Population,510593
+2006-07,Prince Edward Island,Population,137869
+2006-07,Nova Scotia,Population,937880
+2006-07,New Brunswick,Population,745621
+2006-07,Quebec,Population,7631901
+2006-07,Ontario,Population,12661953
+2006-07,Manitoba,Population,1183560
+2006-07,Saskatchewan,Population,992313
+2006-07,Alberta,Population,3421435
+2006-07,British Columbia,Population,4241793
+2006-07,Yukon,Population,32272
+2006-07,Northwest Territories,Population,43185
+2006-07,Nunavut,Population,30818
+2006-10,Canada,Population,32680839
+2006-10,Newfoundland and Labrador,Population,510325
+2006-10,Prince Edward Island,Population,137898
+2006-10,Nova Scotia,Population,937060
+2006-10,New Brunswick,Population,744973
+2006-10,Quebec,Population,7652881
+2006-10,Ontario,Population,12701324
+2006-10,Manitoba,Population,1183975
+2006-10,Saskatchewan,Population,993359
+2006-10,Alberta,Population,3453945
+2006-10,British Columbia,Population,4258653
+2006-10,Yukon,Population,32361
+2006-10,Northwest Territories,Population,43205
+2006-10,Nunavut,Population,30880
+2007-01,Canada,Population,32717848
+2007-01,Newfoundland and Labrador,Population,510329
+2007-01,Prince Edward Island,Population,137777
+2007-01,Nova Scotia,Population,936232
+2007-01,New Brunswick,Population,744849
+2007-01,Quebec,Population,7661201
+2007-01,Ontario,Population,12703327
+2007-01,Manitoba,Population,1184495
+2007-01,Saskatchewan,Population,995170
+2007-01,Alberta,Population,3472779
+2007-01,British Columbia,Population,4265328
+2007-01,Yukon,Population,32316
+2007-01,Northwest Territories,Population,43088
+2007-01,Nunavut,Population,30957
+2007-04,Canada,Population,32785964
+2007-04,Newfoundland and Labrador,Population,509126
+2007-04,Prince Edward Island,Population,137707
+2007-04,Nova Scotia,Population,935028
+2007-04,New Brunswick,Population,744934
+2007-04,Quebec,Population,7673938
+2007-04,Ontario,Population,12727090
+2007-04,Manitoba,Population,1186421
+2007-04,Saskatchewan,Population,997541
+2007-04,Alberta,Population,3490849
+2007-04,British Columbia,Population,4276745
+2007-04,Yukon,Population,32274
+2007-04,Northwest Territories,Population,43127
+2007-04,Nunavut,Population,31184
+2007-07,Canada,Population,32888886
+2007-07,Newfoundland and Labrador,Population,509047
+2007-07,Prince Edward Island,Population,137709
+2007-07,Nova Scotia,Population,935164
+2007-07,New Brunswick,Population,745430
+2007-07,Quebec,Population,7692400
+2007-07,Ontario,Population,12765133
+2007-07,Manitoba,Population,1189446
+2007-07,Saskatchewan,Population,1002074
+2007-07,Alberta,Population,3514151
+2007-07,British Columbia,Population,4290987
+2007-07,Yukon,Population,32555
+2007-07,Northwest Territories,Population,43396
+2007-07,Nunavut,Population,31394
+2007-10,Canada,Population,33001918
+2007-10,Newfoundland and Labrador,Population,510256
+2007-10,Prince Edward Island,Population,138020
+2007-10,Nova Scotia,Population,935433
+2007-10,New Brunswick,Population,746136
+2007-10,Quebec,Population,7712616
+2007-10,Ontario,Population,12807497
+2007-10,Manitoba,Population,1191684
+2007-10,Saskatchewan,Population,1007305
+2007-10,Alberta,Population,3533414
+2007-10,British Columbia,Population,4312048
+2007-10,Yukon,Population,32663
+2007-10,Northwest Territories,Population,43286
+2007-10,Nunavut,Population,31560
+2008-01,Canada,Population,33050262
+2008-01,Newfoundland and Labrador,Population,510989
+2008-01,Prince Edward Island,Population,137990
+2008-01,Nova Scotia,Population,935540
+2008-01,New Brunswick,Population,746284
+2008-01,Quebec,Population,7724885
+2008-01,Ontario,Population,12814686
+2008-01,Manitoba,Population,1193396
+2008-01,Saskatchewan,Population,1010279
+2008-01,Alberta,Population,3548804
+2008-01,British Columbia,Population,4319657
+2008-01,Yukon,Population,32752
+2008-01,Northwest Territories,Population,43384
+2008-01,Nunavut,Population,31616
+2008-04,Canada,Population,33127394
+2008-04,Newfoundland and Labrador,Population,511239
+2008-04,Prince Edward Island,Population,138175
+2008-04,Nova Scotia,Population,935704
+2008-04,New Brunswick,Population,746529
+2008-04,Quebec,Population,7739956
+2008-04,Ontario,Population,12840482
+2008-04,Manitoba,Population,1194653
+2008-04,Saskatchewan,Population,1013449
+2008-04,Alberta,Population,3567475
+2008-04,British Columbia,Population,4331706
+2008-04,Yukon,Population,32955
+2008-04,Northwest Territories,Population,43388
+2008-04,Nunavut,Population,31683
+2008-07,Canada,Population,33247298
+2008-07,Newfoundland and Labrador,Population,511569
+2008-07,Prince Edward Island,Population,138736
+2008-07,Nova Scotia,Population,935965
+2008-07,New Brunswick,Population,746875
+2008-07,Quebec,Population,7761614
+2008-07,Ontario,Population,12883824
+2008-07,Manitoba,Population,1197767
+2008-07,Saskatchewan,Population,1017368
+2008-07,Alberta,Population,3595875
+2008-07,British Columbia,Population,4349338
+2008-07,Yukon,Population,33084
+2008-07,Northwest Territories,Population,43385
+2008-07,Nunavut,Population,31898
+2008-10,Canada,Population,33372978
+2008-10,Newfoundland and Labrador,Population,513425
+2008-10,Prince Edward Island,Population,139448
+2008-10,Nova Scotia,Population,937108
+2008-10,New Brunswick,Population,747767
+2008-10,Quebec,Population,7786609
+2008-10,Ontario,Population,12927520
+2008-10,Manitoba,Population,1199551
+2008-10,Saskatchewan,Population,1022511
+2008-10,Alberta,Population,3619319
+2008-10,British Columbia,Population,4371128
+2008-10,Yukon,Population,33307
+2008-10,Northwest Territories,Population,43315
+2008-10,Nunavut,Population,31970
+2009-01,Canada,Population,33427754
+2009-01,Newfoundland and Labrador,Population,514210
+2009-01,Prince Edward Island,Population,139114
+2009-01,Nova Scotia,Population,937445
+2009-01,New Brunswick,Population,748375
+2009-01,Quebec,Population,7799271
+2009-01,Ontario,Population,12932742
+2009-01,Manitoba,Population,1201705
+2009-01,Saskatchewan,Population,1025946
+2009-01,Alberta,Population,3638505
+2009-01,British Columbia,Population,4381832
+2009-01,Yukon,Population,33405
+2009-01,Northwest Territories,Population,43136
+2009-01,Nunavut,Population,32068
+2009-04,Canada,Population,33512305
+2009-04,Newfoundland and Labrador,Population,514707
+2009-04,Prince Edward Island,Population,139190
+2009-04,Nova Scotia,Population,937489
+2009-04,New Brunswick,Population,749165
+2009-04,Quebec,Population,7817425
+2009-04,Ontario,Population,12956924
+2009-04,Manitoba,Population,1204013
+2009-04,Saskatchewan,Population,1029862
+2009-04,Alberta,Population,3659235
+2009-04,British Columbia,Population,4395197
+2009-04,Yukon,Population,33583
+2009-04,Northwest Territories,Population,43122
+2009-04,Nunavut,Population,32393
+2009-07,Canada,Population,33630069
+2009-07,Newfoundland and Labrador,Population,516741
+2009-07,Prince Edward Island,Population,139873
+2009-07,Nova Scotia,Population,938266
+2009-07,New Brunswick,Population,749956
+2009-07,Quebec,Population,7843915
+2009-07,Ontario,Population,12998941
+2009-07,Manitoba,Population,1208555
+2009-07,Saskatchewan,Population,1034791
+2009-07,Alberta,Population,3679010
+2009-07,British Columbia,Population,4410513
+2009-07,Yukon,Population,33733
+2009-07,Northwest Territories,Population,43171
+2009-07,Nunavut,Population,32604
+2009-10,Canada,Population,33758581
+2009-10,Newfoundland and Labrador,Population,518975
+2009-10,Prince Edward Island,Population,140596
+2009-10,Nova Scotia,Population,940558
+2009-10,New Brunswick,Population,751066
+2009-10,Quebec,Population,7871847
+2009-10,Ontario,Population,13048442
+2009-10,Manitoba,Population,1211881
+2009-10,Saskatchewan,Population,1039530
+2009-10,Alberta,Population,3694318
+2009-10,British Columbia,Population,4431587
+2009-10,Yukon,Population,34027
+2009-10,Northwest Territories,Population,42938
+2009-10,Nunavut,Population,32816
+2010-01,Canada,Population,33809016
+2010-01,Newfoundland and Labrador,Population,520276
+2010-01,Prince Edward Island,Population,140598
+2010-01,Nova Scotia,Population,940879
+2010-01,New Brunswick,Population,751282
+2010-01,Quebec,Population,7886127
+2010-01,Ontario,Population,13059426
+2010-01,Manitoba,Population,1213941
+2010-01,Saskatchewan,Population,1042936
+2010-01,Alberta,Population,3702290
+2010-01,British Columbia,Population,4441345
+2010-01,Yukon,Population,34009
+2010-01,Northwest Territories,Population,42981
+2010-01,Nunavut,Population,32926
+2010-04,Canada,Population,33890461
+2010-04,Newfoundland and Labrador,Population,521197
+2010-04,Prince Edward Island,Population,140978
+2010-04,Nova Scotia,Population,940967
+2010-04,New Brunswick,Population,752020
+2010-04,Quebec,Population,7903676
+2010-04,Ontario,Population,13088924
+2010-04,Manitoba,Population,1216618
+2010-04,Saskatchewan,Population,1046779
+2010-04,Alberta,Population,3714999
+2010-04,British Columbia,Population,4453756
+2010-04,Yukon,Population,34243
+2010-04,Northwest Territories,Population,43161
+2010-04,Nunavut,Population,33143
+2010-07,Canada,Population,34005902
+2010-07,Newfoundland and Labrador,Population,522002
+2010-07,Prince Edward Island,Population,141644
+2010-07,Nova Scotia,Population,942144
+2010-07,New Brunswick,Population,753034
+2010-07,Quebec,Population,7929479
+2010-07,Ontario,Population,13136481
+2010-07,Manitoba,Population,1220782
+2010-07,Saskatchewan,Population,1051426
+2010-07,Alberta,Population,3732104
+2010-07,British Columbia,Population,4465557
+2010-07,Yukon,Population,34598
+2010-07,Northwest Territories,Population,43292
+2010-07,Nunavut,Population,33359
+2010-10,Canada,Population,34132531
+2010-10,Newfoundland and Labrador,Population,522861
+2010-10,Prince Edward Island,Population,142725
+2010-10,Nova Scotia,Population,944201
+2010-10,New Brunswick,Population,754287
+2010-10,Quebec,Population,7955183
+2010-10,Ontario,Population,13189987
+2010-10,Manitoba,Population,1224663
+2010-10,Saskatchewan,Population,1056102
+2010-10,Alberta,Population,3747235
+2010-10,British Columbia,Population,4483613
+2010-10,Yukon,Population,34790
+2010-10,Northwest Territories,Population,43307
+2010-10,Nunavut,Population,33577
+2011-01,Canada,Population,34166633
+2011-01,Newfoundland and Labrador,Population,523723
+2011-01,Prince Edward Island,Population,143016
+2011-01,Nova Scotia,Population,944082
+2011-01,New Brunswick,Population,754795
+2011-01,Quebec,Population,7967270
+2011-01,Ontario,Population,13199081
+2011-01,Manitoba,Population,1227210
+2011-01,Saskatchewan,Population,1058969
+2011-01,Alberta,Population,3754422
+2011-01,British Columbia,Population,4482262
+2011-01,Yukon,Population,34802
+2011-01,Northwest Territories,Population,43265
+2011-01,Nunavut,Population,33736
+2011-04,Canada,Population,34230555
+2011-04,Newfoundland and Labrador,Population,524238
+2011-04,Prince Edward Island,Population,143265
+2011-04,Nova Scotia,Population,943921
+2011-04,New Brunswick,Population,754843
+2011-04,Quebec,Population,7982145
+2011-04,Ontario,Population,13222146
+2011-04,Manitoba,Population,1229058
+2011-04,Saskatchewan,Population,1061484
+2011-04,Alberta,Population,3768774
+2011-04,British Columbia,Population,4488509
+2011-04,Yukon,Population,34984
+2011-04,Northwest Territories,Population,43263
+2011-04,Nunavut,Population,33925
+2011-07,Canada,Population,34339221
+2011-07,Newfoundland and Labrador,Population,524955
+2011-07,Prince Edward Island,Population,143918
+2011-07,Nova Scotia,Population,944095
+2011-07,New Brunswick,Population,755590
+2011-07,Quebec,Population,8004736
+2011-07,Ontario,Population,13262345
+2011-07,Manitoba,Population,1233353
+2011-07,Saskatchewan,Population,1065661
+2011-07,Alberta,Population,3787705
+2011-07,British Columbia,Population,4503819
+2011-07,Yukon,Population,35366
+2011-07,Northwest Territories,Population,43493
+2011-07,Nunavut,Population,34185
+2011-10,Canada,Population,34457713
+2011-10,Newfoundland and Labrador,Population,525845
+2011-10,Prince Edward Island,Population,144283
+2011-10,Nova Scotia,Population,944645
+2011-10,New Brunswick,Population,756187
+2011-10,Quebec,Population,8021063
+2011-10,Ontario,Population,13310604
+2011-10,Manitoba,Population,1237390
+2011-10,Saskatchewan,Population,1069950
+2011-10,Alberta,Population,3805071
+2011-10,British Columbia,Population,4529186
+2011-10,Yukon,Population,35578
+2011-10,Northwest Territories,Population,43576
+2011-10,Nunavut,Population,34335
+2012-01,Canada,Population,34516032
+2012-01,Newfoundland and Labrador,Population,526115
+2012-01,Prince Edward Island,Population,144208
+2012-01,Nova Scotia,Population,943907
+2012-01,New Brunswick,Population,757039
+2012-01,Quebec,Population,8028516
+2012-01,Ontario,Population,13325337
+2012-01,Manitoba,Population,1241417
+2012-01,Saskatchewan,Population,1073565
+2012-01,Alberta,Population,3822425
+2012-01,British Columbia,Population,4539775
+2012-01,Yukon,Population,35695
+2012-01,Northwest Territories,Population,43630
+2012-01,Nunavut,Population,34403
+2012-04,Canada,Population,34592192
+2012-04,Newfoundland and Labrador,Population,525550
+2012-04,Prince Edward Island,Population,144365
+2012-04,Nova Scotia,Population,943317
+2012-04,New Brunswick,Population,757024
+2012-04,Quebec,Population,8038332
+2012-04,Ontario,Population,13350123
+2012-04,Manitoba,Population,1244884
+2012-04,Saskatchewan,Population,1077170
+2012-04,Alberta,Population,3845093
+2012-04,British Columbia,Population,4552320
+2012-04,Yukon,Population,35757
+2012-04,Northwest Territories,Population,43678
+2012-04,Nunavut,Population,34579
+2012-07,Canada,Population,34713395
+2012-07,Newfoundland and Labrador,Population,526235
+2012-07,Prince Edward Island,Population,144415
+2012-07,Nova Scotia,Population,943163
+2012-07,New Brunswick,Population,758121
+2012-07,Quebec,Population,8059752
+2012-07,Ontario,Population,13392364
+2012-07,Manitoba,Population,1249094
+2012-07,Saskatchewan,Population,1083005
+2012-07,Alberta,Population,3871947
+2012-07,British Columbia,Population,4570866
+2012-07,Yukon,Population,36151
+2012-07,Northwest Territories,Population,43624
+2012-07,Nunavut,Population,34658
+2012-10,Canada,Population,34834973
+2012-10,Newfoundland and Labrador,Population,527065
+2012-10,Prince Edward Island,Population,144396
+2012-10,Nova Scotia,Population,942829
+2012-10,New Brunswick,Population,758408
+2012-10,Quebec,Population,8076838
+2012-10,Ontario,Population,13436625
+2012-10,Manitoba,Population,1253210
+2012-10,Saskatchewan,Population,1088177
+2012-10,Alberta,Population,3897746
+2012-10,British Columbia,Population,4594846
+2012-10,Yukon,Population,36347
+2012-10,Northwest Territories,Population,43656
+2012-10,Nunavut,Population,34830
+2013-01,Canada,Population,34881794
+2013-01,Newfoundland and Labrador,Population,527129
+2013-01,Prince Edward Island,Population,144041
+2013-01,Nova Scotia,Population,942045
+2013-01,New Brunswick,Population,758026
+2013-01,Quebec,Population,8081006
+2013-01,Ontario,Population,13446276
+2013-01,Manitoba,Population,1256879
+2013-01,Saskatchewan,Population,1090738
+2013-01,Alberta,Population,3917941
+2013-01,British Columbia,Population,4602742
+2013-01,Yukon,Population,36299
+2013-01,Northwest Territories,Population,43709
+2013-01,Nunavut,Population,34963
+2013-04,Canada,Population,34956567
+2013-04,Newfoundland and Labrador,Population,527177
+2013-04,Prince Edward Island,Population,143807
+2013-04,Nova Scotia,Population,940647
+2013-04,New Brunswick,Population,757854
+2013-04,Quebec,Population,8089004
+2013-04,Ontario,Population,13469151
+2013-04,Manitoba,Population,1259693
+2013-04,Saskatchewan,Population,1093549
+2013-04,Alberta,Population,3944281
+2013-04,British Columbia,Population,4616335
+2013-04,Yukon,Population,36242
+2013-04,Northwest Territories,Population,43840
+2013-04,Nunavut,Population,34987
+2013-07,Canada,Population,35080992
+2013-07,Newfoundland and Labrador,Population,526960
+2013-07,Prince Edward Island,Population,143942
+2013-07,Nova Scotia,Population,939808
+2013-07,New Brunswick,Population,758261
+2013-07,Quebec,Population,8108825
+2013-07,Ontario,Population,13511902
+2013-07,Manitoba,Population,1263393
+2013-07,Saskatchewan,Population,1098868
+2013-07,Alberta,Population,3978532
+2013-07,British Columbia,Population,4634943
+2013-07,Yukon,Population,36454
+2013-07,Northwest Territories,Population,43774
+2013-07,Nunavut,Population,35330
+2013-10,Canada,Population,35209597
+2013-10,Newfoundland and Labrador,Population,527948
+2013-10,Prince Edward Island,Population,143943
+2013-10,Nova Scotia,Population,939442
+2013-10,New Brunswick,Population,758379
+2013-10,Quebec,Population,8122462
+2013-10,Ontario,Population,13559499
+2013-10,Manitoba,Population,1267105
+2013-10,Saskatchewan,Population,1102832
+2013-10,Alberta,Population,4008421
+2013-10,British Columbia,Population,4663919
+2013-10,Yukon,Population,36384
+2013-10,Northwest Territories,Population,43727
+2013-10,Nunavut,Population,35536
+2014-01,Canada,Population,35247023
+2014-01,Newfoundland and Labrador,Population,528065
+2014-01,Prince Edward Island,Population,143828
+2014-01,Nova Scotia,Population,939166
+2014-01,New Brunswick,Population,758713
+2014-01,Quebec,Population,8123138
+2014-01,Ontario,Population,13563311
+2014-01,Manitoba,Population,1270153
+2014-01,Saskatchewan,Population,1105444
+2014-01,Alberta,Population,4027497
+2014-01,British Columbia,Population,4672025
+2014-01,Yukon,Population,36333
+2014-01,Northwest Territories,Population,43767
+2014-01,Nunavut,Population,35583
+2014-04,Canada,Population,35320540
+2014-04,Newfoundland and Labrador,Population,527314
+2014-04,Prince Edward Island,Population,143810
+2014-04,Nova Scotia,Population,938175
+2014-04,New Brunswick,Population,758570
+2014-04,Quebec,Population,8129926
+2014-04,Ontario,Population,13583220
+2014-04,Manitoba,Population,1272914
+2014-04,Saskatchewan,Population,1108674
+2014-04,Alberta,Population,4051858
+2014-04,British Columbia,Population,4689892
+2014-04,Yukon,Population,36626
+2014-04,Northwest Territories,Population,43760
+2014-04,Nunavut,Population,35801
+2014-07,Canada,Population,35434066
+2014-07,Newfoundland and Labrador,Population,527970
+2014-07,Prince Edward Island,Population,144095
+2014-07,Nova Scotia,Population,937768
+2014-07,New Brunswick,Population,758657
+2014-07,Quebec,Population,8147535
+2014-07,Ontario,Population,13617763
+2014-07,Manitoba,Population,1277425
+2014-07,Saskatchewan,Population,1111989
+2014-07,Alberta,Population,4081271
+2014-07,British Columbia,Population,4712691
+2014-07,Yukon,Population,37085
+2014-07,Northwest Territories,Population,43851
+2014-07,Nunavut,Population,35966
+2014-10,Canada,Population,35555305
+2014-10,Newfoundland and Labrador,Population,528266
+2014-10,Prince Edward Island,Population,144342
+2014-10,Nova Scotia,Population,938157
+2014-10,New Brunswick,Population,759192
+2014-10,Quebec,Population,8162631
+2014-10,Ontario,Population,13661282
+2014-10,Manitoba,Population,1281690
+2014-10,Saskatchewan,Population,1115184
+2014-10,Alberta,Population,4103702
+2014-10,British Columbia,Population,4743505
+2014-10,Yukon,Population,37223
+2014-10,Northwest Territories,Population,44031
+2014-10,Nunavut,Population,36100
+2015-01,Canada,Population,35571043
+2015-01,Newfoundland and Labrador,Population,528161
+2015-01,Prince Edward Island,Population,144162
+2015-01,Nova Scotia,Population,937442
+2015-01,New Brunswick,Population,759270
+2015-01,Quebec,Population,8160176
+2015-01,Ontario,Population,13657423
+2015-01,Manitoba,Population,1284693
+2015-01,Saskatchewan,Population,1117137
+2015-01,Alberta,Population,4113697
+2015-01,British Columbia,Population,4751439
+2015-01,Yukon,Population,37123
+2015-01,Northwest Territories,Population,44106
+2015-01,Nunavut,Population,36214
+2015-04,Canada,Population,35606734
+2015-04,Newfoundland and Labrador,Population,527859
+2015-04,Prince Edward Island,Population,144046
+2015-04,Nova Scotia,Population,935380
+2015-04,New Brunswick,Population,758579
+2015-04,Quebec,Population,8159968
+2015-04,Ontario,Population,13669290
+2015-04,Manitoba,Population,1286250
+2015-04,Saskatchewan,Population,1117736
+2015-04,Alberta,Population,4125943
+2015-04,British Columbia,Population,4763917
+2015-04,Yukon,Population,37330
+2015-04,Northwest Territories,Population,44159
+2015-04,Nunavut,Population,36277
+2015-07,Canada,Population,35704498
+2015-07,Newfoundland and Labrador,Population,528348
+2015-07,Prince Edward Island,Population,144636
+2015-07,Nova Scotia,Population,937419
+2015-07,New Brunswick,Population,759226
+2015-07,Quebec,Population,8175743
+2015-07,Ontario,Population,13709293
+2015-07,Manitoba,Population,1293598
+2015-07,Saskatchewan,Population,1122210
+2015-07,Alberta,Population,4150147
+2015-07,British Columbia,Population,4765472
+2015-07,Yukon,Population,37669
+2015-07,Northwest Territories,Population,44247
+2015-07,Nunavut,Population,36490
+2015-10,Canada,Population,35823591
+2015-10,Newfoundland and Labrador,Population,528843
+2015-10,Prince Edward Island,Population,144949
+2015-10,Nova Scotia,Population,938914
+2015-10,New Brunswick,Population,759971
+2015-10,Quebec,Population,8190074
+2015-10,Ontario,Population,13759762
+2015-10,Manitoba,Population,1298120
+2015-10,Saskatchewan,Population,1125588
+2015-10,Alberta,Population,4163048
+2015-10,British Columbia,Population,4795547
+2015-10,Yukon,Population,37730
+2015-10,Northwest Territories,Population,44443
+2015-10,Nunavut,Population,36602
+2016-01,Canada,Population,35871484
+2016-01,Newfoundland and Labrador,Population,528903
+2016-01,Prince Edward Island,Population,145238
+2016-01,Nova Scotia,Population,938973
+2016-01,New Brunswick,Population,760679
+2016-01,Quebec,Population,8193831
+2016-01,Ontario,Population,13774364
+2016-01,Manitoba,Population,1302938
+2016-01,Saskatchewan,Population,1128160
+2016-01,Alberta,Population,4171847
+2016-01,British Columbia,Population,4807562
+2016-01,Yukon,Population,37756
+2016-01,Northwest Territories,Population,44515
+2016-01,Nunavut,Population,36718
+2016-04,Canada,Population,35970407
+2016-04,Newfoundland and Labrador,Population,529083
+2016-04,Prince Edward Island,Population,145792
+2016-04,Nova Scotia,Population,940471
+2016-04,New Brunswick,Population,762317
+2016-04,Quebec,Population,8204229
+2016-04,Ontario,Population,13816652
+2016-04,Manitoba,Population,1307797
+2016-04,Saskatchewan,Population,1131285
+2016-04,Alberta,Population,4182353
+2016-04,British Columbia,Population,4831042
+2016-04,Yukon,Population,38025
+2016-04,Northwest Territories,Population,44595
+2016-04,Nunavut,Population,36766
+2016-07,Canada,Population,36110803
+2016-07,Newfoundland and Labrador,Population,529586
+2016-07,Prince Edward Island,Population,146891
+2016-07,Nova Scotia,Population,942984
+2016-07,New Brunswick,Population,763322
+2016-07,Quebec,Population,8225036
+2016-07,Ontario,Population,13876500
+2016-07,Manitoba,Population,1314140
+2016-07,Saskatchewan,Population,1135496
+2016-07,Alberta,Population,4195427
+2016-07,British Columbia,Population,4861269
+2016-07,Yukon,Population,38549
+2016-07,Northwest Territories,Population,44624
+2016-07,Nunavut,Population,36979
+2016-10,Canada,Population,36257421
+2016-10,Newfoundland and Labrador,Population,530368
+2016-10,Prince Edward Island,Population,147699
+2016-10,Nova Scotia,Population,946623
+2016-10,New Brunswick,Population,764820
+2016-10,Quebec,Population,8246383
+2016-10,Ontario,Population,13948180
+2016-10,Manitoba,Population,1319800
+2016-10,Saskatchewan,Population,1139492
+2016-10,Alberta,Population,4207139
+2016-10,British Columbia,Population,4886638
+2016-10,Yukon,Population,38724
+2016-10,Northwest Territories,Population,44471
+2016-10,Nunavut,Population,37084
+2017-01,Canada,Population,36313068
+2017-01,Newfoundland and Labrador,Population,530175
+2017-01,Prince Edward Island,Population,147811
+2017-01,Nova Scotia,Population,947023
+2017-01,New Brunswick,Population,764612
+2017-01,Quebec,Population,8252179
+2017-01,Ontario,Population,13975516
+2017-01,Manitoba,Population,1324044
+2017-01,Saskatchewan,Population,1141537
+2017-01,Alberta,Population,4215506
+2017-01,British Columbia,Population,4894147
+2017-01,Yukon,Population,38801
+2017-01,Northwest Territories,Population,44471
+2017-01,Nunavut,Population,37246
+2017-04,Canada,Population,36397141
+2017-04,Newfoundland and Labrador,Population,529700
+2017-04,Prince Edward Island,Population,148354
+2017-04,Nova Scotia,Population,948945
+2017-04,New Brunswick,Population,764859
+2017-04,Quebec,Population,8265839
+2017-04,Ontario,Population,14012209
+2017-04,Manitoba,Population,1328337
+2017-04,Saskatchewan,Population,1143829
+2017-04,Alberta,Population,4224933
+2017-04,British Columbia,Population,4908971
+2017-04,Yukon,Population,39108
+2017-04,Northwest Territories,Population,44626
+2017-04,Nunavut,Population,37431
+2017-07,Canada,Population,36545075
+2017-07,Newfoundland and Labrador,Population,529742
+2017-07,Prince Edward Island,Population,149740
+2017-07,Nova Scotia,Population,952159
+2017-07,New Brunswick,Population,766697
+2017-07,Quebec,Population,8292832
+2017-07,Ontario,Population,14078499
+2017-07,Manitoba,Population,1334734
+2017-07,Saskatchewan,Population,1147315
+2017-07,Alberta,Population,4237310
+2017-07,British Columbia,Population,4934202
+2017-07,Yukon,Population,39533
+2017-07,Northwest Territories,Population,44656
+2017-07,Nunavut,Population,37656
+2017-10,Canada,Population,36722075
+2017-10,Newfoundland and Labrador,Population,530153
+2017-10,Prince Edward Island,Population,150595
+2017-10,Nova Scotia,Population,956074
+2017-10,New Brunswick,Population,768029
+2017-10,Quebec,Population,8326075
+2017-10,Ontario,Population,14161084
+2017-10,Manitoba,Population,1340426
+2017-10,Saskatchewan,Population,1151044
+2017-10,Alberta,Population,4253530
+2017-10,British Columbia,Population,4962706
+2017-10,Yukon,Population,39705
+2017-10,Northwest Territories,Population,44825
+2017-10,Nunavut,Population,37829
+2018-01,Canada,Population,36801579
+2018-01,Newfoundland and Labrador,Population,529743
+2018-01,Prince Edward Island,Population,150619
+2018-01,Nova Scotia,Population,956711
+2018-01,New Brunswick,Population,768146
+2018-01,Quebec,Population,8338883
+2018-01,Ontario,Population,14199811
+2018-01,Manitoba,Population,1344198
+2018-01,Saskatchewan,Population,1152366
+2018-01,Alberta,Population,4263957
+2018-01,British Columbia,Population,4974712
+2018-01,Yukon,Population,39873
+2018-01,Northwest Territories,Population,44730
+2018-01,Nunavut,Population,37830
+2018-04,Canada,Population,36903671
+2018-04,Newfoundland and Labrador,Population,528924
+2018-04,Prince Edward Island,Population,151008
+2018-04,Nova Scotia,Population,957883
+2018-04,New Brunswick,Population,768707
+2018-04,Quebec,Population,8354460
+2018-04,Ontario,Population,14251136
+2018-04,Manitoba,Population,1346916
+2018-04,Saskatchewan,Population,1153530
+2018-04,Alberta,Population,4276444
+2018-04,British Columbia,Population,4991716
+2018-04,Yukon,Population,40037
+2018-04,Northwest Territories,Population,44934
+2018-04,Nunavut,Population,37976
+2018-07,Canada,Population,37072620
+2018-07,Newfoundland and Labrador,Population,528402
+2018-07,Prince Edward Island,Population,152259
+2018-07,Nova Scotia,Population,962072
+2018-07,New Brunswick,Population,770497
+2018-07,Quebec,Population,8386951
+2018-07,Ontario,Population,14326746
+2018-07,Manitoba,Population,1352687
+2018-07,Saskatchewan,Population,1156210
+2018-07,Alberta,Population,4292556
+2018-07,British Columbia,Population,5020979
+2018-07,Yukon,Population,40403
+2018-07,Northwest Territories,Population,44536
+2018-07,Nunavut,Population,38322
+2018-10,Canada,Population,37259485
+2018-10,Newfoundland and Labrador,Population,528926
+2018-10,Prince Edward Island,Population,153906
+2018-10,Nova Scotia,Population,967578
+2018-10,New Brunswick,Population,772793
+2018-10,Quebec,Population,8418646
+2018-10,Ontario,Population,14413055
+2018-10,Manitoba,Population,1357856
+2018-10,Saskatchewan,Population,1159648
+2018-10,Alberta,Population,4311439
+2018-10,British Columbia,Population,5052131
+2018-10,Yukon,Population,40533
+2018-10,Northwest Territories,Population,44487
+2018-10,Nunavut,Population,38487
+2019-01,Canada,Population,37336956
+2019-01,Newfoundland and Labrador,Population,528326
+2019-01,Prince Edward Island,Population,153881
+2019-01,Nova Scotia,Population,968724
+2019-01,New Brunswick,Population,773059
+2019-01,Quebec,Population,8430363
+2019-01,Ontario,Population,14449986
+2019-01,Manitoba,Population,1361737
+2019-01,Saskatchewan,Population,1161529
+2019-01,Alberta,Population,4324254
+2019-01,British Columbia,Population,5061132
+2019-01,Yukon,Population,40716
+2019-01,Northwest Territories,Population,44675
+2019-01,Nunavut,Population,38574
+2019-04,Canada,Population,37437243
+2019-04,Newfoundland and Labrador,Population,527993
+2019-04,Prince Edward Island,Population,154409
+2019-04,Nova Scotia,Population,970680
+2019-04,New Brunswick,Population,774277
+2019-04,Quebec,Population,8447632
+2019-04,Ontario,Population,14493612
+2019-04,Manitoba,Population,1364666
+2019-04,Saskatchewan,Population,1161787
+2019-04,Alberta,Population,4337569
+2019-04,British Columbia,Population,5080515
+2019-04,Yukon,Population,40779
+2019-04,Northwest Territories,Population,44560
+2019-04,Nunavut,Population,38764
+2019-07,Canada,Population,37618495
+2019-07,Newfoundland and Labrador,Population,527643
+2019-07,Prince Edward Island,Population,155792
+2019-07,Nova Scotia,Population,975799
+2019-07,New Brunswick,Population,777387
+2019-07,Quebec,Population,8483186
+2019-07,Ontario,Population,14573565
+2019-07,Manitoba,Population,1370033
+2019-07,Saskatchewan,Population,1164223
+2019-07,Alberta,Population,4355377
+2019-07,British Columbia,Population,5111022
+2019-07,Yukon,Population,41187
+2019-07,Northwest Territories,Population,44442
+2019-07,Nunavut,Population,38839
+2019-10,Canada,Population,37828162
+2019-10,Newfoundland and Labrador,Population,528442
+2019-10,Prince Edward Island,Population,157025
+2019-10,Nova Scotia,Population,982592
+2019-10,New Brunswick,Population,780907
+2019-10,Quebec,Population,8521542
+2019-10,Ontario,Population,14666727
+2019-10,Manitoba,Population,1373884
+2019-10,Saskatchewan,Population,1167271
+2019-10,Alberta,Population,4376860
+2019-10,British Columbia,Population,5148047
+2019-10,Yukon,Population,41460
+2019-10,Northwest Territories,Population,44512
+2019-10,Nunavut,Population,38893
+2020-01,Canada,Population,37928208
+2020-01,Newfoundland and Labrador,Population,528231
+2020-01,Prince Edward Island,Population,157494
+2020-01,Nova Scotia,Population,984130
+2020-01,New Brunswick,Population,781054
+2020-01,Quebec,Population,8537376
+2020-01,Ontario,Population,14718155
+2020-01,Manitoba,Population,1377283
+2020-01,Saskatchewan,Population,1169426
+2020-01,Alberta,Population,4392958
+2020-01,British Columbia,Population,5157053
+2020-01,Yukon,Population,41505
+2020-01,Northwest Territories,Population,44533
+2020-01,Nunavut,Population,39010
+2020-04,Canada,Population,38006941
+2020-04,Newfoundland and Labrador,Population,527733
+2020-04,Prince Edward Island,Population,158401
+2020-04,Nova Scotia,Population,986204
+2020-04,New Brunswick,Population,782512
+2020-04,Quebec,Population,8550900
+2020-04,Ontario,Population,14752374
+2020-04,Manitoba,Population,1379280
+2020-04,Saskatchewan,Population,1169038
+2020-04,Alberta,Population,4405455
+2020-04,British Columbia,Population,5169535
+2020-04,Yukon,Population,41807
+2020-04,Northwest Territories,Population,44565
+2020-04,Nunavut,Population,39137
+2020-07,Canada,Population,38028638
+2020-07,Newfoundland and Labrador,Population,526884
+2020-07,Prince Edward Island,Population,159193
+2020-07,Nova Scotia,Population,989168
+2020-07,New Brunswick,Population,783432
+2020-07,Quebec,Population,8551095
+2020-07,Ontario,Population,14761811
+2020-07,Manitoba,Population,1380132
+2020-07,Saskatchewan,Population,1167386
+2020-07,Alberta,Population,4407495
+2020-07,British Columbia,Population,5176101
+2020-07,Yukon,Population,41958
+2020-07,Northwest Territories,Population,44504
+2020-07,Nunavut,Population,39479
+2020-10,Canada,Population,38027406
+2020-10,Newfoundland and Labrador,Population,526046
+2020-10,Prince Edward Island,Population,159179
+2020-10,Nova Scotia,Population,989154
+2020-10,New Brunswick,Population,783814
+2020-10,Quebec,Population,8551865
+2020-10,Ontario,Population,14757582
+2020-10,Manitoba,Population,1381809
+2020-10,Saskatchewan,Population,1165963
+2020-10,Alberta,Population,4412013
+2020-10,British Columbia,Population,5173896
+2020-10,Yukon,Population,42109
+2020-10,Northwest Territories,Population,44395
+2020-10,Nunavut,Population,39581
+2021-01,Canada,Population,38058291
+2021-01,Newfoundland and Labrador,Population,525895
+2021-01,Prince Edward Island,Population,159240
+2021-01,Nova Scotia,Population,990025
+2021-01,New Brunswick,Population,784950
+2021-01,Quebec,Population,8550561
+2021-01,Ontario,Population,14772726
+2021-01,Manitoba,Population,1383854
+2021-01,Saskatchewan,Population,1166348
+2021-01,Alberta,Population,4418338
+2021-01,British Columbia,Population,5180015
+2021-01,Yukon,Population,42157
+2021-01,Northwest Territories,Population,44432
+2021-01,Nunavut,Population,39750
+2021-04,Canada,Population,38140918
+2021-04,Newfoundland and Labrador,Population,526195
+2021-04,Prince Edward Island,Population,160334
+2021-04,Nova Scotia,Population,993946
+2021-04,New Brunswick,Population,787002
+2021-04,Quebec,Population,8556015
+2021-04,Ontario,Population,14808093
+2021-04,Manitoba,Population,1388611
+2021-04,Saskatchewan,Population,1167711
+2021-04,Alberta,Population,4425617
+2021-04,British Columbia,Population,5200393
+2021-04,Yukon,Population,42443
+2021-04,Northwest Territories,Population,44679
+2021-04,Nunavut,Population,39879
+2021-07,Canada,Population,38239864
+2021-07,Newfoundland and Labrador,Population,527056
+2021-07,Prince Edward Island,Population,162133
+2021-07,Nova Scotia,Population,999908
+2021-07,New Brunswick,Population,790802
+2021-07,Quebec,Population,8572020
+2021-07,Ontario,Population,14842488
+2021-07,Manitoba,Population,1391924
+2021-07,Saskatchewan,Population,1167711
+2021-07,Alberta,Population,4431531
+2021-07,British Columbia,Population,5226665
+2021-07,Yukon,Population,42961
+2021-07,Northwest Territories,Population,44579
+2021-07,Nunavut,Population,40086
+2021-10,Canada,Population,38460257
+2021-10,Newfoundland and Labrador,Population,528342
+2021-10,Prince Edward Island,Population,163580
+2021-10,Nova Scotia,Population,1006562
+2021-10,New Brunswick,Population,795691
+2021-10,Quebec,Population,8604508
+2021-10,Ontario,Population,14947417
+2021-10,Manitoba,Population,1396656
+2021-10,Saskatchewan,Population,1168934
+2021-10,Alberta,Population,4451129
+2021-10,British Columbia,Population,5269491
+2021-10,Yukon,Population,43129
+2021-10,Northwest Territories,Population,44573
+2021-10,Nunavut,Population,40245
+2022-01,Canada,Population,38565380
+2022-01,Newfoundland and Labrador,Population,529008
+2022-01,Prince Edward Island,Population,164058
+2022-01,Nova Scotia,Population,1009355
+2022-01,New Brunswick,Population,798414
+2022-01,Quebec,Population,8613282
+2022-01,Ontario,Population,14997903
+2022-01,Manitoba,Population,1400367
+2022-01,Saskatchewan,Population,1171063
+2022-01,Alberta,Population,4466136
+2022-01,British Columbia,Population,5287664
+2022-01,Yukon,Population,43046
+2022-01,Northwest Territories,Population,44741
+2022-01,Nunavut,Population,40343
+2022-04,Canada,Population,38693009
+2022-04,Newfoundland and Labrador,Population,529054
+2022-04,Prince Edward Island,Population,165396
+2022-04,Nova Scotia,Population,1013351
+2022-04,New Brunswick,Population,801319
+2022-04,Quebec,Population,8628480
+2022-04,Ontario,Population,15051975
+2022-04,Manitoba,Population,1404837
+2022-04,Saskatchewan,Population,1173461
+2022-04,Alberta,Population,4482503
+2022-04,British Columbia,Population,5313881
+2022-04,Yukon,Population,43400
+2022-04,Northwest Territories,Population,44773
+2022-04,Nunavut,Population,40579
+2022-07,Canada,Population,38950132
+2022-07,Newfoundland and Labrador,Population,531257
+2022-07,Prince Edward Island,Population,167200
+2022-07,Nova Scotia,Population,1024034
+2022-07,New Brunswick,Population,808869
+2022-07,Quebec,Population,8669963
+2022-07,Ontario,Population,15155836
+2022-07,Manitoba,Population,1413498
+2022-07,Saskatchewan,Population,1178796
+2022-07,Alberta,Population,4512731
+2022-07,British Columbia,Population,5358845
+2022-07,Yukon,Population,43869
+2022-07,Northwest Territories,Population,44631
+2022-07,Nunavut,Population,40603
+2022-10,Canada,Population,39284491
+2022-10,Newfoundland and Labrador,Population,533194
+2022-10,Prince Edward Island,Population,168939
+2022-10,Nova Scotia,Population,1033146
+2022-10,New Brunswick,Population,816420
+2022-10,Quebec,Population,8718914
+2022-10,Ontario,Population,15305369
+2022-10,Manitoba,Population,1424475
+2022-10,Saskatchewan,Population,1188295
+2022-10,Alberta,Population,4560275
+2022-10,British Columbia,Population,5406059
+2022-10,Yukon,Population,44169
+2022-10,Northwest Territories,Population,44559
+2022-10,Nunavut,Population,40677
+2023-01,Canada,Population,39501329
+2023-01,Newfoundland and Labrador,Population,535147
+2023-01,Prince Edward Island,Population,169942
+2023-01,Nova Scotia,Population,1036868
+2023-01,New Brunswick,Population,819414
+2023-01,Quebec,Population,8742975
+2023-01,Ontario,Population,15407970
+2023-01,Manitoba,Population,1433655
+2023-01,Saskatchewan,Population,1195840
+2023-01,Alberta,Population,4596901
+2023-01,British Columbia,Population,5432939
+2023-01,Yukon,Population,44478
+2023-01,Northwest Territories,Population,44403
+2023-01,Nunavut,Population,40797
+2023-04,Canada,Population,39727297
+2023-04,Newfoundland and Labrador,Population,536635
+2023-04,Prince Edward Island,Population,171736
+2023-04,Nova Scotia,Population,1043723
+2023-04,New Brunswick,Population,824150
+2023-04,Quebec,Population,8772140
+2023-04,Ontario,Population,15495050
+2023-04,Manitoba,Population,1444049
+2023-04,Saskatchewan,Population,1201624
+2023-04,Alberta,Population,4641615
+2023-04,British Columbia,Population,5466566
+2023-04,Yukon,Population,44823
+2023-04,Northwest Territories,Population,44402
+2023-04,Nunavut,Population,40784
+2023-07,Canada,Population,40049088
+2023-07,Newfoundland and Labrador,Population,538789
+2023-07,Prince Edward Island,Population,173734
+2023-07,Nova Scotia,Population,1053005
+2023-07,New Brunswick,Population,831103
+2023-07,Quebec,Population,8821696
+2023-07,Ontario,Population,15632481
+2023-07,Manitoba,Population,1453202
+2023-07,Saskatchewan,Population,1210257
+2023-07,Alberta,Population,4688576
+2023-07,British Columbia,Population,5515296
+2023-07,Yukon,Population,45419
+2023-07,Northwest Territories,Population,44614
+2023-07,Nunavut,Population,40916
+2023-10,Canada,Population,40467722
+2023-10,Newfoundland and Labrador,Population,541126
+2023-10,Prince Edward Island,Population,176173
+2023-10,Nova Scotia,Population,1062825
+2023-10,New Brunswick,Population,840130
+2023-10,Quebec,Population,8882501
+2023-10,Ontario,Population,15823956
+2023-10,Manitoba,Population,1462439
+2023-10,Saskatchewan,Population,1222152
+2023-10,Alberta,Population,4752173
+2023-10,British Columbia,Population,5572694
+2023-10,Yukon,Population,45898
+2023-10,Northwest Territories,Population,44566
+2023-10,Nunavut,Population,41089
+2024-01,Canada,Population,40724526
+2024-01,Newfoundland and Labrador,Population,542449
+2024-01,Prince Edward Island,Population,176757
+2024-01,Nova Scotia,Population,1067878
+2024-01,New Brunswick,Population,844859
+2024-01,Quebec,Population,8909038
+2024-01,Ontario,Population,15946146
+2024-01,Manitoba,Population,1472261
+2024-01,Saskatchewan,Population,1230316
+2024-01,Alberta,Population,4801806
+2024-01,British Columbia,Population,5601024
+2024-01,Yukon,Population,46286
+2024-01,Northwest Territories,Population,44655
+2024-01,Nunavut,Population,41051
+2024-04,Canada,Population,40990297
+2024-04,Newfoundland and Labrador,Population,544318
+2024-04,Prince Edward Island,Population,178022
+2024-04,Nova Scotia,Population,1074020
+2024-04,New Brunswick,Population,850930
+2024-04,Quebec,Population,8945468
+2024-04,Ontario,Population,16046534
+2024-04,Manitoba,Population,1483553
+2024-04,Saskatchewan,Population,1238591
+2024-04,Alberta,Population,4857695
+2024-04,British Columbia,Population,5638043
+2024-04,Yukon,Population,46965
+2024-04,Northwest Territories,Population,45021
+2024-04,Nunavut,Population,41137
+2024-07,Canada,Population,41262329
+2024-07,Newfoundland and Labrador,Population,546869
+2024-07,Prince Edward Island,Population,179709
+2024-07,Nova Scotia,Population,1082769
+2024-07,New Brunswick,Population,858293
+2024-07,Quebec,Population,8995474
+2024-07,Ontario,Population,16144797
+2024-07,Manitoba,Population,1492144
+2024-07,Saskatchewan,Population,1247868
+2024-07,Alberta,Population,4909030
+2024-07,British Columbia,Population,5671114
+2024-07,Yukon,Population,47595
+2024-07,Northwest Territories,Population,45257
+2024-07,Nunavut,Population,41410
+2024-10,Canada,Population,41494132
+2024-10,Newfoundland and Labrador,Population,548402
+2024-10,Prince Edward Island,Population,180877
+2024-10,Nova Scotia,Population,1088273
+2024-10,New Brunswick,Population,863841
+2024-10,Quebec,Population,9038268
+2024-10,Ontario,Population,16228152
+2024-10,Manitoba,Population,1500464
+2024-10,Saskatchewan,Population,1256983
+2024-10,Alberta,Population,4957075
+2024-10,British Columbia,Population,5696852
+2024-10,Yukon,Population,47939
+2024-10,Northwest Territories,Population,45520
+2024-10,Nunavut,Population,41486
+2025-01,Canada,Population,41574517
+2025-01,Newfoundland and Labrador,Population,548842
+2025-01,Prince Edward Island,Population,180686
+2025-01,Nova Scotia,Population,1089187
+2025-01,New Brunswick,Population,865945
+2025-01,Quebec,Population,9043463
+2025-01,Ontario,Population,16255550
+2025-01,Manitoba,Population,1505644
+2025-01,Saskatchewan,Population,1261524
+2025-01,Alberta,Population,4988181
+2025-01,British Columbia,Population,5699989
+2025-01,Yukon,Population,48176
+2025-01,Northwest Territories,Population,45679
+2025-01,Nunavut,Population,41651
+2025-04,Canada,Population,41604555
+2025-04,Newfoundland and Labrador,Population,549456
+2025-04,Prince Edward Island,Population,181289
+2025-04,Nova Scotia,Population,1091037
+2025-04,New Brunswick,Population,867014
+2025-04,Quebec,Population,9041123
+2025-04,Ontario,Population,16256538
+2025-04,Manitoba,Population,1508031
+2025-04,Saskatchewan,Population,1264537
+2025-04,Alberta,Population,5010078
+2025-04,British Columbia,Population,5699690
+2025-04,Yukon,Population,48089
+2025-04,Northwest Territories,Population,45875
+2025-04,Nunavut,Population,41798
+2025-07,Canada,Population,41651653
+2025-07,Newfoundland and Labrador,Population,549911
+2025-07,Prince Edward Island,Population,182657
+2025-07,Nova Scotia,Population,1093245
+2025-07,New Brunswick,Population,869682
+2025-07,Quebec,Population,9058297
+2025-07,Ontario,Population,16258260
+2025-07,Manitoba,Population,1509702
+2025-07,Saskatchewan,Population,1266959
+2025-07,Alberta,Population,5029346
+2025-07,British Columbia,Population,5697536
+2025-07,Yukon,Population,48278
+2025-07,Northwest Territories,Population,45950
+2025-07,Nunavut,Population,41830
+2025-10,Canada,Population,41575585
+2025-10,Newfoundland and Labrador,Population,549738
+2025-10,Prince Edward Island,Population,182508
+2025-10,Nova Scotia,Population,1091857
+2025-10,New Brunswick,Population,868630
+2025-10,Quebec,Population,9058089
+2025-10,Ontario,Population,16191372
+2025-10,Manitoba,Population,1507057
+2025-10,Saskatchewan,Population,1266234
+2025-10,Alberta,Population,5040871
+2025-10,British Columbia,Population,5683201
+2025-10,Yukon,Population,48261
+2025-10,Northwest Territories,Population,45848
+2025-10,Nunavut,Population,41919
+2026-01,Canada,Population,41472081
+2026-01,Newfoundland and Labrador,Population,548557
+2026-01,Prince Edward Island,Population,182001
+2026-01,Nova Scotia,Population,1090074
+2026-01,New Brunswick,Population,867383
+2026-01,Quebec,Population,9033887
+2026-01,Ontario,Population,16136480
+2026-01,Manitoba,Population,1505117
+2026-01,Saskatchewan,Population,1265936
+2026-01,Alberta,Population,5048151
+2026-01,British Columbia,Population,5658528
+2026-01,Yukon,Population,48218
+2026-01,Northwest Territories,Population,45803
+2026-01,Nunavut,Population,41946
+2026-04,Canada,Population,41417056
+2026-04,Newfoundland and Labrador,Population,547910
+2026-04,Prince Edward Island,Population,181715
+2026-04,Nova Scotia,Population,1090852
+2026-04,New Brunswick,Population,866497
+2026-04,Quebec,Population,9016222
+2026-04,Ontario,Population,16103890
+2026-04,Manitoba,Population,1503865
+2026-04,Saskatchewan,Population,1266092
+2026-04,Alberta,Population,5057077
+2026-04,British Columbia,Population,5646420
+2026-04,Yukon,Population,48493
+2026-04,Northwest Territories,Population,45808
+2026-04,Nunavut,Population,42215
