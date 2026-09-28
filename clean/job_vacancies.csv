@@ -5291,129 +5291,171 @@ date,geography,indicator,value
 2026-03,Nunavut,Job vacancies,
 2026-03,Nunavut,Payroll employees,17770.0
 2026-03,Nunavut,Job vacancy rate,
-2026-04,Canada,Job vacancies,540270.0
-2026-04,Canada,Payroll employees,17137065.0
+2026-04,Canada,Job vacancies,544420.0
+2026-04,Canada,Payroll employees,17172460.0
 2026-04,Canada,Job vacancy rate,3.1
-2026-04,Newfoundland and Labrador,Job vacancies,5160.0
-2026-04,Newfoundland and Labrador,Payroll employees,188740.0
-2026-04,Newfoundland and Labrador,Job vacancy rate,2.7
-2026-04,Prince Edward Island,Job vacancies,2045.0
-2026-04,Prince Edward Island,Payroll employees,63915.0
+2026-04,Newfoundland and Labrador,Job vacancies,4780.0
+2026-04,Newfoundland and Labrador,Payroll employees,188010.0
+2026-04,Newfoundland and Labrador,Job vacancy rate,2.5
+2026-04,Prince Edward Island,Job vacancies,2055.0
+2026-04,Prince Edward Island,Payroll employees,64155.0
 2026-04,Prince Edward Island,Job vacancy rate,3.1
-2026-04,Nova Scotia,Job vacancies,13145.0
-2026-04,Nova Scotia,Payroll employees,436670.0
+2026-04,Nova Scotia,Job vacancies,13585.0
+2026-04,Nova Scotia,Payroll employees,453105.0
 2026-04,Nova Scotia,Job vacancy rate,2.9
-2026-04,New Brunswick,Job vacancies,12160.0
-2026-04,New Brunswick,Payroll employees,338950.0
-2026-04,New Brunswick,Job vacancy rate,3.5
-2026-04,Quebec,Job vacancies,128795.0
-2026-04,Quebec,Payroll employees,3792885.0
+2026-04,New Brunswick,Job vacancies,11465.0
+2026-04,New Brunswick,Payroll employees,321770.0
+2026-04,New Brunswick,Job vacancy rate,3.4
+2026-04,Quebec,Job vacancies,128485.0
+2026-04,Quebec,Payroll employees,3799735.0
 2026-04,Quebec,Job vacancy rate,3.3
-2026-04,Ontario,Job vacancies,177275.0
-2026-04,Ontario,Payroll employees,6635840.0
+2026-04,Ontario,Job vacancies,180130.0
+2026-04,Ontario,Payroll employees,6653710.0
 2026-04,Ontario,Job vacancy rate,2.6
-2026-04,Manitoba,Job vacancies,17450.0
-2026-04,Manitoba,Payroll employees,615350.0
-2026-04,Manitoba,Job vacancy rate,2.8
-2026-04,Saskatchewan,Job vacancies,18170.0
-2026-04,Saskatchewan,Payroll employees,500605.0
-2026-04,Saskatchewan,Job vacancy rate,3.5
-2026-04,Alberta,Job vacancies,70170.0
-2026-04,Alberta,Payroll employees,2081720.0
-2026-04,Alberta,Job vacancy rate,3.3
-2026-04,British Columbia,Job vacancies,92890.0
-2026-04,British Columbia,Payroll employees,2422535.0
-2026-04,British Columbia,Job vacancy rate,3.7
-2026-04,Yukon,Job vacancies,865.0
-2026-04,Yukon,Payroll employees,20385.0
-2026-04,Yukon,Job vacancy rate,4.1
-2026-04,Northwest Territories,Job vacancies,1750.0
-2026-04,Northwest Territories,Payroll employees,21605.0
-2026-04,Northwest Territories,Job vacancy rate,7.5
-2026-04,Nunavut,Job vacancies,
-2026-04,Nunavut,Payroll employees,17860.0
-2026-04,Nunavut,Job vacancy rate,
-2026-05,Canada,Job vacancies,544790.0
-2026-05,Canada,Payroll employees,17336035.0
-2026-05,Canada,Job vacancy rate,3.0
-2026-05,Newfoundland and Labrador,Job vacancies,5860.0
-2026-05,Newfoundland and Labrador,Payroll employees,183195.0
-2026-05,Newfoundland and Labrador,Job vacancy rate,3.1
-2026-05,Prince Edward Island,Job vacancies,2335.0
-2026-05,Prince Edward Island,Payroll employees,66440.0
-2026-05,Prince Edward Island,Job vacancy rate,3.4
-2026-05,Nova Scotia,Job vacancies,15980.0
-2026-05,Nova Scotia,Payroll employees,492065.0
-2026-05,Nova Scotia,Job vacancy rate,3.1
-2026-05,New Brunswick,Job vacancies,10850.0
-2026-05,New Brunswick,Payroll employees,311470.0
-2026-05,New Brunswick,Job vacancy rate,3.4
-2026-05,Quebec,Job vacancies,118720.0
-2026-05,Quebec,Payroll employees,3842435.0
+2026-04,Manitoba,Job vacancies,19520.0
+2026-04,Manitoba,Payroll employees,617930.0
+2026-04,Manitoba,Job vacancy rate,3.1
+2026-04,Saskatchewan,Job vacancies,17505.0
+2026-04,Saskatchewan,Payroll employees,498985.0
+2026-04,Saskatchewan,Job vacancy rate,3.4
+2026-04,Alberta,Job vacancies,68255.0
+2026-04,Alberta,Payroll employees,2088730.0
+2026-04,Alberta,Job vacancy rate,3.2
+2026-04,British Columbia,Job vacancies,95715.0
+2026-04,British Columbia,Payroll employees,2426630.0
+2026-04,British Columbia,Job vacancy rate,3.8
+2026-04,Yukon,Job vacancies,995.0
+2026-04,Yukon,Payroll employees,20160.0
+2026-04,Yukon,Job vacancy rate,4.7
+2026-04,Northwest Territories,Job vacancies,1465.0
+2026-04,Northwest Territories,Payroll employees,21690.0
+2026-04,Northwest Territories,Job vacancy rate,6.3
+2026-04,Nunavut,Job vacancies,470.0
+2026-04,Nunavut,Payroll employees,17855.0
+2026-04,Nunavut,Job vacancy rate,2.6
+2026-05,Canada,Job vacancies,554985.0
+2026-05,Canada,Payroll employees,17375130.0
+2026-05,Canada,Job vacancy rate,3.1
+2026-05,Newfoundland and Labrador,Job vacancies,6660.0
+2026-05,Newfoundland and Labrador,Payroll employees,183935.0
+2026-05,Newfoundland and Labrador,Job vacancy rate,3.5
+2026-05,Prince Edward Island,Job vacancies,2290.0
+2026-05,Prince Edward Island,Payroll employees,66745.0
+2026-05,Prince Edward Island,Job vacancy rate,3.3
+2026-05,Nova Scotia,Job vacancies,17545.0
+2026-05,Nova Scotia,Payroll employees,490555.0
+2026-05,Nova Scotia,Job vacancy rate,3.5
+2026-05,New Brunswick,Job vacancies,10650.0
+2026-05,New Brunswick,Payroll employees,313665.0
+2026-05,New Brunswick,Job vacancy rate,3.3
+2026-05,Quebec,Job vacancies,119740.0
+2026-05,Quebec,Payroll employees,3845740.0
 2026-05,Quebec,Job vacancy rate,3.0
-2026-05,Ontario,Job vacancies,191880.0
-2026-05,Ontario,Payroll employees,6709855.0
+2026-05,Ontario,Job vacancies,194890.0
+2026-05,Ontario,Payroll employees,6728290.0
 2026-05,Ontario,Job vacancy rate,2.8
-2026-05,Manitoba,Job vacancies,21335.0
-2026-05,Manitoba,Payroll employees,607505.0
+2026-05,Manitoba,Job vacancies,21440.0
+2026-05,Manitoba,Payroll employees,607350.0
 2026-05,Manitoba,Job vacancy rate,3.4
-2026-05,Saskatchewan,Job vacancies,19600.0
-2026-05,Saskatchewan,Payroll employees,519910.0
-2026-05,Saskatchewan,Job vacancy rate,3.6
-2026-05,Alberta,Job vacancies,73360.0
-2026-05,Alberta,Payroll employees,2112735.0
+2026-05,Saskatchewan,Job vacancies,20080.0
+2026-05,Saskatchewan,Payroll employees,521265.0
+2026-05,Saskatchewan,Job vacancy rate,3.7
+2026-05,Alberta,Job vacancies,74615.0
+2026-05,Alberta,Payroll employees,2119975.0
 2026-05,Alberta,Job vacancy rate,3.4
-2026-05,British Columbia,Job vacancies,82395.0
-2026-05,British Columbia,Payroll employees,2430665.0
-2026-05,British Columbia,Job vacancy rate,3.3
-2026-05,Yukon,Job vacancies,930.0
-2026-05,Yukon,Payroll employees,20570.0
-2026-05,Yukon,Job vacancy rate,4.3
-2026-05,Northwest Territories,Job vacancies,1140.0
-2026-05,Northwest Territories,Payroll employees,20965.0
-2026-05,Northwest Territories,Job vacancy rate,5.2
-2026-05,Nunavut,Job vacancies,410.0
-2026-05,Nunavut,Payroll employees,18225.0
+2026-05,British Columbia,Job vacancies,84765.0
+2026-05,British Columbia,Payroll employees,2437760.0
+2026-05,British Columbia,Job vacancy rate,3.4
+2026-05,Yukon,Job vacancies,790.0
+2026-05,Yukon,Payroll employees,20525.0
+2026-05,Yukon,Job vacancy rate,3.7
+2026-05,Northwest Territories,Job vacancies,1120.0
+2026-05,Northwest Territories,Payroll employees,21165.0
+2026-05,Northwest Territories,Job vacancy rate,5.0
+2026-05,Nunavut,Job vacancies,405.0
+2026-05,Nunavut,Payroll employees,18155.0
 2026-05,Nunavut,Job vacancy rate,2.2
-2026-06,Canada,Job vacancies,539700.0
-2026-06,Canada,Payroll employees,17635975.0
-2026-06,Canada,Job vacancy rate,3.0
-2026-06,Newfoundland and Labrador,Job vacancies,5505.0
-2026-06,Newfoundland and Labrador,Payroll employees,206220.0
+2026-06,Canada,Job vacancies,535750.0
+2026-06,Canada,Payroll employees,17666365.0
+2026-06,Canada,Job vacancy rate,2.9
+2026-06,Newfoundland and Labrador,Job vacancies,5545.0
+2026-06,Newfoundland and Labrador,Payroll employees,206905.0
 2026-06,Newfoundland and Labrador,Job vacancy rate,2.6
 2026-06,Prince Edward Island,Job vacancies,3180.0
-2026-06,Prince Edward Island,Payroll employees,74760.0
+2026-06,Prince Edward Island,Payroll employees,74380.0
 2026-06,Prince Edward Island,Job vacancy rate,4.1
-2026-06,Nova Scotia,Job vacancies,13530.0
-2026-06,Nova Scotia,Payroll employees,463480.0
-2026-06,Nova Scotia,Job vacancy rate,2.8
-2026-06,New Brunswick,Job vacancies,9300.0
-2026-06,New Brunswick,Payroll employees,336155.0
+2026-06,Nova Scotia,Job vacancies,13705.0
+2026-06,Nova Scotia,Payroll employees,462385.0
+2026-06,Nova Scotia,Job vacancy rate,2.9
+2026-06,New Brunswick,Job vacancies,9350.0
+2026-06,New Brunswick,Payroll employees,337355.0
 2026-06,New Brunswick,Job vacancy rate,2.7
-2026-06,Quebec,Job vacancies,120195.0
-2026-06,Quebec,Payroll employees,3915720.0
+2026-06,Quebec,Job vacancies,120520.0
+2026-06,Quebec,Payroll employees,3923330.0
 2026-06,Quebec,Job vacancy rate,3.0
-2026-06,Ontario,Job vacancies,192130.0
-2026-06,Ontario,Payroll employees,6789610.0
-2026-06,Ontario,Job vacancy rate,2.8
-2026-06,Manitoba,Job vacancies,19620.0
-2026-06,Manitoba,Payroll employees,621155.0
+2026-06,Ontario,Job vacancies,191520.0
+2026-06,Ontario,Payroll employees,6807555.0
+2026-06,Ontario,Job vacancy rate,2.7
+2026-06,Manitoba,Job vacancies,19790.0
+2026-06,Manitoba,Payroll employees,623615.0
 2026-06,Manitoba,Job vacancy rate,3.1
-2026-06,Saskatchewan,Job vacancies,16690.0
-2026-06,Saskatchewan,Payroll employees,518065.0
+2026-06,Saskatchewan,Job vacancies,16725.0
+2026-06,Saskatchewan,Payroll employees,518560.0
 2026-06,Saskatchewan,Job vacancy rate,3.1
-2026-06,Alberta,Job vacancies,67350.0
-2026-06,Alberta,Payroll employees,2185635.0
-2026-06,Alberta,Job vacancy rate,3.0
-2026-06,British Columbia,Job vacancies,89310.0
-2026-06,British Columbia,Payroll employees,2463675.0
-2026-06,British Columbia,Job vacancy rate,3.5
+2026-06,Alberta,Job vacancies,66255.0
+2026-06,Alberta,Payroll employees,2185640.0
+2026-06,Alberta,Job vacancy rate,2.9
+2026-06,British Columbia,Job vacancies,86770.0
+2026-06,British Columbia,Payroll employees,2464905.0
+2026-06,British Columbia,Job vacancy rate,3.4
 2026-06,Yukon,Job vacancies,
-2026-06,Yukon,Payroll employees,21540.0
+2026-06,Yukon,Payroll employees,21625.0
 2026-06,Yukon,Job vacancy rate,
-2026-06,Northwest Territories,Job vacancies,
-2026-06,Northwest Territories,Payroll employees,21560.0
-2026-06,Northwest Territories,Job vacancy rate,
+2026-06,Northwest Territories,Job vacancies,915.0
+2026-06,Northwest Territories,Payroll employees,21655.0
+2026-06,Northwest Territories,Job vacancy rate,4.1
 2026-06,Nunavut,Job vacancies,
-2026-06,Nunavut,Payroll employees,18390.0
+2026-06,Nunavut,Payroll employees,18460.0
 2026-06,Nunavut,Job vacancy rate,
+2026-07,Canada,Job vacancies,507750.0
+2026-07,Canada,Payroll employees,17882080.0
+2026-07,Canada,Job vacancy rate,2.8
+2026-07,Newfoundland and Labrador,Job vacancies,4040.0
+2026-07,Newfoundland and Labrador,Payroll employees,215590.0
+2026-07,Newfoundland and Labrador,Job vacancy rate,1.8
+2026-07,Prince Edward Island,Job vacancies,
+2026-07,Prince Edward Island,Payroll employees,77305.0
+2026-07,Prince Edward Island,Job vacancy rate,
+2026-07,Nova Scotia,Job vacancies,12665.0
+2026-07,Nova Scotia,Payroll employees,466625.0
+2026-07,Nova Scotia,Job vacancy rate,2.6
+2026-07,New Brunswick,Job vacancies,10185.0
+2026-07,New Brunswick,Payroll employees,361185.0
+2026-07,New Brunswick,Job vacancy rate,2.7
+2026-07,Quebec,Job vacancies,115960.0
+2026-07,Quebec,Payroll employees,3984015.0
+2026-07,Quebec,Job vacancy rate,2.8
+2026-07,Ontario,Job vacancies,165935.0
+2026-07,Ontario,Payroll employees,6866270.0
+2026-07,Ontario,Job vacancy rate,2.4
+2026-07,Manitoba,Job vacancies,20660.0
+2026-07,Manitoba,Payroll employees,628885.0
+2026-07,Manitoba,Job vacancy rate,3.2
+2026-07,Saskatchewan,Job vacancies,13900.0
+2026-07,Saskatchewan,Payroll employees,534225.0
+2026-07,Saskatchewan,Job vacancy rate,2.5
+2026-07,Alberta,Job vacancies,70860.0
+2026-07,Alberta,Payroll employees,2179305.0
+2026-07,Alberta,Job vacancy rate,3.1
+2026-07,British Columbia,Job vacancies,89545.0
+2026-07,British Columbia,Payroll employees,2506410.0
+2026-07,British Columbia,Job vacancy rate,3.4
+2026-07,Yukon,Job vacancies,985.0
+2026-07,Yukon,Payroll employees,21140.0
+2026-07,Yukon,Job vacancy rate,4.5
+2026-07,Northwest Territories,Job vacancies,1075.0
+2026-07,Northwest Territories,Payroll employees,22360.0
+2026-07,Northwest Territories,Job vacancy rate,4.6
+2026-07,Nunavut,Job vacancies,
+2026-07,Nunavut,Payroll employees,18765.0
+2026-07,Nunavut,Job vacancy rate,
