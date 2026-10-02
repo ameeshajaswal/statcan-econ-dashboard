@@ -1,5 +1,7 @@
-import pandas as pd
 import os
+import pandas as pd
+
+
 os.makedirs("clean", exist_ok=True)
 # ============================================================
 # Labour force: two slices (headline + youth)
@@ -20,7 +22,7 @@ headline.loc[
 headline["SCALAR_FACTOR"].astype(str).str.strip().str.lower().eq("thousands"),
 "VALUE"
 ] *= 1000
- headline = headline.rename(
+headline = headline.rename(
 columns={
 "REF_DATE": "date",
 "GEO": "geography",
@@ -28,7 +30,7 @@ columns={
 "VALUE": "value"
 }
 )
- headline = headline[
+headline = headline[
 ["date", "geography", "indicator", "value"]
 ]
 headline.to_csv(
