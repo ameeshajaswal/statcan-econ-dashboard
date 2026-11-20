@@ -20,9 +20,6 @@ unemployment = df[
 
 # ==========================================
 # Prepare Data for Prophet
-# Prophet requires:
-# ds = date
-# y  = value
 # ==========================================
 
 unemployment = unemployment.rename(
@@ -34,12 +31,10 @@ unemployment = unemployment.rename(
 
 unemployment["ds"] = pd.to_datetime(unemployment["ds"])
 
-# Use recent labour market history
 unemployment = unemployment[
     unemployment["ds"] >= "2018-01-01"
 ]
 
-# Keep required columns only
 unemployment = unemployment[["ds", "y"]]
 
 print("\nLatest Actual Data:")
@@ -70,7 +65,7 @@ future = model.make_future_dataframe(
 forecast = model.predict(future)
 
 # ==========================================
-# Create Output Folder
+# Output Folder
 # ==========================================
 
 output_dir = Path("output")
@@ -93,7 +88,7 @@ forecast[
 )
 
 # ==========================================
-# Save Future Forecast Only
+# Future Forecast Only
 # ==========================================
 
 last_actual = unemployment["ds"].max()
@@ -115,15 +110,21 @@ future_only.to_csv(
 )
 
 # ==========================================
-# Create Combined Actual + Forecast File
-# For Power BI
+# Power BI File
+# Historical + Projected
 # ==========================================
 
 actual = unemployment.copy()
-actual["series"] = "Actual"
-actual.columns = ["date", "value", "series"]
+actual["series"] = "Historical"
+
+actual.columns = [
+    "date",
+    "value",
+    "series"
+]
 
 forecast_series = future_only.copy()
+
 forecast_series = forecast_series.rename(
     columns={
         "ds": "date",
@@ -132,10 +133,13 @@ forecast_series = forecast_series.rename(
 )
 
 forecast_series = forecast_series[
-    ["date", "value"]
+    [
+        "date",
+        "value"
+    ]
 ]
 
-forecast_series["series"] = "Forecast"
+forecast_series["series"] = "Projected"
 
 combined = pd.concat(
     [actual, forecast_series],
@@ -148,39 +152,31 @@ combined.to_csv(
 )
 
 # ==========================================
-# Save Plot
-# ==========================================
+# Forecast Summary
+# Used for KPI Cards
+latest_forecast = future_only.iloc[-1]
 
-fig = model.plot(forecast)
-
-plt.title(
-    "Canada Unemployment Rate Forecast (12 Months)"
+pd.DataFrame({
+    "current_unemployment": [
+        unemployment["y"].iloc[-1]
+    ],
+    "forecast_unemployment": [
+        latest_forecast["yhat"]
+    ],
+    "forecast_date": [
+        latest_forecast["ds"]
+    ]
+}).to_csv(
+    output_dir / "forecast_summary.csv",
+    index=False
 )
-
-plt.xlabel("Date")
-plt.ylabel("Unemployment Rate (%)")
-
-plt.savefig(
-    output_dir / "unemployment_forecast.png",
-    dpi=300,
-    bbox_inches="tight"
-)
-
-plt.close()
-
 # ==========================================
-# Display Forecast Summary
+# Save Forecast Chart
 # ==========================================
-
-print("\nForecast Results:")
-print(
-    future_only[
-        ["ds", "yhat"]
-    ].head(12)
-)
 
 print("\nFiles Created:")
 print("output/unemployment_forecast.csv")
 print("output/unemployment_forecast_all.csv")
 print("output/unemployment_actual_vs_forecast.csv")
+print("output/forecast_summary.csv")
 print("output/unemployment_forecast.png")
