@@ -28,3 +28,16 @@ An automated economic intelligence dashboard built using Statistics Canada APIs,
 - Power BI
 - GitHub Actions
 - Statistics Canada WDS API
+
+## Architecture Diagram
+Statistics Canada API
+          ↓
+     pull_data.py
+          ↓
+     clean_data.py
+          ↓
+generate_forecasts.py
+          ↓
+generate_ai_insights.py
+          ↓
+        Power BI
