@@ -51,3 +51,4 @@ jobs:
           git commit -m "Refresh StatsCan data and forecasts" || echo "No changes to commit"
 
           git push origin main
+
