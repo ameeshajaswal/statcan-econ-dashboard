@@ -38,62 +38,20 @@ change = (
 )
 
 # ==========================================
-# Labour Market Direction
+# Labour Market Trend
 # ==========================================
 
 if change <= -0.30:
 
     labour_market_trend = "strengthening"
 
-    labour_market_assessment = (
-        "labour market conditions are expected to improve gradually"
-    )
-
 elif change >= 0.30:
 
     labour_market_trend = "softening"
 
-    labour_market_assessment = (
-        "labour market conditions are expected to weaken modestly"
-    )
-
 else:
 
     labour_market_trend = "stable"
-
-    labour_market_assessment = (
-        "labour market conditions are expected to remain broadly stable"
-    )
-
-# ==========================================
-# Forecast Statement
-# ==========================================
-
-if abs(change) < 0.1:
-
-    forecast_statement = (
-        "Unemployment is expected to remain near current levels "
-        "over the next 12 months, indicating broadly stable "
-        "labour market conditions."
-    )
-
-elif change > 0:
-
-    forecast_statement = (
-        f"Unemployment is projected to increase from "
-        f"{latest_unemployment:.1f}% to "
-        f"{forecast_unemployment:.1f}% over the next 12 months, "
-        f"indicating softer labour market conditions."
-    )
-
-else:
-
-    forecast_statement = (
-        f"Unemployment is projected to decline from "
-        f"{latest_unemployment:.1f}% to "
-        f"{forecast_unemployment:.1f}% over the next 12 months, "
-        f"indicating improving labour market conditions."
-    )
 
 # ==========================================
 # Risk Classification
@@ -131,50 +89,74 @@ health_index = round(
 )
 
 if health_index >= 70:
-
-    health_status = "Strong"
+    health_status = "strong"
 
 elif health_index >= 50:
-
-    health_status = "Moderate"
+    health_status = "balanced"
 
 elif health_index >= 35:
-
-    health_status = "Softening"
+    health_status = "below target"
 
 else:
-
-    health_status = "Weak"
+    health_status = "weak"
+   
 
 # ==========================================
 # Executive Commentary
 # ==========================================
 
+if labour_market_trend == "strengthening":
+
+    opening = (
+        f"Labour market conditions show early signs of improvement, "
+        f"with unemployment projected to decline from "
+        f"{latest_unemployment:.1f}% to "
+        f"{forecast_unemployment:.1f}% over the next 12 months."
+    )
+
+    closing = (
+        "Overall, the outlook is cautiously optimistic, with "
+        "improving employment prospects and continued monitoring "
+        "of labour market risks."
+    )
+
+elif labour_market_trend == "softening":
+
+    opening = (
+        f"Labour market conditions show signs of softening, "
+        f"with unemployment projected to increase from "
+        f"{latest_unemployment:.1f}% to "
+        f"{forecast_unemployment:.1f}% over the next 12 months."
+    )
+
+    closing = (
+        "Overall, the outlook remains cautious as forecast results "
+        "suggest weaker labour market conditions."
+    )
+
+else:
+
+    opening = (
+        "Labour market conditions remain broadly stable, with "
+        "unemployment expected to remain near current levels over "
+        "the next 12 months."
+    )
+
+    closing = (
+        "Overall, the outlook remains balanced, with labour market "
+        "conditions expected to remain broadly stable."
+    )
+
 insight = f"""
-Current indicators suggest that Canada's labour market remains in a
-{labour_market_trend} phase.
+{opening}
 
-{forecast_statement}
+The Labour Market Health Index stands at {health_index}/100,
+indicating that labour market conditions remain
+{health_status}.
 
-The Labour Market Health Index currently stands at
-{health_index}/100, corresponding to a {health_status.lower()}
-labour market assessment.
-
-Labour market performance remains broadly aligned with historical
-norms, supported by steady workforce participation and resilient
-employment conditions. While hiring activity has moderated relative
-to post-pandemic peaks, available indicators continue to support
-a balanced employment environment.
-
-Current conditions do not indicate broad-based labour market
-deterioration. Employment fundamentals remain stable and labour
-market activity continues to be supported by ongoing workforce demand
-across key sectors of the economy.
-
-Overall, the economic outlook remains balanced, with forecasts
-pointing toward {labour_market_trend} labour market conditions and a
-{risk_level.lower()} level of labour market risk over the medium term.
+{closing}
 """
+
 # ==========================================
 # Save for Power BI
 # ==========================================
