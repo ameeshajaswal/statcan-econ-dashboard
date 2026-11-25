@@ -35,8 +35,14 @@ jobs:
       - name: Generate forecasts
         run: python generate_forecasts.py
 
-      - name: Generate executive insights
+      - name: Generate labour market insights
         run: python generate_ai_insights.py
+
+      - name: Generate wage insights
+        run: python generate_wage_insights.py
+
+      - name: Generate GDP insights
+        run: python generate_gdp_insights.py
 
       - name: Commit and push changes
         run: |
@@ -44,11 +50,13 @@ jobs:
           git config --global user.email "actions@github.com"
 
           git add clean/
+
           git add output/ai_insights.csv
+          git add output/wage_insights.csv
+          git add output/gdp_insights.csv
           git add output/unemployment_actual_vs_forecast.csv
           git add output/forecast_summary.csv
 
-          git commit -m "Refresh StatsCan data and forecasts" || echo "No changes to commit"
+          git commit -m "Refresh StatsCan data and insights" || echo "No changes to commit"
 
           git push origin main
-
